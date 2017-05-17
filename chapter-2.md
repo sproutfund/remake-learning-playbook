@@ -1,4 +1,4 @@
-#Chapter 2: Remaking Learning for a Changing World
+# Chapter 2: Remaking Learning for a Changing World
 
 The world today is more complex and interconnected than ever before. Reading, writing, and arithmetic, while still essential, simply aren’t enough to prepare young people to thrive in the digital age. Communities need to come together to build on the basics and connect students with hands-on learning experiences that cultivate creativity, imagination, and grit. Our global, networked world today calls for new kinds of teaching and learning—and new kinds of problem-solvers.
 
