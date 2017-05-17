@@ -2,7 +2,7 @@
 
 Almost a decade ago \(before the inception of the Remake Learning Network\) we heard again and again from teachers, librarians, museum educators, youth workers, and others a common refrain that was simultaneously expected and yet astonishing: “I’m not connecting with kids the way that I used to.”
 
-This expressed frustration would, of course, have been natural if these educators had been talking about the usual challenges of the generation gap, or the gradual shift in youth culture. After all, generations of adults have voiced worries about “\_kids today\_.” What was astonishing, however, was that these educators were referring to dramatic changes brought about largely by digital media and technology.
+This expressed frustration would, of course, have been natural if these educators had been talking about the usual challenges of the generation gap, or the gradual shift in youth culture. After all, generations of adults have voiced worries about “_kids today_.” What was astonishing, however, was that these educators were referring to dramatic changes brought about largely by digital media and technology.
 
 So we asked ourselves: “What on Earth had happened in such a short period of time to create this disconnect between educators and students?” Digging in to the learning sciences, we found that youth in the digital age are pursuing knowledge differently, developing their identities and interests differently, and seeking support differently. Faced with this new reality, how could we help educators in- and out-of-school connect with today’s youth and develop learning experiences that engage them deeply and equip them with the knowledge and skills relevant to the world in which they now live?
 
