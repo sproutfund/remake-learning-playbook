@@ -1,15 +1,33 @@
 # Summary
 
-* [README](README.md)
+* [About the Playbook](README.md)
 
 * [Chapters](chapters.md)
   * [1. Introduction](chapters/chapter-1-introduction.md)
   * [2. Remaking Learning for a Changing World](chapters/chapter-2-remaking-learning.md)
+  * [Note: Taking Advantage of Connected Learning Opportunities](chapters/note-mimi-ito.md)
   * [3. The Learning Network](chapters/chapter-3-learning-network.md)
+  * [Essay: How Networks Can Transform Learning](chapters/essay-mark-surman.md)
   * [4. Network Support Strategies](chapters/chapter-4-network-support-strategies.md)
   * [5. Lessons Learned](chapters/chapter-5-lessons-learned.md)
   * [6. The Road Ahead](chapters/chapter-6-road-ahead.md)
-  
+
 * [Case Studies](case-studies.md)
   * [Assemble](case-studies/assemble.md)
   * [BirdBrain Technologies](case-studies/birdbrain-technologies.md)
+  * [Carnegie Mellon Univeristy](case-studies/carnegie-mellon-university.md)
+  * [The Children’s Innovation Project](childrens-innovation-project.md)
+  * [City of Learning](city-of-learning.md)
+  * [The Digital Corps](digital-corps.md)
+  * [Elizabeth Forward School District](elizabeth-forward-school-district.md)
+  * [The Labs @ CLP](labs-at-clp.md)
+  * [Maker Parties](maker-parties.md)
+  * [MAKESHOP](makeshop.md)
+  * [transformED](transformed.md)
+
+* [Plays in Detail](plays.md)
+  * [Convene](plays/convene.md)
+  * [Catalyze](plays/catalyze.md)
+  * [Communicate](plays/communicate.md)
+  * [Coordinate](plays/coordinate.md)
+  * [Champion](plays/champion.md)
