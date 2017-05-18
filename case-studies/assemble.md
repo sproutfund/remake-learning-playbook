@@ -1,8 +1,8 @@
 # Assemble: Infusing a Neighborhood with Science and Creativity
 
-![](http://gameplan.remakelearning.org/data/photos/cases/assemble/20120509170806_sized300x200.jpg)
+[![](http://gameplan.remakelearning.org/data/photos/cases/assemble/20120509170806_sized300x200.jpg)](https://vimeo.com/129009793)
 
-
+https://vimeo.com/129009793
 
 _Assemble creates opportunities for young people to make things that inspire and empower._
 
