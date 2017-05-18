@@ -2,9 +2,11 @@
 
 [![](http://gameplan.remakelearning.org/data/photos/cases/assemble/20120509170806_sized300x200.jpg)](https://vimeo.com/129009793)
 
-https://vimeo.com/129009793
+[https://vimeo.com/129009793](https://vimeo.com/129009793)
 
 _Assemble creates opportunities for young people to make things that inspire and empower._
+
+&lt;iframe src="https://player.vimeo.com/video/129009793" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 As school budgets shrink, arts education is increasingly targeted as a place to cut funding. Yet as we prepare young people to join a workforce where creativity, collaboration, and critical thinking are essential to success, experiential learning that emphasizes imagination and design thinking has become more important than ever. Assemble picks up where schools leave off, offering free and open learning opportunities that integrate the arts, technology, and science in ways that blurs traditional boundaries between disciplines.
 
