@@ -2,9 +2,9 @@
 
 [![](http://gameplan.remakelearning.org/data/photos/cases/assemble/20120509170806_sized300x200.jpg)](https://vimeo.com/129009793)
 
-[https://vimeo.com/129009793](https://vimeo.com/129009793)
+{%vimeo 129009793 %}
 
-_Assemble creates opportunities for young people to make things that inspire and empower._
+_Assemble creates opportunities for young people to make things that inspire and empower, like gluten-free pizza._
 
 As school budgets shrink, arts education is increasingly targeted as a place to cut funding. Yet as we prepare young people to join a workforce where creativity, collaboration, and critical thinking are essential to success, experiential learning that emphasizes imagination and design thinking has become more important than ever. Assemble picks up where schools leave off, offering free and open learning opportunities that integrate the arts, technology, and science in ways that blurs traditional boundaries between disciplines.
 
@@ -90,6 +90,3 @@ If you’re interested in learning more about Assemble, contact [Nina Barbuto](h
 * [Manchester Craftsmen’s Guild Youth & Arts](http://mcgyouthandarts.org/): Arts and career training center whose mission is to educate and inspire urban youth through the arts.
 * [Millvale Community Library](http://www.millvalelibrary.org/): A community-serving library that hosts weekly maker nights and other programs to engage and enrich the out-of-school time of Millvale children and youth.
 * [The Pittsburgh Project](http://pittsburghproject.org/): A Christian nonprofit community development organization that hosts service camps, youth development programs, and provides community outreach and services.
-
-
-
