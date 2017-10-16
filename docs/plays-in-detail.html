@@ -1,1 +1,1655 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta content="text/html;charset=UTF-8" http-equiv="content-type" />
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Remake Learning Playbook : Plays in Detail</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap-docs.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap-addXL.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap-blockgrid.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,600,300" rel="stylesheet" type="text/css">
+  <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        /* Navbar */
+        .navbar {
+            margin-bottom: 0;
+        }
+        ul.nav li {
+            font-weight: 600;
+        }
+        .navbar-img a {
+            padding: 0;
+        }
+        @media (max-width:767px) {
+            .navbar-collapse {
+                margin-top: 9px;
+                background-color: #222222;
+            }
+            .navbar-toggle {
+                margin-top: 18px;
+            }
+        }
+        @media (min-width: 768px) {
+                .navbar .navbar-nav {
+                        display: inline-block;
+                        float: none;
+                        vertical-align: top;
+                }
 
+                .navbar .navbar-collapse {
+                        text-align: center;
+                }
+        }
+        .nav-tabs .dropdown-menu {
+            margin-top: 0;
+            border-top: 0;
+            border-color: #dddddd;
+            border-top-right-radius: 5px;
+        }
+
+        /* Utility Classes */
+        .no-gutter {
+            padding-left: 0!important;
+            padding-right: 0!important;
+        }
+        .no-gutter-left {
+            padding-left: 0!important;
+        }
+        .no-gutter-right {
+            padding-right: 0!important;
+        }
+        .no-border {
+            border:0!important;
+        }
+        .no-shadow {
+            -moz-box-shadow: none !important;
+            -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+        }
+        @media (max-width:767px) {
+            .no-gutter-xs {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+        @media (max-width:991px) and (min-width:768px) {
+            .no-gutter-sm {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+        @media (max-width:1199px) and (min-width:992px) {
+            .no-gutter-md {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+        @media (max-width:1599px) and (min-width:1200px) {
+            .no-gutter-lg {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+        @media (min-width:1600px) {
+            .no-gutter-xl {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+        
+        .toc-heading {
+            text-transform: uppercase;
+            font-weight: 300;
+        }
+        p.dropcap:first-letter {
+            float: left; 
+            font-size: 320%; line-height: 100%; padding-top: 0; padding-right: 6px;
+        }
+        
+        .bs-docs-sidebar {
+            padding-left: 0;
+        }
+        
+        .bs-docs-sidebar .nav>.active:focus>a,
+        .bs-docs-sidebar .nav>.active:hover>a,
+        .bs-docs-sidebar .nav>.active>a {
+            font-weight: 600;
+            color: #d14e37;
+            border-left: 2px solid #d14e37;
+        }
+        .bs-docs-sidebar .nav>li>a:focus,
+        .bs-docs-sidebar .nav>li>a:hover {
+            color: #d14e37;
+            border-left: 1px solid #d14e37;
+        }
+        
+        .bs-docs-sidebar .nav {
+            margin-top: 0;
+        }
+
+        /* Shared Page Layout */
+        #content {
+            padding-bottom: 60px;
+        }
+        #footer-funders {
+            background-color: #d4d4d4;
+            padding-top: 20px; 
+            padding-bottom: 20px;
+        }
+        #footer-about-contact {
+            background-color: #ededed; 
+            padding-top: 40px; 
+            padding-bottom: 40px;
+        }
+        #footer-license {
+            padding-top: 5px; 
+            padding-bottom: 10px;
+        }
+        #footer-funders .footer-logo {
+            height: 100px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        
+        .playbook_case-study_more-info ul.list-group {
+            box-shadow: none;
+            margin-top: 20px;
+        }   
+        
+        .playbook_case-study_more-info li.list-group-item {
+            border: 0;
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+        .playbook_case-study_text-author {
+            font-style: italic;
+            text-align: center;
+            display: none;
+        }
+        
+        .playbook_case-studies > article {
+            margin-top: 6rem;
+        }
+
+        .playbook_case-studies > article > header > p.lead {
+            margin-top: 13px;
+        }   
+        
+        @media (min-width:992px) {
+                .playbook_action-button-text {
+                        padding-left: .75rem;
+                }
+        }               
+        @media (min-width:768px) {
+                .playbook_cover {
+                        margin-top: -15px; 
+                        margin-bottom: -15px; 
+                        padding-top: 15px; 
+                        padding-bottom: 15px; 
+                        background-image: url('http://gameplan.remakelearning.org/images/playbook_cover.thumb.jpg'); 
+                        background-size: contain; 
+                        background-repeat: no-repeat; 
+                        background-position: right center;
+                }
+        }
+        
+        .bs-docs-sidenav .toc-extra {
+            display: none;
+        }
+        .bs-docs-sidenav .active .toc-extra {
+            display: inline;
+        }
+
+        @media (min-width:992px) {
+            div[role="main"] {
+                margin-bottom: 50rem;
+            }
+        }
+        
+        form .anchorjs-link {
+            display: none;
+        }
+            
+        
+  </style>
+  <link href="images/touch-icons/touch-icon-iphone.png" rel="apple-touch-icon" sizes="57x57">
+  <link href="images/touch-icons/touch-icon-ipad.png" rel="apple-touch-icon" sizes="76x76">
+  <link href="images/touch-icons/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120">
+  <link href="images/touch-icons/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152">
+  <link href="images/touch-icons/touch-icon-iphone-6-plus.png" rel="apple-touch-icon" sizes="180x180">
+  <link href="favicon.ico" rel="icon">
+</head>
+<body>
+  <section class="container-fluid bs-docs-header no-gutter" id="masthead" style="background-color: rgb(209,78,55); background-image: linear-gradient(rgb(209,78,55) 0px, rgb(184,68,48) 100%);" tabindex="-1">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-lg-offset-1 col-xl-8 col-xl-offset-2">
+      <div class="row playbook_cover">
+        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-10">
+          <h1 style="margin-right: 0;">Remake Learning<br>
+          Playbook</h1>
+          <p style="color: white; margin-right: 0;">A field guide of ideas and resources for building innovation<br class="hidden-xs hidden-sm">
+          networks for teaching and learning created by The Sprout Fund</p>
+          <div class="btn-group" role="group" style="margin-top: 2rem;">
+            <div class="btn-group">
+              <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"><i class="fa fa-download hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="visible-xs-inline">Playbook</span><span class="hidden-xs"><span class="hidden-sm">Free</span> Downloads</span></span><span class="caret" style="margin-left: .25rem;"></span></button>
+              <ul class="dropdown-menu" role="menu">
+                <li class="visible-xs-block">
+                  <a href="#order-form">Order Print Edition</a>
+                </li>
+                <li class="visible-xs-block">
+                  <a href="http://www.amazon.com/gp/product/B0176NQYTY" target="_blank">Order Kindle Edition</a>
+                </li>
+                <li class="divider visible-xs-block" role="separator"></li>
+                <li>
+                  <a href="http://downloads.sproutfund.org/playbook/remake-learning-playbook-20151022.pdf" target="_blank"><i class="fa fa-fw fa-file-pdf-o hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="visible-xs-inline">Download</span> PDF <span class="hidden-xs">(5.8 <abbr class="initialism" title="megabytes">MB</abbr>)</span></span></a>
+                </li>
+                <li>
+                  <a href="http://downloads.sproutfund.org/playbook/remake-learning-playbook-20151026.epub" target="_blank"><i class="fa fa-fw fa-book hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="visible-xs-inline">Download</span> iBooks ePub <span class="hidden-xs">(487 <abbr class="initialism" title="kilobytes">KB</abbr>)</span></span></a>
+                </li>
+                <li>
+                  <a href="http://downloads.sproutfund.org/playbook/remake-learning-playbook-20151026.mobi" target="_blank"><i class="fa fa-fw fa-book hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="visible-xs-inline">Download</span> Kindle mobi <span class="hidden-xs">(544 <abbr class="initialism" title="kilobytes">KB</abbr>)</span></span></a>
+                </li>
+                <li class="divider" role="separator"></li>
+                <li>
+                  <a href="http://downloads.sproutfund.org/playbook/advocacy-kit_generic.zip" target="_blank"><i class="fa fa-fw fa-file-image-o hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="visible-xs-inline">Download</span> Advocacy Kit <span class="hidden-xs">(zipped, 6.3 <abbr class="initialism" title="megabytes">MB</abbr>)</span></span></a>
+                </li>
+              </ul>
+            </div><div class="btn-group hidden-xs">
+              <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"><i class="fa fa-shopping-cart hidden-xs hidden-sm"></i><span class="playbook_action-button-text">Order Copy</span><span class="caret" style="margin-left: .25rem;"></span></button>
+              <ul class="dropdown-menu" role="menu">
+                <li>
+                  <a href="#order-form"><i class="fa fa-fw fa-book hidden-xs hidden-sm"></i><span class="playbook_action-button-text">Print Edition</span></a>
+                </li>
+                <li>
+                  <a href="http://www.amazon.com/gp/product/B0176NQYTY" target="_blank"><i class="fa fa-fw fa-amazon hidden-xs hidden-sm"></i><span class="playbook_action-button-text">Kindle Edition</span></a>
+                </li>
+              </ul>
+            </div><a class="btn btn-default" href="http://gameplan.remakelearning.org/" role="button" target="_blank" type="button"><img class="hidden-xs hidden-sm" src="images/gameplan_button-icon.svg" style="height: 15px; margin-top:-3px;"><span class="playbook_action-button-text"><span class="hidden-xs">Create</span> Gameplan</span></a><!--<button class="btn btn-default" data-target="#subscribe-modal" data-toggle="modal" type="button"><i class="fa fa-envelope hidden-xs hidden-sm"></i><span class="playbook_action-button-text"><span class="hidden-xs">Subscribe to</span> Updates</span></button>-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--<div aria-labelledby="Subscribe" class="modal" id="subscribe-modal" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true" class="fa fa-times" style="font-style: italic"></span></button>
+          <h4 class="modal-title" id="Subscribe">Subscribe to Remake Learning Updates</h4>
+        </div>
+        <div class="modal-body">
+          <p>Join the Remake Learning email distribution list!</p>
+          <form action="http://remakelearning.us16.list-manage.com/subscribe/post?u=c13118f7e92d11201e20cc098&amp;id=421d4fc974" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="true" target="_blank">
+            <div class="form-group">
+              <label class="sr-only sr-only-focusable" for="mce-EMAIL">Email Address<span class="text-danger">*</span></label><input class="form-control" id="mce-EMAIL" name="EMAIL" placeholder="Email Address (required)" required="true" type="email">
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <div class="form-group">
+                  <label class="sr-only sr-only-focusable" for="mce-FNAME">First Name</label><input class="form-control" id="mce-FNAME" name="FNAME" placeholder="First Name" type="text">
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6">
+                <div class="form-group">
+                  <label class="sr-only sr-only-focusable" for="mce-LNAME">Last Name</label><input class="form-control" id="mce-LNAME" name="LNAME" placeholder="Last Name" type="text">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <div class="form-group">
+                  <label class="sr-only sr-only-focusable" for="mce-ORG">Organization/Affiliation</label><input class="form-control" id="mce-ORG" name="ORG" placeholder="Organization/Affiliation" type="text">
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6">
+                <div class="form-group">
+                  <label class="sr-only sr-only-focusable" for="mce-MMERGE9">Region/Location/Hometown</label><input class="form-control" id="mce-MMERGE9" name="MMERGE9" placeholder="Region/Location/Hometown" type="text">
+                </div>
+              </div>
+            </div>
+            <div class="clearfix" id="mce-responses">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div style="position: absolute; left: -5000px;">
+              <input name="b_d88590060b35162f56ec6156c_bdb42114c1" tabindex="-1" type="text" value=""><input checked id="mce-group[14769]-14769-7" name="group[14769][2048]" style="display: none;" type="checkbox" value="2048">
+            </div>
+            <div class="clearfix">
+              <input class="btn btn-default" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe">
+            </div>
+          </form>
+          <script src="http://downloads.mailchimp.com/js/mc-validate.js" type="text/javascript">
+          </script>
+          <script type="text/javascript">
+          (function($) {window.fnames = new Array(); window.ftypes = new Array(); fnames[0]='EMAIL'; ftypes[0]='email'; fnames[1]='FNAME'; ftypes[1]='text'; fnames[2]='LNAME'; ftypes[2]='text'; fnames[3]='ORG'; ftypes[3]='text'; fnames[4]='MMERGE9'; ftypes[4]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>-->
+  <section class="container-fluid no-gutter" id="share-addtoany">
+    <div class="visible-xs-block a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" data-a2a-title="Remake Learning Playbook Plays in Detail" data-a2a-url="http://remakelearning.org/playbook/plays-in-detail/" style="right:0px; bottom:0px;">
+      <a class="a2a_dd" href="https://www.addtoany.com/share" title="Share"></a>
+    </div>
+    <div class="hidden-xs a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" data-a2a-title="Remake Learning Playbook Plays in Detail" data-a2a-url="http://remakelearning.org/playbook/plays-in-detail/" style="right:0px; bottom:0px;">
+      <a class="a2a_button_twitter hidden-sm hidden-md"></a><a class="a2a_button_linkedin hidden-sm hidden-md"></a><a class="a2a_button_facebook hidden-sm hidden-md"></a><a class="a2a_button_email hidden-sm hidden-md"></a><a class="a2a_dd" href="https://www.addtoany.com/share" title="Share"></a>
+    </div>
+    <script src="http://static.addtoany.com/menu/page.js" type="text/javascript">
+    </script>
+  </section>
+  <section class="container-fluid bs-docs-container" id="content">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-lg-offset-1 col-xl-8 col-xl-offset-2">
+      <div class="row">
+        <div class="hidden-xs hidden-sm col-md-3" role="complementary">
+          <nav class="bs-docs-sidebar hidden-print">
+            <ul class="nav bs-docs-sidenav">
+              <li>
+                <a href="#about"><span class="toc-heading" style="font-weight: 600;">About the Playbook</span></a>
+              </li>
+              <li>
+                <a href="index.html#chapters"><span class="toc-heading" style="font-weight: 600;">Playbook Chapters</span></a>
+              </li>
+              <li>
+                <a href="case-studies.html#case-studies"><span class="toc-heading" style="font-weight: 600;">Case Studies</span></a>
+              </li>
+              <li style="padding-top: 14px;">
+                <a href="#plays-in-detail"><span class="toc-heading" style="font-weight: 600;">Plays in Detail</span></a>
+              </li>
+              <li>
+                <a href="#convene">Convene</a>
+                <ul class="nav">
+                  <li>
+                    <a href="#convene-small-groups">Small Groups</a>
+                  </li>
+                  <li>
+                    <a href="#convene-lunch-and-learns">Lunch &amp; Learns</a>
+                  </li>
+                  <li>
+                    <a href="#convene-professional-development">Professional Development</a>
+                  </li>
+                  <li>
+                    <a href="#convene-occasional-large-events">Network Engagement Events</a>
+                  </li>
+                  <li>
+                    <a href="#convene-annual-conferences">Annual Conferences</a>
+                  </li>
+                  <li>
+                    <a href="#convene-external-speakers">External Speakers</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#catalyze">Catalyze</a>
+                <ul class="nav">
+                  <li>
+                    <a href="#catalyze-catalytic-grants">Catalytic Grants</a>
+                  </li>
+                  <li>
+                    <a href="#catalyze-project-assistance">Project Assistance</a>
+                  </li>
+                  <li>
+                    <a href="#catalyze-fellowships">Research Fellows</a>
+                  </li>
+                  <li>
+                    <a href="#catalyze-rfps">Request for Proposals</a>
+                  </li>
+                  <li>
+                    <a href="#catalyze-incubate-ventures">Incubate Ventures</a>
+                  </li>
+                  <li>
+                    <a href="#catalyze-national-funding-support">National Funding Support</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#communicate">Communicate</a>
+                <ul class="nav">
+                  <li>
+                    <a href="#communicate-blog">Blog</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-social-media">Social Media</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-conference-presentations">Conference Participation</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-directory">Directory</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-youth-voice">Amplify Youth Voice</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-newsletter">Newsletter</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-documentation-storytelling">Documentation &amp; Storytelling</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-press-outreach">Press Outreach</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-publications">Publications</a>
+                  </li>
+                  <li>
+                    <a href="#communicate-local-to-national">From Local to National</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#coordinate">Coordinate</a>
+                <ul class="nav">
+                  <li>
+                    <a href="#coordinate-program-cooperation">Program Cooperation</a>
+                  </li>
+                  <li>
+                    <a href="#coordinate-national-to-local">From National to Local</a>
+                  </li>
+                  <li>
+                    <a href="#coordinate-strategy">Network Strategy</a>
+                  </li>
+                  <li>
+                    <a href="#coordinate-research">Network Research</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#champion">Champion</a>
+                <ul class="nav">
+                  <li>
+                    <a href="#champion-showcase">Showcase</a>
+                  </li>
+                  <li>
+                    <a href="#champion-event-sponsorship">Event Sponsorship</a>
+                  </li>
+                  <li>
+                    <a href="#champion-awards">Awards</a>
+                  </li>
+                  <li>
+                    <a href="#champion-advertising-marketing">Advertising &amp; Marketing</a>
+                  </li>
+                  <li>
+                    <a href="#champion-network-gatherings">Network Gatherings</a>
+                  </li>
+                </ul>
+              </li>
+              <li style="padding-top: 14px;">
+                <a href="index.html#additional-resources"><span class="toc-heading" style="font-weight: 600;">Additional Resources</span></a>
+              </li>
+              <li style="padding-top: 14px;">
+                <a href="index.html#acknowledgements">Acknowledgements</a>
+              </li>
+              <li>
+                <a href="#order-form">Order Free Copy</a>
+              </li>
+              <li>
+                <a href="#license">License</a>
+              </li>
+              <li>
+                <a href="#contact-us-about-the-playbook">Contact</a>
+              </li>
+            </ul><a class="back-to-top" href="#top">Back to top</a>
+          </nav>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-9" role="main">
+          <section class="bs-docs-section playbook_about clearfix" id="about">
+            <article class="bs-docs-section playbook_chapter clearfix" id="about">
+              <p class="lead">The Remake Learning Playbook is an ambitious project to open source the project code for learning innovation ecosystems.</p>
+              <p>Created by <a href="http://www.sproutfund.org/" target="_blank">The Sprout Fund</a> as a digital &amp; tangible product, the Playbook documents the process and outcomes of both the Pittsburgh region&rsquo;s efforts to create a community-wide learning innovation network, and specific projects the network has catalyzed.</p>
+              <p>The Playbook captures the spirit and substance of the <a href="http://remakelearning.org/network" target="_blank">Remake Learning Network</a> in action. It covers the theory and practice of building learning innovation networks, the resources and strategies required to put networks into action, and the impact of the network in schools, museums, libraries, communities, and more.</p>
+            </article>
+          </section>
+          <section class="bs-docs-section playbook_chapters clearfix" id="chapters">
+            <header>
+              <h1 class="page-header" id="chapters">Playbook Chapters</h1>
+            </header>
+            <p class="toc-print" id="toc-print-welcome-letter"><a href="index.html#welcome-letter"><span class="toc-heading">Welcome Letter</span> <em>from Pittsburgh Mayor William Peduto &amp; Bill Strickland</em></a></p>
+            <p class="toc-print" id="toc-print-chapter-1-introduction"><a href="index.html#chapter-1-introduction"><span class="toc-heading">Chapter 1</span> : Introduction <em>by Gregg Behr &amp; Dr. Lynne Schrum</em></a></p>
+            <p class="toc-print" id="toc-print-chapter-2-remaking-learing-for-a-changing-world"><a href="index.html#chapter-2-remaking-learing-for-a-changing-world"><span class="toc-heading">Chapter 2</span> : Remaking Learning for a Changing World</a></p>
+            <p class="toc-print" id="toc-print-note-taking-advantage-of-connected-learning-opportunities"><a href="index.html#note-taking-advantage-of-connected-learning-opportunities"><span class="toc-heading">Note</span> : Taking Advantage of Connected Learning Opportunities <em>by Mimi Ito</em></a></p>
+            <p class="toc-print" id="toc-print-chapter-3-the-learning-network"><a href="index.html#chapter-3-the-learning-network"><span class="toc-heading">Chapter 3</span> : The Learning Network</a></p>
+            <ul class="fa-ul">
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#learning-environments">Learning Environments</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#innovation-research-development">Innovation Research &amp; Development</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#learning-scholarship-advocacy">Learning Scholarship &amp; Advocacy</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#commercial-entrepreneurial-engagement">Commercial &amp; Entreprenurial Engagement</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#strategic-stewardship">Strategic Stewardship</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#regional-strengths-priorities">Regional Strengths and Priorities</a>
+              </li>
+            </ul>
+            <p></p>
+            <p class="toc-print" id="toc-print-essay-how-networks-can-transform-learning"><a href="index.html#essay-how-networks-can-transform-learning"><span class="toc-heading">Essay</span> : How Networks Can Transform Learning <em>by Mark Surman</em></a></p>
+            <p class="toc-print" id="toc-print-chapter-4-network-support-strategies"><a href="index.html#chapter-4-network-support-strategies"><span class="toc-heading">Chapter 4</span> : Network Support Strategies</a></p>
+            <ul class="fa-ul">
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#convene">Convene</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#catalyze">Catalyze</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#communicate">Communicate</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#coordinate">Coordinate</a>
+              </li>
+              <li>
+                <i class="fa-li fa fa-caret-right"></i><a href="index.html#champion">Champion</a>
+              </li>
+            </ul>
+            <p></p>
+            <p class="toc-print" id="toc-print-chapter-5-lessons-learned"><a href="index.html#chapter-5-lessons-learned"><span class="toc-heading">Chapter 5</span> : Lessons Learned</a></p>
+            <p class="toc-print" id="toc-print-chapter-6-the-road-ahead"><a href="index.html#chapter-6-the-road-ahead"><span class="toc-heading">Chapter 6</span> : The Road Ahead</a></p>
+          </section>
+          <section class="bs-docs-section playbook_case-studies clearfix" id="case-studies">
+            <div class="bs-docs-section">
+              <header>
+                <h1 class="page-header" id="case-studies">Case Studies</h1>
+              </header>
+              <p>These are case studies of <em>learning remade</em> in Pittsburgh. We invite you to explore the innovation enabled by the <a href="http://remakelearning.org/network">Remake Learning Network</a> in several educational contexts:</p>
+              <div class="block-grid-xs-1 block-grid-sm-2 block-grid-md-3 block-grid-lg-3">
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#assemble"><img class="img-responsive" data-src="images/cases/assemble/20120509170806_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>In Neighborhoods</em></p>
+                      <p><strong>Assemble</strong> creates art and technology opportunities for young people to make things that inspire and empower.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#birdbrain-technologies"><img class="img-responsive" data-src="images/cases/birdbrain-technologies/20140610163028_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>With Ed-Tech</em></p>
+                      <p><strong>BirdBrain Technologies</strong> creates affordable robotics tools that help teachers make coding and computer science accessible.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#carnegie-mellon-university"><img class="img-responsive" data-src="images/cases/carnegie-mellon-university/NODATE0002_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>In Higher Education</em></p>
+                      <p><strong>Carnegie Mellon</strong> connects university students and researchers to the communities they serve.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#childrens-innovation-project"><img class="img-responsive" data-src="images/cases/childrens-innovation-project/20120203152759_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>By School Teachers</em></p>
+                      <p><strong>The Children&rsquo;s Innovation Project</strong> helps children to develop habits of mind as innovators.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#city-of-learning"><img class="img-responsive" data-src="images/cases/city-of-learning/20140717083315_0001_300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>With Digital Badges</em></p>
+                      <p>Dozens of community partners helped Pittsburgh become a summertime <strong>City of Learning</strong>.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#digital-corps"><img class="img-responsive" data-src="images/cases/digital-corps/20140505170101_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>With Mentors</em></p>
+                      <p><strong>The Digital Corps</strong> are technology guides who engage Pittsburgh youth in digital literacy.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#elizabeth-forward-school-district"><img class="img-responsive" data-src="images/cases/elizabeth-forward-school-district/NODATE0006_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>By District Administrators</em></p>
+                      <p><strong>Elizabeth Forward</strong> empowers educators and students to re-imagine the future of education and then make it a reality.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#labs-at-clp"><img class="img-responsive" data-src="images/cases/labs-at-clp/NODATE0003_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>In Libraries</em></p>
+                      <p><strong>The Labs</strong> is transforming the Carnegie Library of Pittsburgh into a laboratory of exploration, learning, and discovery.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#maker-party"><img class="img-responsive" data-src="images/cases/maker-party/NODATE0009_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>At Events</em></p>
+                      <p><strong>Maker Parties</strong> create free events for anyone to engage with hands-on learning activities that are fun and creative.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#makeshop"><img class="img-responsive" data-src="images/cases/makeshop/20120116133642_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>In Museums</em></p>
+                      <p><strong>MAKESHOP</strong> at the Children&rsquo;s Museum of Pittsburgh creates space for kids to use their hands and minds to bring ideas to life.</p>
+                    </div>
+                  </div></a>
+                </div>
+                <div class="block-grid-item">
+                  <a class="thumbnail" href="case-studies.html#transformed"><img class="img-responsive" data-src="images/cases/transformed/NODATE0012_sized300x200.jpg">
+                  <div class="caption">
+                    <div class="caption-inner">
+                      <p><em>In Professional Development</em></p>
+                      <p><strong>transformED</strong> reimagines the look, feel, and purpose of professional development for teachers.</p>
+                    </div>
+                  </div></a>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="bs-docs-section playbook_plays-in-detail clearfix" id="plays-in-detail">
+            <div class="bs-docs-section">
+              <header>
+                <h1 class="page-header" id="plays-in-detail">Plays in Detail</h1>
+              </header>
+              <p>These are details on the plays of the <a href="http://remakelearning.org/network">Remake Learning Network</a>. These network support strategies have been organized into five action areas:</p>
+              <ul>
+                <li>
+                  <a href="index.html#convene">Convene</a> a community of practice;
+                </li>
+                <li>
+                  <a href="index.html#catalyze">Catalyze</a> innovative learning projects;
+                </li>
+                <li>
+                  <a href="index.html#communicate">Communicate</a> within and outside the network;
+                </li>
+                <li>
+                  <a href="index.html#coordinate">Coordinate</a> network members to maximize impact; and,
+                </li>
+                <li>
+                  <a href="index.html#champion">Champion</a> the network&rsquo;s accomplishments.
+                </li>
+              </ul>
+            </div><!--convene-->
+            <article class="bs-docs-section playbook_plays-in-detail clearfix" id="convene">
+              <header>
+                <h1 class="page-header" id="convene">Convene</h1>
+                <p class="lead">Bring together a diverse cross-section of your community, organize them around a shared vision, and keep them engaged with ongoing opportunities to grow professionally and participate in the creation of a community of practice.</p>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    Thinking Questions
+                  </div>
+                  <div class="panel-body">
+                    <p><strong>Goals</strong>: What are your overall goals for convening your network?</p>
+                    <p><strong>Call to Action</strong>: What is the call to action for convening? Why should people want to convene at all? What will the network offer people that they do not currently have?</p>
+                    <p><strong>Challenge &amp; Opportunity</strong>: What challenge or opportunity will bring people together? Does your community have a particular specialty or focus area to rally people around?</p>
+                    <p><strong>Current Status</strong>: Are you seeking to formalize a body of professionals already working together informally? Expanding participation by bringing new people into the network? Starting from scratch?</p>
+                    <p><strong>Breaking Down Silos</strong>: How will your convening strategies generate opportunities for cross-sector collaboration among the potential network partners you&rsquo;ve already identified?</p>
+                    <p><strong>Lead</strong>: Who will take the overall lead in convening your network?</p>
+                  </div>
+                </div>
+              </header>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Small Groups" class="img-responsive" src="images/play_icons/convene_small-groups.png" style="background-color: rgb(209, 78, 55);" title="Small Groups"></div>
+                </div>
+                <h2 id="convene-small-groups">Small Groups</h2>
+                <p>Host open and informal meetings for small groups of network members with shared interests to provide ongoing opportunities for network members to meet, share, and collaborate, whether in face-to-face meetups or through online webinars and hangouts.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose a topic</strong>: Decide what you will bring people together to speak about&mdash;the formation of the network itself or a particular approach to learning that the network can implement.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a date, time, and location</strong>: Get the basics of an invitation together by choosing a date 4-6 weeks in the future and securing a meeting space. Even a caf&eacute; or diner can work as a starting point. Also think about how frequent these convenings should be.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create an invite list</strong>: Identify people you want to bring together, being mindful of their interests, availability, and potential contribution to the network. To start, aim for 10-16 invitees, anticipating 8-12 actual attendees.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Prep the discussion</strong>: Include a general outline of the meeting agenda with your invitation and encourage participants to add their own discussion items or come with materials to share.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document the meeting</strong>: Ask for a group member to serve as temporary secretary, taking meeting notes and keeping track of what group members are asked to do and what commitments they make.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Share out</strong>: Following the meeting, revise and publish your notes, along with any images (drawn or photographed) that illustrate what the group talked about and sharing any specific calls-to-action.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Lunch &amp; Learns" class="img-responsive" src="images/play_icons/convene_lunch-and-learns.png" style="background-color: rgb(209, 78, 55);" title="Lunch &amp; Learns"></div>
+                </div>
+                <h2 id="convene-lunch-and-learns">Lunch &amp; Learns</h2>
+                <p>Create opportunities for network members to share their expertise and demonstrate their work for other network members by hosting daytime lunch-and-learn events or evening happy hour gatherings where attendees can learn from one another and consider how they may take advantage of ideas, practices, and upcoming opportunities.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Invite a speaker</strong>: Identify someone from your network or a visitor to your community who has an interesting perspective on learning, a new project or product they&rsquo;d like to present on, or a conversation they&rsquo;d like to start.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a date, time, and location</strong>: Get the basics of an invitation together by choosing a date 4-6 weeks in the future and securing a meeting space.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Order food</strong>: Simple boxed lunches, a selection of wraps, or a build-your-own burrito spread are all affordable options to feed a small group.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Advertise</strong>: Get the word out through your newsletter and social media accounts. Ask the venue to add the event to their calendar, and provide the speaker with content to share with his or her professional contacts.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Prep the discussion</strong>: Ask the presenter to share a general outline of their presentation in advance and develop some discussion questions you can have ready for the Q &amp; A portion of the lunch and learn.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Create a record of the event that you can share with network members who aren&rsquo;t able to make it. If the event is the first of its kind, consider inviting the press as well.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Professional Development" class="img-responsive" src="images/play_icons/convene_professional-development.png" style="background-color: rgb(209, 78, 55);" title="Professional Development"></div>
+                </div>
+                <h2 id="convene-professional-development">Professional Development</h2>
+                <p>Offer professional development sessions and continuing education credits to educators and other professionals seeking to incorporate new and innovative teaching methods into their practice, or partner with established professional development agencies to offer credit at network events and activities so that more educators find valuable professional opportunities at network events.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Find a partner</strong>: Identify a school or support agency in your community who can provide continuing education credits and reach out to them to begin planning.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan your session</strong>: Work with an innovative educator in your network to develop a workshop session that turns their innovative approach into a training session, or search for such resources on the web.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Reach out to educators</strong>: Share information about the session with school administrators and others who can contact educators directly and invite them to participate.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Incentivize participation</strong>: If possible, dedicate a small amount of follow-on funding to support educators interested in putting their new knowledge into practice through a pilot project.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Work with professional development providers to turn the session into a resource kit you can make available to even more educators.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Offer continuing support</strong>: Gather external resources or prepare your own materials for educators to use as an ongoing reference. Keep in touch with educators after they leave the session and support their progress as they implement ideas in their classroom.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Network Engagement Events" class="img-responsive" src="images/play_icons/convene_occasional-large-events.png" style="background-color: rgb(209, 78, 55);" title="Network Engagement Events"></div>
+                </div>
+                <h2 id="convene-occasional-large-events">Network Engagement Events</h2>
+                <p>Invite all network members to gather for important occasional events where members can establish relationships, focus their attention on issues and opportunities of critical importance, collaborate directly in facilitated discussions, reflect on past accomplishments and look ahead to potential future opportunities.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set your goals for the event</strong>: Identify your audience and determine what you want them to learn and/or do as a result of participating in the event. This will guide the rest of your decisions. Keep the goals few and simple.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a date, time, and location</strong>: Get the basics of an invitation together by choosing a date 12-16 weeks in the future and securing a meeting space.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan the program &amp; build a budget</strong>: Decide the format of your event, sketch out a floor plan, draft a basic agenda, and create a run-of-show. Tabulate your anticipated expenses for the venue rental, food and refreshments, event logistics, and any speaker or programming costs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Save the date</strong>: Once you&rsquo;ve confirmed the basics, send a save the date no more than 10 weeks in advance. Send a real invitation with registration details at least 6 weeks prior to the event.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Facilitate new ideas</strong>: Use discussion techniques like human-centered design to engage event participants in productive conversations. Start with a topic, theme, or challenge, and guide them through collaborative activities that generate new ideas.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Create a record of the event that you can share with network members who aren&rsquo;t able to make it. If the event is the first of its kind, consider inviting the press as well.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Annual Conferences" class="img-responsive" src="images/play_icons/convene_annual-conferences.png" style="background-color: rgb(209, 78, 55);" title="Annual Conferences"></div>
+                </div>
+                <h2 id="convene-annual-conferences">Annual Conferences</h2>
+                <p>Host or partner on annual events for specific groups of network members such as education technology conferences for entrepreneurs and commercial partners, academic summits for researchers and scholars, and professional development events for out-of-school educators or early childhood education specialists.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set your goals for the event</strong>: Identify your audience and determine what you want them to learn and/or do as a result of participating in the event. This will guide the rest of your decisions. Keep the goals few and simple.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a date, time, and location</strong>: Get the basics of an invitation together by choosing a date at least six months in the future and securing a meeting space.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Invite participants</strong>: Identify speakers and exhibitors, invite them to participate, and find out their technical, space, and media needs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan the program &amp; build a budget</strong>: Decide the format of your event, sketch out a floor plan, draft a basic agenda, and create a run-of-show. Tabulate your anticipated expenses for the venue rental, food and refreshments, event logistics, and any speaker or programming costs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Save the date</strong>: Once you&rsquo;ve confirmed the basics, send a save the date no more than 16 weeks in advance. Send a real invitation with registration details at least 12 weeks prior to the event.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Create a record of the event that you can share with network members who aren&rsquo;t able to make it. If the event is the first of its kind, consider inviting the press as well.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="External Speakers" class="img-responsive" src="images/play_icons/convene_external-speakers.png" style="background-color: rgb(209, 78, 55);" title="External Speakers"></div>
+                </div>
+                <h2 id="convene-external-speakers">External Speakers</h2>
+                <p>Invite thought leaders to visit your community and speak to network members as a means of importing knowledge and creating opportunities for partnership and collaboration with other regions also working to remake learning.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set your goals for the event</strong>: Identify your audience and determine what you want them to learn and how they will use this new knowledge in their practice. This will guide the rest of your decisions. Keep the goals few and simple.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Invite and secure a speaker</strong>: Survey the national landscape of writers, speakers, and leaders you pay attention to and can get in touch with. Find the speaker&rsquo;s appropriate contact, which might be a speakers&rsquo; bureau or manager, and reach out with a formal invitation to speak to your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Secure a venue</strong>: Based on the dates of your speaker&rsquo;s availability and intended audience, rent or borrow a venue that will accommodate your anticipated attendance and provide the requisite audio-visual capabilities to meet the speaker&rsquo;s needs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Save the date</strong>: Once you&rsquo;ve confirmed the basics, send a save the date no more than 10 weeks in advance. Send a real invitation with registration details at least 6 weeks prior to the event.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Create a record of the event that you can share with network members who aren&rsquo;t able to make it. If the event is the first of its kind, consider inviting the press as well.</li>
+                </ul>
+              </section>
+            </article><!--catalyze-->
+            <article class="bs-docs-section playbook_plays-in-detail clearfix" id="catalyze">
+              <header>
+                <h1 class="page-header" id="catalyze">Catalyze</h1>
+                <p class="lead">Empower network members to put their ideas into action by providing financial support for new initiatives and programs that directly impact children and youth, and create proof points for why learning innovation matters.</p>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    Thinking Questions
+                  </div>
+                  <div class="panel-body">
+                    <p><strong>Goals</strong>: What are your goals for catalyzing innovation? Are you starting from scratch or are there already early-stage projects or promising new initiatives that can grow into exemplary projects?</p>
+                    <p><strong>Greatest Need</strong>: Where would funding have the greatest impact in your community? In support of educators to deliver innovative instruction? In the creation of new and innovative learning programs? In research initiatives? In the development of new ventures and enterprises?</p>
+                    <p><strong>Funding Focus</strong>: Where do you want to catalyze innovation? Is there a specific topic area or approach to learning that your community is focused on?</p>
+                    <p><strong>Beyond Dollars</strong>: What kinds of non-financial assistance do your network members need? Are they struggling to find partners? Do they need technical support or professional development?</p>
+                    <p><strong>Lead</strong>: Who will take the overall lead in catalyzing innovation in your network?</p>
+                  </div>
+                </div>
+              </header>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Catalytic Grants" class="img-responsive" src="images/play_icons/catalyze_catalytic-grants.png" style="background-color: rgb( 57, 150, 207);" title="Catalytic Grants"></div>
+                </div>
+                <h2 id="catalyze-catalytic-grants">Catalytic Grants</h2>
+                <p>Offer small-scale funding awards to catalyze new and innovative learning programs and projects both in-school and out-of-school so that network members have the support necessary to put their ideas into action through pilot programs, design partnerships, and product prototypes that educators and students can use to explore new ways of teaching and learning.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Establish a framework</strong>: Write down the characteristics of the kinds of projects you seek to support, specifying the size, age, background, and geographic bounds of target audiences, the topic or content area the grants will focus on, and any requirements critical to success.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Determine the size and quantity of grants you seek to make. Projects can be catalyzed for as little as $5,000 and are most effective when they contribute to a critical mass of activity. Aim to make at least 3-5 projects in your first round.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build an application</strong>: Draft a grant application form that includes questions that help you determine if an applicant fits within your established framework.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit decisionmakers</strong>: Seat a committee of volunteers from your network who are unlikely to apply for a grant and can make objective funding decisions based on the network&rsquo;s funding goals and grantmaking criteria.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Support all applicants</strong>: Provide ongoing project assistance to funded project teams to ensure their success. Provide follow up advice to denied applicants to help them improve their application or partner with other network members.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Project Assistance" class="img-responsive" src="images/play_icons/catalyze_project-assistance.png" style="background-color: rgb( 57, 150, 207);" title="Project Assistance"></div>
+                </div>
+                <h2 id="catalyze-project-assistance">Project Assistance</h2>
+                <p>Provide value-added services to support the professional and leadership development of network members by connecting them with experienced mentors, equipping them with toolkits and guides, and partnering unincorporated groups with fiscal sponsors.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Survey the network</strong>: Use a simple online survey tool to find out what your network members need most. Provide them with both suggested services, as well as space to write in their own ideas.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Gather and share resources</strong>: Based on survey responses, compile a list of local support organizations and online resources you can make available to your network and outline their service offerings.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit resource partners</strong>: If there are local agencies interested and available to provide project assistance services to your network, reach out to them and begin a partnership. Determine a mutually beneficial arrangement.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Share with network</strong>: Publish your list of available resources to your website and host a series of small info sessions to introduce network members to the new services available to them.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Engage network members</strong>: Meet face-to-face with network members, host a meeting or webinar, or present at a resource fair where you can introduce your menu of network supports to your target audiences.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Research Fellows" class="img-responsive" src="images/play_icons/catalyze_fellowships.png" style="background-color: rgb( 57, 150, 207);" title="Research Fellows"></div>
+                </div>
+                <h2 id="catalyze-fellowships">Research Fellows</h2>
+                <p>Provide research fellowships to invest in local thought leaders including researchers, scholars and practitioners who can partner with other network members to study learning innovation in practice, evaluate the effectiveness of programs, and provide informed guidance in the design or re-design of programs.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build your research capacity</strong>: Determine how support for research fellows will contribute to the overall capacity of your network. Consider how support for graduate-level researchers would build a local brain trust, while support for more senior researchers would elevate their prominence.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define the question</strong>: Decide on a challenging question currently facing your network that researchers can begin working to answer. Consider how work toward answering the question will add value to your network members, educators, and other practitioners.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Determine the amount of money required to support both the fellow&rsquo;s time and any material or technology costs to complete the work. Remake Learning research fellowships have ranged from $5,000 to $10,000.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a call</strong>: Develop a call for research proposals that describes the main goals of the fellowship and outlines expectations for the researcher to work with network members. Share the call with local colleges and universities with research institutes in the field or research-oriented graduate programs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Share the results</strong>: Create opportunities to share the results of the fellow&rsquo;s research with other network members, such as small report-out events or a high-level summary of the work with specific recommendations.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Request for Proposal" class="img-responsive" src="images/play_icons/catalyze_rfps.png" style="background-color: rgb( 57, 150, 207);" title="Request for Proposal"></div>
+                </div>
+                <h2 id="catalyze-rfps">Request for Proposal</h2>
+                <p>Make strategic funding available through contests, competitions, or Requests for Proposal (RFP) to focus the network&rsquo;s attention on issues and opportunities of critical importance, such as summer learning loss prevention, school classroom transformation, or in coordination with national campaigns like City of Learning.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Establish a framework</strong>: Define the specific topic or challenge that is the focus of the funding opportunity, the desired impact of the supported projects, the geographic bounds of target audiences, and any requirements critical to success.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Determine the size and quantity of grants you seek to make. Local RFPs released to the Remake Learning Network have ranged from $35,000 to $50,000.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Draft the RFP</strong>: Draft a request for proposal that describes the goals of the funding opportunity, the available budget, the specific challenge or topic the applicants must focus on, and the outcomes supported projects are expected to achieve.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit decisionmakers</strong>: Seat a committee of volunteers from your network who are unlikely to apply for a grant and can make objective funding decisions based on the network&rsquo;s funding goals and grantmaking criteria.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan documentation</strong>: Support the strategic success of the selected projects by documenting the process and outcomes of the projects with photography, writing, and other media that will further elevate the importance of the focus area among network members.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Incubate Ventures" class="img-responsive" src="images/play_icons/catalyze_incubate-ventures.png" style="background-color: rgb( 57, 150, 207);" title="Incubate Ventures"></div>
+                </div>
+                <h2 id="catalyze-incubate-ventures">Incubate Ventures</h2>
+                <p>Establish or support existing start-up incubators where local entrepreneurs can develop emerging education technology concerns and connect with educators and researchers in the network to co-design, playtest, and evaluate new education technology products.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Assess community capacity</strong>: Partner with a business development agency, chamber of commerce, or incubator to identify ed-tech enterprises in your community or target those based elsewhere, but ready for collaboration with educators.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define a focus area</strong>: Based on your assessment, determine if your community possesses strengths in particular ed-tech areas such as software, hardware, game-based learning, learning management, or online learning.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Connect entrepreneurs and educators</strong>: Host a convening to facilitate brainstorming and exchange among educators interested in ed-tech innovation and entrepreneurs looking for input from educators.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>User testing</strong>: Partner with network members interested in offering their space or programs to be used as testing ground for prototype ed-tech products.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Curriculum development</strong>: Recruit curriculum specialists to help ed-tech enterprises develop lesson plans and curricular materials educators can use to support their application of new ed-tech products in their classrooms.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Teacher training</strong>: Partner with professional development agencies to develop training modules that help educators learn to use new ed-tech products emerging from incubators.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="National Funding Support" class="img-responsive" src="images/play_icons/catalyze_national-funding-support.png" style="background-color: rgb( 57, 150, 207);" title="National Funding Support"></div>
+                </div>
+                <h2 id="catalyze-national-funding-support">National Funding Support</h2>
+                <p>Seek opportunities to secure funding commitments from national philanthropies, government agencies, and other stakeholders by matching network members leading in specific areas to anticipated priorities, and providing technical assistance to apply for national funding opportunities.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Review the funding landscape</strong>: Do some research on current funding opportunities available from private foundations, corporate giving programs, and government agencies. If contacts are available, reach out to establish communication with program officers.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Evaluate opportunities</strong>: Based on your review of current funding opportunities, determine which opportunities are the best fit for your network based on your local interests, your level of network maturity, and other important factors.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit partners</strong>: After choosing an opportunity to pursue, determine who from your network will need to participate. Reach out to these partners to confirm their interest and availability to participate, and find out how they can contribute to the application.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Prepare an application</strong>: Major funding requests can require a lot of work and back up to demonstrate your readiness for funding. Budget the appropriate amount of time to draft the application and gather any required supporting materials from partners.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan for the best</strong>: During the application process, begin to sketch out how you will leverage this national funding to further develop the capacity of your network and its long-term sustainability.</li>
+                </ul>
+              </section>
+            </article><!--communicate-->
+            <article class="bs-docs-section playbook_plays-in-detail clearfix" id="communicate">
+              <header>
+                <h1 class="page-header" id="communicate">Communicate</h1>
+                <p class="lead">Amplify the voice of network members by documenting success, telling stories, gathering evidence, and joining the global conversation about learning innovation.</p>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    Thinking Questions
+                  </div>
+                  <div class="panel-body">
+                    <p><strong>Goals</strong>: What are your communications goals? Are you seeking to enhance communication among network members? Are you seeking to shape public discourse? Are you seeking to increase the level of press coverage of your network?</p>
+                    <p><strong>Message</strong>: What is your core message? What major education challenges are your network responding to? How is your network&rsquo;s approach to this challenge new, innovative, and distinct? What are your best examples of effectiveness?</p>
+                    <p><strong>Audience</strong>: Who is the target of your communications? Educators? The press? Parents and families? Children and youth? What do you have to offer each and what is the best method to reach them?</p>
+                    <p><strong>Voice</strong>: What is your network&rsquo;s point-of-view? Who guides the development of the network&rsquo;s voice? How does your network&rsquo;s voice support its mission?</p>
+                    <p><strong>Medium &amp; Method</strong>: What kinds of communications content would be most useful to your network? Do you need to build a media library? Do you need in-depth stories or reports? Do you need content for press outreach, social media, and blogging?</p>
+                    <p><strong>Lead</strong>: Who will take the overall lead in communicating on behalf of your network?</p>
+                  </div>
+                </div>
+              </header>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Blog" class="img-responsive" src="images/play_icons/communicate_blog.png" style="background-color: rgb(155, 156, 45);" title="Blog"></div>
+                </div>
+                <h2 id="communicate-blog">Blog</h2>
+                <p>Join the global conversation about the future of learning through a weblog where you share stories, news, and &ldquo;think-pieces&rdquo; with network members to keep them informed, and where network members can see their work represented within the broader context of learning innovation.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Find a home for your blog</strong>: If you don&rsquo;t already have a blog, you&rsquo;ll need to create one from scratch. Choose a blogging platform, purchase a memorable domain name that represents your network, and make it look nice.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set your budget</strong>: Purchase a domain and a hosting package. Find out the going rate for freelance writers in your community and determine how much work you can afford to hire.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Establish your editorial goals</strong>: Describe your target audience and the kinds of content your blog will serve them. Decide whether you will publish short, frequent posts about current news or longer, occasional posts that dig deeper into key topics, or a combination.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a publishing schedule</strong>: Create a calendar that guides what you plan to publish when. Work backwards from your publishing dates to set draft and final deadlines for writing assignments.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build Your Team</strong>: You&rsquo;ll need help to review and revise blog posts, even if you plan to do most of the writing yourself. Reach out to freelance journalists, graduate students, or active bloggers in your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Post, share &amp; engage</strong>: Share posts widely via your social media followers and email list subscribers. Be sure to create opportunities for people to comment and provide feedback to your blog.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Social Media" class="img-responsive" src="images/play_icons/communicate_social-media.png" style="background-color: rgb(155, 156, 45);" title="Social Media"></div>
+                </div>
+                <h2 id="communicate-social-media">Social Media</h2>
+                <p>Establish a social media presence for the network that speak on behalf of the network, using shared hashtags so that network members can contribute to the conversation and rally around special opportunities, by participating in scheduled social media events, and joining the social media backchannel happening at local and national events.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Start with a strategy</strong>: Determine the purpose of your social media activities. Balance your use of social media for the purposes of directly engaging network members and for promoting the network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create an account</strong>: If your network doesn&rsquo;t already have a social media presence, create accounts on Twitter, Facebook, and Instagram in the name of your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Connect with your network</strong>: Immediately follow, friend, subscribe, and like the people and organizations who form the core of your network on social media.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build your following</strong>: Identify key people and organizations in your community who are influential in your community and be sure to follow, friend, and subscribe to their social media accounts. Tag them in your messages to draw their attention to your work.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Organize Engagement</strong>: Follow specific hashtags that relate to the interests of your network, join pre-scheduled twitter chats about education and innovation, and consider organizing your own conversation around a specific event or topic using a new hashtag.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Follow a calendar</strong>: Maintain a social media calendar to keep the conversation going without having to spend every day on your social media account.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Conference Participation" class="img-responsive" src="images/play_icons/communicate_conference-presentations.png" style="background-color: rgb(155, 156, 45);" title="Conference Participation"></div>
+                </div>
+                <h2 id="communicate-conference-presentations">Conference Participation</h2>
+                <p>Provide stipends to send individuals or delegations of network members to relevant conferences to establish a physical presence for the network among leaders in the field and to support network members invited to present or speak at events.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Identify target conferences</strong>: Create a &ldquo;shortlist&rdquo; of events and conferences where you feel your network must have a presence. If possible, select multiple conferences across a range of dates throughout the calendar year.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: The cost of attending a conference can vary greatly from event to event. Set a maximum budget you can afford to offer, even if it doesn&rsquo;t cover all the costs. If possible, dedicate enough funding to help network members participate in at least 5-6 conferences per year.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Tap ambassadors</strong>: Identify network members who can act as representatives for the whole of the network and provide them with talking points and marketing materials they can distribute and leave behind at the event.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Post-event reports</strong>: Require network members who receive conference stipends to share what they learned with other network members in small report-out events, guest blog posts, or an interview that can be shared in your network newsletter.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Directory" class="img-responsive" src="images/play_icons/communicate_directory.png" style="background-color: rgb(155, 156, 45);" title="Directory"></div>
+                </div>
+                <h2 id="communicate-directory">Directory</h2>
+                <p>Create a digital directory that collects the basic information and contact details for the people, programs, and organizations that make up the network so that network members can see themselves as part of a larger whole, access a catalog of available resources and support services, and browse a calendar of upcoming events and opportunities to engage.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose a system</strong>: There are several directory tools to choose from, from WordPress blogs to wikis. Choose a system that you adapt to your needs and allow others to contribute.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Establish membership criteria</strong>: Use guidelines to evaluate if new directory entries are suitable for listing. Your criteria should include a checklist of qualities that describe ideal network members.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>List your first entries</strong>: Determine the people, projects, and organizations in your community who must be included in the first round of directory entries. These are the core participants of your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Gather information</strong>: Reach out to your first entries and ask them to submit the required information directly to you or via a submission form process built in to the directory.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Invite contributions</strong>: Once you&rsquo;ve built out your core membership, reach out to the broader community and invite others to add themselves to the directory.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Keep it up to date</strong>: Schedule time for regular review and maintenance of the directory like revising entries for accuracy and consistency. Also consider sending regular reminders to network members to review their own entries.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Amplify Youth Voice" class="img-responsive" src="images/play_icons/communicate_youth-voice.png" style="background-color: rgb(155, 156, 45);" title="Amplify Youth Voice"></div>
+                </div>
+                <h2 id="communicate-youth-voice">Amplify Youth Voice</h2>
+                <p>Invite young people to contribute authentic stories and personal reflections on their learning experiences and other forms of participation in the network in order to create a public channel for sharing the voices of youth impacted by the network with the members themselves, as well as other audiences.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a topic to focus on</strong>: Get started by choosing a topic for youth to respond to, such as a story in the current news cycle or a topic that youth are eager to address.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose a media format</strong>: Determine how you would like youth to respond, such as sharing a video on YouTube, photos on Instagram, or written stories for blog posts.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Find a partner</strong>: Identify programs or organizations in your community already engaging youth in storytelling or media production. Invite them to take the lead on amplifying youth voice in your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Invite youth participation</strong>: Issue a call for contributions and share it with youth-serving agencies in your community. Be sure to specify submission guidelines for various media and gather release forms signed by the children&rsquo;s legal guardians giving you permission to share work by the youth.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Collect and share</strong>: Choose the best submissions and prepare them for publication, either through your own blog, or via social media using a shared hashtag to link the youth stories together.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Newsletter" class="img-responsive" src="images/play_icons/communicate_newsletter.png" style="background-color: rgb(155, 156, 45);" title="Newsletter"></div>
+                </div>
+                <h2 id="communicate-newsletter">Newsletter</h2>
+                <p>Deliver relevant and actionable content on a regular schedule, including links to relevant news stories and reports, as well as alerts about upcoming events and opportunities, so that network members can stay informed and engaged and begin to identify the network as a reliable source for information.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose a service</strong>: There are several affordable options for email marketing, including MailChimp and Constant Contact. Subscriptions typically vary based on the size of your distribution list, so set your target list size and choose a service that works for you.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build your distribution list</strong>: Create a basic spreadsheet of the people you want to send emails to, starting with the core members of your network. Be sure to ask people for permission before sending them a mass email marketing message.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Gather content</strong>: Decide what major categories of content you will include, such as major news, upcoming events, job openings, funding opportunities, current research, etc., and bookmark your sources for this content.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Design a template</strong>: Create a simple, well-organized, and easy-to-understand layout for your message. Be sure to include a link to sign up for your email so that people who receive your message as a forward may sign up.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Send on a schedule</strong>: Start by sending a monthly message and adjust the frequency of your distribution cycle based on the needs of your network.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Documentation &amp; Storytelling" class="img-responsive" src="images/play_icons/communicate_documentation-storytelling.png" style="background-color: rgb(155, 156, 45);" title="Documentation &amp; Storytelling"></div>
+                </div>
+                <h2 id="communicate-documentation-storytelling">Documentation &amp; Storytelling</h2>
+                <p>Commission writers, photographers, videographers, and designers to produce original stories and images that capture the network in action, shine a spotlight on network success stories, and amplify the voice of individual network members.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Outline your goals</strong>: Identify the intended audience for your documentation products and imagine the kind of story that will resonate with them and the kind of media that will reach them.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Costs vary depending on the type, quantity, and quality of the work. Videos are typically most expensive. Writing budgets often depend on the amount of original field reporting required.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick your subjects</strong>: Write a briefing of the key features and big ideas to be captured and an explanation of how the subject relates to your larger efforts as a network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Commission the work</strong>: Hire professionals to produce the work. Search your community for photographers, videographers, and writers and reach out to those who produce work you like.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Get permission</strong>: Be sure to collect signed media consent and release forms from anyone who will be included in visual media, especially minors.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Publish &amp; share</strong>: Post your completed piece to your own blog and also offer the materials for syndication in other local media and allied organizations. Be sure to share links to members of your network and other targeted people via social media.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Repurpose &amp; reuse</strong>: High-quality documentation, especially photos and written profiles, can be used as a rich source of evidence of the growth and impact of your network in proposals and reports.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Press Outreach" class="img-responsive" src="images/play_icons/communicate_press-outreach.png" style="background-color: rgb(155, 156, 45);" title="Press Outreach"></div>
+                </div>
+                <h2 id="communicate-press-outreach">Press Outreach</h2>
+                <p>Pitch stories to local and national press contacts that highlight the exceptional work of specific network members, elevate the profile of experts and leaders within the network for quotation and comment in larger stories, and help to establish the community as a place where educators and innovators are taking concrete steps to improve learning opportunities for young people.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Develop a press strategy</strong>: Define what successful press coverage means to your network, the key points you want to be covered, and set some basic goals for where and when you will secure coverage.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose your news</strong>: Identify a legitimate piece of news generated by a member of your network and begin gathering basic information like the who, what, where, and when of the story.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a hook</strong>: Craft a story that relates your news item to a topic or event that will likely generate coverage in your local media market.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a press kit</strong>: This can be as simple as press release announcing a new initiative or a media advisory inviting coverage of an event, or as in-depth as a background briefing about your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Build your press list</strong>: Get to know the reporters and editors working in your community. Look for contacts who are already writing about education, youth and family issues, and innovation.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Send messages and follow up</strong>: Send personal messages to your press list targets with your background materials attached. Follow up with a phone call if you don&rsquo;t hear back within a day.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Publications" class="img-responsive" src="images/play_icons/communicate_publications.png" style="background-color: rgb(155, 156, 45);" title="Publications"></div>
+                </div>
+                <h2 id="communicate-publications">Publications</h2>
+                <p>Publish documents that report on network activities and accomplishments and capture and share the best of the network&rsquo;s learnings that can act as resource guides for others seeking to implement similar programs and strategies.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan your publication</strong>: Choose the kind of document you will produce, such as a document that summarizes the network, a resource guide that contains practicable guidance for educators in your network, or a promotional piece that highlights your network&rsquo;s success stories.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Assemble a production team</strong>: Recruit an expert from your network to draft original content, an editor to shape and polish written content, and a designer to design an attractive and functional product.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Estimate the budget of your publication based on the cost of writing, editing, designing, printing, and distributing your publication. Keep in mind that per-unit printing costs can decrease dramatically as the quantity of copies increases.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a production schedule</strong>: Choose a date when you will need to have publications in-hand and work back from there, factoring several weeks for the printing, designing, editing, and writing phases of the work.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Promote &amp; distribute</strong>: As the final publication reaches completion, begin alerting your network members, as well as external audiences and press targets, to generate anticipation for the publication. Identify members of your network who can help distribute a portion of publications.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="From Local to National" class="img-responsive" src="images/play_icons/communicate_local-to-national.png" style="background-color: rgb(155, 156, 45);" title="From Local to National"></div>
+                </div>
+                <h2 id="communicate-local-to-national">From Local to National</h2>
+                <p>Share examples of network success with influential audiences by inviting peers, policymakers, researchers, and funders to visit and tour the network and by seeking opportunities to showcase network success at national events focusing on learning innovation.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Identify national targets</strong>: Create a list of foundations, think tanks, publications, and influential people who need to know about your network. Gather their contact information and make notes of their particular interest.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose exemplars</strong>: Identify a "shortlist" of exemplary places, projects, and organizations that best represent your network and relate to the interests of your national targets.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Reach out beyond your community</strong>: Invite people from your list of national targets to visit your community and see how you are remaking learning. Be sure to include some high-quality documentation to give them a preview of what they&rsquo;ll see when they visit.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Identify local experts</strong>: Make a list of people from your network who can be recognized as experts in their field and equip them with talking points and background materials about the network to share during their next interview.</li>
+                </ul>
+              </section>
+            </article><!--coordinate-->
+            <article class="bs-docs-section playbook_plays-in-detail clearfix" id="coordinate">
+              <header>
+                <h1 class="page-header" id="coordinate">Coordinate</h1>
+                <p class="lead">Establish a structure for the network that enables individual members to do what they do best, while also collaborating across sectors and sharing resources effectively.</p>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    Thinking Questions
+                  </div>
+                  <div class="panel-body">
+                    <p><strong>Goals</strong>: How will network coordination contribute to building your network&rsquo;s capacity? How will network members leverage cooperation to support their own goals?</p>
+                    <p><strong>Overcoming Obstacles</strong>: What barriers may be preventing coordination from happening naturally? Is there a gap in communication that you can help to close? Are there legal, procedural, or financial obstacles the network can smooth out?</p>
+                    <p><strong>Thinking Long-Term</strong>: How will greater coordination help your network develop and achieve long-term outcomes for your network, and be more effective operating strategic initiatives?</p>
+                    <p><strong>Looking Outside</strong>: How will you coordinate your network&rsquo;s activities with larger, national or international efforts? Will you seek partnerships that bring specific resources or talents to your region? Will you seek to join national or international networks that share your local goals?</p>
+                    <p><strong>Lead</strong>: Who in your network can take the lead in coordinating network members?</p>
+                  </div>
+                </div>
+              </header>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Program Cooperation" class="img-responsive" src="images/play_icons/coordinate_program-cooperation.png" style="background-color: rgb(179, 105, 171);" title="Program Cooperation"></div>
+                </div>
+                <h2 id="coordinate-program-cooperation">Program Cooperation</h2>
+                <p>Connect peer organizations offering complementary programming to help initiate collaboration and exchange among network member organizations, creating opportunities for traveling programs to deploy activities in established learning spaces like libraries and community centers as a means of enhancing the reach and effectiveness of learning programs while also developing staff capacity and responsiveness to target audiences.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Survey program providers</strong>: Gather information from network members to learn about current programmatic offerings and create an inventory of programs that may be suitable for deployment in sites throughout your network.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Survey host sites</strong>: Inquire with schools and youth-serving organizations to learn about their interest in hosting outside programming, understand their needs, and determine ways to supplement their capacities through matches with program providers.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Incentivize Cooperation</strong>: Use convening and catalyzing strategies to jumpstart cooperation among network members and remove any obstacles that might prevent cooperation to naturally arise.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Package programming</strong>: Work with program providers to prepare their activities for off-site deployment by organizing traveling materials kits, developing flexible lesson plans to be delivered in a variety of settings and timeframes, and leave behind materials for ongoing activities.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a match-making mechanism</strong>: As your network develops a robust inventory of programmatic offerings and youth-serving host sites, develop a platform for network members to connect with each other, such as a shared calendar.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="National to Local" class="img-responsive" src="images/play_icons/coordinate_national-to-local.png" style="background-color: rgb(179, 105, 171);" title="National to Local"></div>
+                </div>
+                <h2 id="coordinate-national-to-local">National to Local</h2>
+                <p>Reach out to organizations leading change on the national level and seek opportunities to partner with them to implement localized programming that helps connect your community with the global movement to remake learning.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Identify targets</strong>: Survey the landscape of national education innovation movements, including research initiatives, communities of practice, academic networks, publications, and media properties.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Identify a local host</strong>: Find network member organizations who can take responsibility for the local adaptation and implementation of national initiatives. Focus on matching the assets and resources network members possess with the local needs of national initiatives.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Reach out beyond your community</strong>: Invite representatives to visit your community and see how you are remaking learning. Demonstrate your community&rsquo;s readiness to implement local programming based on a national model.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Distribute national imports locally</strong>: While only a small number of network members may have the capacity to take on a national initiative, be sure to build in mechanisms for sharing knowledge gained with your broader network through events, workshops, or publications.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Return the favor</strong>: Whenever possible, offer up local innovations to your new national partners that they can use as proof points or models for how their work is being implemented in communities.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Leverage national connections</strong>: Securing national support immediately expands your circle of colleagues and professional contacts. Consider how these new connections will help build capacity in other areas of your network.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Network Strategy" class="img-responsive" src="images/play_icons/coordinate_strategy.png" style="background-color: rgb(179, 105, 171);" title="Network Strategy"></div>
+                </div>
+                <h2 id="coordinate-strategy">Network Strategy</h2>
+                <p>Set an agenda for the network and establish a shared vision, common values, and long term goals by forming advisory groups of key stakeholders, surveying network members, and seating leadership councils representing influential members of the community.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define the need for a strategy</strong>: Describe the need for a network strategy and the anticipated benefits of establishing a shared strategy. Create a rationale so that network members understand the need and invest in the strategy development process.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Choose a model</strong>: Research strategic planning methods and models to develop your familiarity with the process. Give particular attention to models for open innovation and collaborative networks.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Gather input</strong>: Create a survey tool, interview template, or collaborative workspace where network members can contribute to the development of the strategy.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Engage the network</strong>: Invite network members to gather together face-to-face or online to reflect on the strategy in development, share their thoughts, and generate ideas for putting the strategy into practice.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Publish and share</strong>: Once the strategy document is developed to a suitable state, post it permanently in an easily accessible web space and distribute copies to key network members. Consider writing a blog post that can act as an executive summary or guide to understanding the strategy.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Stay Accountable</strong>: Your network strategy will be a living document. Create a process for checking in on a regular basis to evaluate your network&rsquo;s progress, revise any aspects of the strategy, and report-out to the network.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Network Research" class="img-responsive" src="images/play_icons/coordinate_research.png" style="background-color: rgb(179, 105, 171);" title="Network Research"></div>
+                </div>
+                <h2 id="coordinate-research">Network Research</h2>
+                <p>Partner with researchers to establish mechanisms for understanding and evaluating the impact of the network on its members and on the children, youth, and families it serves in order to gather evidence and data to make a stronger case for support.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define the question</strong>: Determine the specific question you are seeking to answer about your network and its impact on your target audiences.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Establish metrics</strong>: Choose a measurable factor so that you can quantify the network&rsquo;s impact. Consider using common metrics for measuring learning outcomes and student engagement such as high school graduation rates and dropout rates.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Find a data partner</strong>: Partner with a research institution or government agency that is already engaged in gathering and analyzing data about students in your region. Work with your partner to establish a baseline measurement.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Gather evidence</strong>: Task network members with collecting information about the students involved in their programs. Provide network members with a standard data-gathering instrument such as an entry/exit questionnaire, survey, or scorecard.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Evaluate findings</strong>: Work with your data partner to determine if any correlation or causation exists between your network&rsquo;s activities and the changes you see in the metrics.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Share the results</strong>: Create opportunities to share the results of the fellow&rsquo;s research with other network members, such as small report-out events or a high-level summary of the work with specific recommendations.</li>
+                </ul>
+              </section>
+            </article><!--champion-->
+            <article class="bs-docs-section playbook_plays-in-detail clearfix" id="champion">
+              <header>
+                <h1 class="page-header" id="champion">Champion</h1>
+                <p class="lead">Lift up the best of the network and celebrate the educators, innovators, and young people who contribute to and benefit from network activities.</p>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    Thinking Questions
+                  </div>
+                  <div class="panel-body">
+                    <p><strong>Goals</strong>: What is the value of increasing exposure of your network&rsquo;s brand? Are you seeking to engage the public in your network? Are you seeking to raise funds?</p>
+                    <p><strong>Audiences</strong>: Who are you seeking to celebrate or attract to the network? Current network members? Young people? Tech companies? Funders? Government leaders? What do you have to offer each of your target audiences?</p>
+                    <p><strong>Engagement &amp; Impression</strong>: What do you want the network to look and feel like to your target audiences? What kinds of events, activities, and content support and reinforce this impression?</p>
+                    <p><strong>Conversion &amp; Call to Action</strong>: Once you&rsquo;ve got your audience&rsquo;s attention, what do you want them to do? Visit a website? Attend an event? Apply for a grant? Make choices differently?</p>
+                    <p><strong>Lead</strong>: Who will take the overall lead in championing your network?</p>
+                  </div>
+                </div>
+              </header>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Showcase" class="img-responsive" src="images/play_icons/champion_showcase.png" style="background-color: rgb(212, 98, 28);" title="Showcase"></div>
+                </div>
+                <h2 id="champion-showcase">Showcase</h2>
+                <p>Organize interactive exhibits that showcase exemplary network projects and programs at public events like arts fairs, summer fests, holiday events, and other gatherings that attract large numbers of children, youth, and families so that more people can have personal, hands-on experiences with learning innovation.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit and prepare exhibitors</strong>: Identify a small group of network members who can deliver engaging face-to-face activities for learners. Aim for diversity of participants and activity types. It helps if you pay them a small daily stipend for their time.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan your exhibit</strong>: Determine the amount of space you will be provided at the event, as well as your technical resources like electricity and internet, and sketch out how you will layout the space, keeping in mind how people will flow through it.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Create a presence</strong>: Create signage, banners, and take-aways that feature your network&rsquo;s brand and display them prominently around the space. Provide all exhibitors with a simple set of talking points.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Tell the press</strong>: Issue a media advisory (or add yourself to one the event organizers are sending out) that describe your network&rsquo;s presence and highlight the visual appeal for press photographers or local TV news.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document your exhibit</strong>: Take photos of your exhibit and share them via social media or on your blog to show how your network is changing the look and feel of learning in your community.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Event Sponsorship" class="img-responsive" src="images/play_icons/champion_event-sponsorship.png" style="background-color: rgb(212, 98, 28);" title="Event Sponsorship"></div>
+                </div>
+                <h2 id="champion-event-sponsorship">Event Sponsorship</h2>
+                <p>Provide financial support and lend the network&rsquo;s name to events, workshops, camps, conferences, and professional development sessions that introduce educators and others to new and innovative teaching and learning practices.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define sponsorship goals</strong>: Write down the characteristics of the kinds of projects you seek to support, specifying the size, age, background, and geographic bounds of target audiences, the topic or content area the grants will focus on, and any requirements critical to success.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Determine the size and quantity of sponsorships you can afford offer. For comparison, Remake Learning event sponsorships are available up to $5,000 and the average size is $1,000.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Survey local events calendars</strong>: Develop a comprehensive list of events offered by network members in your community, as well as events where you believe a network presence would be valuable.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Seek sponsorship requests</strong>: Decide whether you will offer an ongoing open call for sponsorship requests, or make sponsorships by invitation only. Either way, request sponsorship options from applicants that outline commitment levels and corresponding sponsor recognition benefits.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Promote sponsored events</strong>: Use your social media and, when appropriate, press outreach strategies to help drive attendance to sponsored events. When possible, send network representatives to speak and distribute network promotional materials.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Awards" class="img-responsive" src="images/play_icons/champion_awards.png" style="background-color: rgb(212, 98, 28);" title="Awards"></div>
+                </div>
+                <h2 id="champion-awards">Awards</h2>
+                <p>Recognize excellence among network members and celebrate the work of young people involved in network programs by hosting new or partnering with established events where awards and prizes can be given to elevate the best of the network and inspire others to achieve similar results.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Seek out opportunities</strong>: Survey local and national contests and awards opportunities to nominate network members for.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Partner with an endorser</strong>: If you&rsquo;re launching your own awards ceremony, partner with an established and well-respected organization in your network to add value to the awards opportunity.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define the offering</strong>: Make sure that your award is different and unique among existing local offerings. Consider adapting a national model to the local community.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Issue a call</strong>: Publicize the opportunity through your network communications channels and through network partners who communicate directly with eligible nominees. Provide clear instructions for how award seekers can apply or be nominated.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Make decisions</strong>: Choose to use a jury or public voting approach. Whichever approach you decide, make sure nominees and the public understand the award criteria.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Host a ceremony</strong>: Partner with an existing awards event or host your own to honor nominees and winners publicly. Be sure to document the event and share the good news via the network blog and social media outlets.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Tell the press</strong>: Issue a media advisory (or add yourself to the event organizers are sending out) that promotes the new awards and highlights the winners.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Advertising &amp; Marketing" class="img-responsive" src="images/play_icons/champion_advertising-marketing.png" style="background-color: rgb(212, 98, 28);" title="Advertising &amp; Marketing"></div>
+                </div>
+                <h2 id="champion-advertising-marketing">Advertising &amp; Marketing</h2>
+                <p>Establish a presence for the network in the local media market by purchasing advertising placements and underwriting messages such as PSAs on local television and radio, print and digital advertising in local publications, and distributing marketing materials through street teams.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Define advertising goals</strong>: Describe the audience you are targeting, the key message you want to deliver to them, and the action that you want them to take. Set a benchmark for the percentage of &rsquo;conversions&rsquo; your campaign will make.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set a budget</strong>: Small amounts, even $100, can be effective in boosting social media engagement, while print and digital advertising can range into the thousands and outdoor display campaigns into the tens of thousands.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Evaluate similar efforts</strong>: Examine how other organizations and campaigns have advertised in your local media market. Borrow ideas from the most effective advertisers.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Design your campaign</strong>: Build on your network&rsquo;s brand (or use the campaign to establish one) and create clear, engaging content that reinforces the core messages of your work both visually and verbally. Be sure to include a clear call to action and a way to measure conversions.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Leverage your campaign</strong>: Whether you are advertising campaign runs in print, online, or through face-to-face distribution, add value by supporting the campaign through social media, event tie-ins, and blogging.</li>
+                </ul>
+              </section>
+              <section class="playbook_plays-in-detail_play">
+                <div class="col-xs-12 col-sm-6 col-md-4 no-gutter-xs no-gutter-right pull-right">
+                  <div class="thumbnail"><img alt="Network Gatherings" class="img-responsive" src="images/play_icons/champion_network-gatherings.png" style="background-color: rgb(212, 98, 28);" title="Network Gatherings"></div>
+                </div>
+                <h2 id="champion-network-gatherings">Network Gatherings</h2>
+                <p>Gather network members at an annual event to celebrate their individual and collective achievements, reflect on all that has been accomplished, celebrate student achievement, and energize network members for the work that is still ahead.</p>
+                <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Set your goals for the event</strong>: Identify your audience and determine how you will recognize and celebrate the network. This will guide the rest of your decisions. Keep the goals few and simple.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Pick a date, time, and location</strong>: Get the basics of an invitation together by choosing a date 12-16 weeks in the future and securing a meeting space.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Plan the program &amp; build a budget</strong>: Decide the format of your event, sketch out a floor plan, draft a basic agenda, and create a run-of-show. Tabulate your anticipated expenses for the venue rental, food and refreshments, event logistics, and any speaker or programming costs.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Save the date</strong>: Once you&rsquo;ve confirmed the basics, send a save the date no more than 10 weeks in advance. Send a real invitation with registration details at least 6 weeks prior to the event.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Recruit participants</strong>: If your event will include activities or exhibits led by network members, reach out and invite them to participate. Find out what they will need and create a programming manifest that gathers all the technical, space, and media needs of your exhibitors.</li>
+                  <li><i class="fa-li fa fa-caret-right"></i><strong>Document &amp; share</strong>: Create a record of the event that you can share with network members who aren&rsquo;t able to make it. If the event is the first of its kind, consider inviting the press as well.</li>
+                </ul>
+              </section>
+            </article>
+          </section>
+          <section class="bs-docs-section playbook_resources clearfix" id="additional-resources">
+            <header>
+              <h1 class="page-header" id="additional-resources"><a href="index.html#additional-resources">Additional Resources</a></h1>
+            </header>
+          </section>
+          <section class="bs-docs-section clearfix" id="acknowledgements">
+            <header>
+              <h1 class="page-header" id="acknowledgements"><a href="index.html#acknowledgements">Acknowledge<span class="visible-xs-inline">-</span>ments</a></h1>
+            </header>
+          </section>
+          <article class="bs-docs-section clearfix" id="order-form">
+            <h1 class="page-header" id="order-form">Order Free Copy</h1>
+            <p class="lead">Use the form below to order your free copy of the Remake Learning Playbook!</p>
+            <div class="well">
+              <h5 class="text-muted" style="margin-top: 0;"><i class="fa fa-info-circle"></i> PLEASE NOTE</h5>
+              <p>Up to 5 copies of the Remake Learning Playbook may be ordered using this form.</p>
+              <p>Free shipping to the United States and Canada. For larger orders or for international address, shipping charges may apply; please contact <a href="mailto:playbook@sproutfund.org">playbook@sproutfund.org</a>.</p>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-body">
+                <p class="text-danger"><span>*</span> Required Fields</p>
+                <form action="https://docs.google.com/forms/d/1GaQuO1hBDKqNgeb11lJZXgngs_oECfr7dUZGx2lowmg/formResponse" id="ss-form" method="post" name="ss-form" onsubmit="" target="_blank">
+                  <section id="order-details">
+                    <h2 id="order-details">Order Details</h2>
+                    <div class="form-group">
+                      <label for="entry_1407165416">How many copies would you like to receive?<span class="text-danger">*</span></label><select class="form-control" id="entry_1407165416" name="entry.1407165416">
+                        <option>
+                          1
+                        </option>
+                        <option>
+                          2
+                        </option>
+                        <option>
+                          3
+                        </option>
+                        <option>
+                          4
+                        </option>
+                        <option>
+                          5
+                        </option>
+                      </select>
+                    </div>
+                  </section>
+                  <section id="order-name-affiliation">
+                    <h2 id="order-name-affiliation">Name &amp; Affiliation</h2>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_1927036416">First Name<span class="text-danger">*</span></label><input class="form-control" id="entry_1927036416" name="entry.1927036416" placeholder="First Name" required="true" type="text">
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_1962007093">Last Name<span class="text-danger">*</span></label><input class="form-control" id="entry_1962007093" name="entry.1962007093" placeholder="Last Name" required="true" type="text">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_539402360">Organization/Affiliation</label><input class="form-control" id="entry_539402360" name="entry.539402360" placeholder="Organization/Affiliation" type="text">
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_454856313">Region/Location/Hometown</label><input class="form-control" id="entry_454856313" name="entry.454856313" placeholder="Region/Location/Hometown" type="text">
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                  <section id="order-mailing-address">
+                    <h2 id="order-mailing-address">Mailing Address</h2>
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_2087925748">Street Address<span class="text-danger">*</span></label><input class="form-control" id="entry_2087925748" name="entry.2087925748" placeholder="Street Address" required="true" type="text">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_1848092994">City<span class="text-danger">*</span></label><input class="form-control" id="entry_1848092994" name="entry.1848092994" placeholder="City" required="true" type="text">
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label for="entry_1407165416">State/Province<span class="text-danger">*</span></label><select class="form-control" id="entry_1370326096" name="entry.1370326096" required="true">
+                            <option>
+                              </option>
+                            <option value="AB">
+                              Alberta
+                            </option>
+                            <option value="AK">
+                              Alaska
+                            </option>
+                            <option value="AL">
+                              Alabama
+                            </option>
+                            <option value="AR">
+                              Arkansas
+                            </option>
+                            <option value="AS">
+                              American Samoa
+                            </option>
+                            <option value="AZ">
+                              Arizona
+                            </option>
+                            <option value="BC">
+                              British Columbia
+                            </option>
+                            <option value="CA">
+                              California
+                            </option>
+                            <option value="CO">
+                              Colorado
+                            </option>
+                            <option value="CT">
+                              Connecticut
+                            </option>
+                            <option value="DC">
+                              District of Columbia
+                            </option>
+                            <option value="DE">
+                              Delaware
+                            </option>
+                            <option value="FL">
+                              Florida
+                            </option>
+                            <option value="GA">
+                              Georgia
+                            </option>
+                            <option value="GU">
+                              Guam
+                            </option>
+                            <option value="HI">
+                              Hawaii
+                            </option>
+                            <option value="IA">
+                              Iowa
+                            </option>
+                            <option value="ID">
+                              Idaho
+                            </option>
+                            <option value="IL">
+                              Illinois
+                            </option>
+                            <option value="IN">
+                              Indiana
+                            </option>
+                            <option value="KS">
+                              Kansas
+                            </option>
+                            <option value="KY">
+                              Kentucky
+                            </option>
+                            <option value="LA">
+                              Louisiana
+                            </option>
+                            <option value="MA">
+                              Massachusetts
+                            </option>
+                            <option value="MB">
+                              Manitoba
+                            </option>
+                            <option value="MD">
+                              Maryland
+                            </option>
+                            <option value="ME">
+                              Maine
+                            </option>
+                            <option value="MI">
+                              Michigan
+                            </option>
+                            <option value="MN">
+                              Minnesota
+                            </option>
+                            <option value="MO">
+                              Missouri
+                            </option>
+                            <option value="MP">
+                              Northern Mariana Islands
+                            </option>
+                            <option value="MS">
+                              Mississippi
+                            </option>
+                            <option value="MT">
+                              Montana
+                            </option>
+                            <option value="NB">
+                              New Brunswick
+                            </option>
+                            <option value="NC">
+                              North Carolina
+                            </option>
+                            <option value="ND">
+                              North Dakota
+                            </option>
+                            <option value="NE">
+                              Nebraska
+                            </option>
+                            <option value="NH">
+                              New Hampshire
+                            </option>
+                            <option value="NJ">
+                              New Jersey
+                            </option>
+                            <option value="NL">
+                              Newfoundland and Labrador
+                            </option>
+                            <option value="NM">
+                              New Mexico
+                            </option>
+                            <option value="NS">
+                              Nova Scotia
+                            </option>
+                            <option value="NT">
+                              Northwest Territories
+                            </option>
+                            <option value="NU">
+                              Nunavut
+                            </option>
+                            <option value="NV">
+                              Nevada
+                            </option>
+                            <option value="NY">
+                              New York
+                            </option>
+                            <option value="OH">
+                              Ohio
+                            </option>
+                            <option value="OK">
+                              Oklahoma
+                            </option>
+                            <option value="ON">
+                              Ontario
+                            </option>
+                            <option value="OR">
+                              Oregon
+                            </option>
+                            <option value="PA">
+                              Pennsylvania
+                            </option>
+                            <option value="PE">
+                              Prince Edward Island
+                            </option>
+                            <option value="PR">
+                              Puerto Rico
+                            </option>
+                            <option value="QC">
+                              Quebec
+                            </option>
+                            <option value="RI">
+                              Rhode Island
+                            </option>
+                            <option value="SC">
+                              South Carolina
+                            </option>
+                            <option value="SD">
+                              South Dakota
+                            </option>
+                            <option value="SK">
+                              Saskatchewan
+                            </option>
+                            <option value="TN">
+                              Tennessee
+                            </option>
+                            <option value="TX">
+                              Texas
+                            </option>
+                            <option value="UM">
+                              United States Minor Outlying Islands
+                            </option>
+                            <option value="UT">
+                              Utah
+                            </option>
+                            <option value="VA">
+                              Virginia
+                            </option>
+                            <option value="VI">
+                              Virgin Islands
+                            </option>
+                            <option value="VT">
+                              Vermont
+                            </option>
+                            <option value="WA">
+                              Washington
+                            </option>
+                            <option value="WI">
+                              Wisconsin
+                            </option>
+                            <option value="WV">
+                              West Virginia
+                            </option>
+                            <option value="WY">
+                              Wyoming
+                            </option>
+                            <option value="YT">
+                              Yukon
+                            </option>
+                            <option value="AA">
+                              Armed Forces Americas
+                            </option>
+                            <option value="AP">
+                              Armed Forces Pacific
+                            </option>
+                            <option value="AE">
+                              Armed Forces Others
+                            </option>
+                          </select>
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_1038278789">Postal Code<span class="text-danger">*</span></label><input class="form-control" id="entry_1038278789" name="entry.1038278789" placeholder="Postal Code" required="true" type="text">
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label for="entry_819810259">Country<span class="text-danger">*</span></label><select aria-describedby="help-block_country" class="form-control" id="entry_819810259" name="entry.819810259" required="true">
+                            <option>
+                              </option>
+                            <option value="United States">
+                              United States
+                            </option>
+                            <option value="Canada">
+                              Canada
+                            </option>
+                          </select><span class="help-block" id="help-block_country">U.S. &amp; Canada only</span>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                  <section id="order-email-twitter">
+                    <h2 id="order-email-twitter">Email &amp; Twitter</h2>
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_933421854">Email Address<span class="text-danger">*</span></label><input aria-describedby="help-block_email" class="form-control" id="entry_933421854" name="entry.933421854" placeholder="Email Address" required="true" type="email"><span class="help-block" id="help-block_email">for order updates</span>
+                        </div>
+                      </div>
+                      <div class="col-xs-12 col-sm-6">
+                        <div class="form-group">
+                          <label class="control-label" for="entry_1399566777">Twitter Username</label>
+                          <div class="input-group">
+                            <span class="input-group-addon">@</span><input aria-describedby="help-block_twitter" class="form-control" id="entry_1399566777" name="entry.1399566777" placeholder="Twitter Username" type="text">
+                          </div><span class="help-block" id="help-block_twitter">get a shout-out from <a href="https://twitter.com/remakelearning/" target="_blank">@remakelearning</a>!</span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row" style="margin-top: 1rem;">
+                      <div class="col-xs-12">
+                        <label class="control-label" style="font-size: larger; margin-right: 2rem;">Subscribe to Remake Learning email updates?</label><label class="radio-inline" style="font-size: larger;"><input id="group_767287940_1" name="entry.767287940" type="radio" value="Yes"> Yes</label> <label class="radio-inline" style="font-size: larger;"><input id="group_767287940_2" name="entry.767287940" type="radio" value="No"> No</label>
+                      </div>
+                    </div>
+                  </section>
+                  <section class="clearfix" id="order-submit" style="margin-top: 3rem;">
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+                        <input name="fbzx" type="hidden" value="-189894302988002900"><input class="btn btn-default btn-lg btn-block" id="ss-submit" name="subscribe" type="submit" value="Submit Order">
+                      </div>
+                    </div>
+                  </section>
+                </form>
+              </div>
+            </div>
+            <div class="well">
+              <h5 class="text-muted" style="margin-top: 0;"><i class="fa fa-plus-circle"></i> SUPPORT THIS WORK</h5>
+              <p>Did you find the Remake Learning Playbook a useful tool? Help us do more! Please consider making a tax-deductible contribution to <strong>The Sprout Fund</strong>.</p>
+							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+								<input type="hidden" name="cmd" value="_s-xclick"/>
+								<input type="hidden" name="hosted_button_id" value="BWA528UD25RSW"/>
+								<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" class="center-block"/>
+								<img alt="" border="0" src="../../../www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"/>
+							</form>
+            </div>
+          </article>
+          <section class="bs-docs-section" id="license">
+            <h1 class="page-header">License</h1>
+            <p class="lead">This work by <span>The Sprout Fund</span> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+            <p><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank"><img alt="Creative Commons License" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" style="border-width:0"></a></p>
+          </section>
+          <section class="bs-docs-section" id="contact-us-about-the-playbook">
+            <h1 class="page-header" id="contact-playbook">Contact Us</h1>
+            <p>Did you find this work useful? Tweet at <a href="http://twitter.com/remakelearning">@remakelearning</a> or <a href="http://twitter.com/sproutfund">@sproutfund</a> to let us know!</p>
+            <p>Questions or comments? Contact <a href="mailto:playbook@sproutfund.org">playbook@sproutfund.org</a>.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer class="container-fluid no-gutter" id="footer-license">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-lg-offset-1 col-xl-8 col-xl-offset-2">
+      <div class="container-fluid">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" title="The Remake Learning Playbook is internationally licensed as Creative Commons Attribution-ShareAlike 4.0"><img alt="Creative Commons License" src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" style="border:0;"></a><span class="license-text" style="color: #bbbbbb; margin-left: 8px;">Internationally licensed as Creative Commons Attribution-ShareAlike 4.0</span>
+      </div>
+    </div>
+  </footer>
+  <script src="js/jquery-1.11.3.min.js">
+  </script>
+  <script src="js/bootstrap.min.js">
+  </script>
+  <script src="js/bootstrap-docs.min.js">
+  </script>
+  <script src="js/bootstrap-toggle.js">
+  </script>
+  <script src="js/bootstrap-combobox.js">
+  </script>
+  <script src="js/jquery.lazyloadxt.extra.min.js">
+  </script>
+  <script src="js/jquery.lazyloadxt.print.min.js">
+  </script>
+  <script src="js/bootstrap-ie10-viewport-bug-workaround.js">
+  </script>
+	<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-8341602-5', 'auto');ga('send', 'pageview');</script>
+</body>
+</html>
