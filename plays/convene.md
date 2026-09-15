@@ -13,8 +13,6 @@
 
 ## Small Groups
 
-![Small Groups](../docs/images/play_icons/convene_small-groups.png)
-
 Host open and informal meetings for small groups of network members with shared interests to provide ongoing opportunities for network members to meet, share, and collaborate, whether in face-to-face meetups or through online webinars and hangouts.
 
 ### Getting Started
@@ -34,8 +32,6 @@ Host open and informal meetings for small groups of network members with shared 
 - **Role-based Roundtables**: The Sprout Fund hosts a quarterly Communications Roundtable for network members who work in marketing, promotions, and public relations at different organizations so that communications professionals can keep each other informed.
 
 ## Lunch & Learns
-
-![Lunch & Learns](../docs/images/play_icons/convene_lunch-and-learns.png)
 
 Create opportunities for network members to share their expertise and demonstrate their work for other network members by hosting daytime lunch-and-learn events or evening happy hour gatherings where attendees can learn from one another and consider how they may take advantage of ideas, practices, and upcoming opportunities.
 
@@ -57,8 +53,6 @@ Create opportunities for network members to share their expertise and demonstrat
 
 ## Professional Development
 
-![Professional Development](../docs/images/play_icons/convene_professional-development.png)
-
 Offer professional development sessions and continuing education credits to educators and other professionals seeking to incorporate new and innovative teaching methods into their practice, or partner with established professional development agencies to offer credit at network events and activities so that more educators find valuable professional opportunities at network events.
 
 ### Getting Started
@@ -78,8 +72,6 @@ Offer professional development sessions and continuing education credits to educ
 - **Offer Credits at Network Events**: The Sprout Fund partnered with PAEYC, an agency that can issue professional development credits, to offer credits to educators participating in the Pittsburgh Learning Pathways Summit, making the event even more worthwhile to teachers.
 
 ## Network Engagement Events
-
-![Network Engagement Events](../docs/images/play_icons/convene_occasional-large-events.png)
 
 Invite all network members to gather for important occasional events where members can establish relationships, focus their attention on issues and opportunities of critical importance, collaborate directly in facilitated discussions, reflect on past accomplishments and look ahead to potential future opportunities.
 
@@ -101,8 +93,6 @@ Invite all network members to gather for important occasional events where membe
 
 ## Annual Conferences
 
-![Annual Conferences](../docs/images/play_icons/convene_annual-conferences.png)
-
 Host or partner on annual events for specific groups of network members such as education technology conferences for entrepreneurs and commercial partners, academic summits for researchers and scholars, and professional development events for out-of-school educators or early childhood education specialists.
 
 ### Getting Started
@@ -122,8 +112,6 @@ Host or partner on annual events for specific groups of network members such as 
 - **CREate Festival**: Celebrating the intersection of creativity and technology, the CREate Festival is part showcase, part trade show, and part innovation summit with an entire track of programming dedicated to highlight innovations led by the Remake Learning Network.
 
 ## External Speakers
-
-![External Speakers](../docs/images/play_icons/convene_external-speakers.png)
 
 Invite thought leaders to visit your community and speak to network members as a means of importing knowledge and creating opportunities for partnership and collaboration with other regions also working to remake learning.
 

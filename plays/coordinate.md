@@ -12,8 +12,6 @@
 
 ## Program Cooperation
 
-![Program Cooperation](../docs/images/play_icons/coordinate_program-cooperation.png)
-
 Connect peer organizations offering complementary programming to help initiate collaboration and exchange among network member organizations, creating opportunities for traveling programs to deploy activities in established learning spaces like libraries and community centers as a means of enhancing the reach and effectiveness of learning programs while also developing staff capacity and responsiveness to target audiences.
 
 ### Getting Started
@@ -32,8 +30,6 @@ Connect peer organizations offering complementary programming to help initiate c
 - **Mobile MAKESHOP**: The Children’s Museum partnered with community centers and libraries to deliver mobile maker programs and expand access to hands-on maker learning experiences for youth who may not have the opportunity to visit the museum’s MAKESHOP exhibit.
 
 ## National to Local
-
-![National to Local](../docs/images/play_icons/coordinate_national-to-local.png)
 
 Reach out to organizations leading change on the national level and seek opportunities to partner with them to implement localized programming that helps connect your community with the global movement to remake learning.
 
@@ -55,8 +51,6 @@ Reach out to organizations leading change on the national level and seek opportu
 
 ## Network Strategy
 
-![Network Strategy](../docs/images/play_icons/coordinate_strategy.png)
-
 Set an agenda for the network and establish a shared vision, common values, and long term goals by forming advisory groups of key stakeholders, surveying network members, and seating leadership councils representing influential members of the community.
 
 ### Getting Started
@@ -76,8 +70,6 @@ Set an agenda for the network and establish a shared vision, common values, and 
 - **Learning Competencies Working Groups**: More than 100 educators, experts, and network members worked together to develop a shared set of learning competencies that can provide a rigorous underpinning for the development of digital badges for learning.
 
 ## Network Research
-
-![Network Research](../docs/images/play_icons/coordinate_research.png)
 
 Partner with researchers to establish mechanisms for understanding and evaluating the impact of the network on its members and on the children, youth, and families it serves in order to gather evidence and data to make a stronger case for support.
 

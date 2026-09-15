@@ -13,8 +13,6 @@
 
 ## Blog
 
-![Blog](../docs/images/play_icons/communicate_blog.png)
-
 Join the global conversation about the future of learning through a weblog where you share stories, news, and “think-pieces” with network members to keep them informed, and where network members can see their work represented within the broader context of learning innovation.
 
 ### Getting Started
@@ -34,8 +32,6 @@ Join the global conversation about the future of learning through a weblog where
 - **Catching Up With**: Remake Learning shines a rotating spotlight on individual network members so that people who have been involved for a while can reflect on how things have changed, and new members can introduce themselves and their work.
 
 ## Social Media
-
-![Social Media](../docs/images/play_icons/communicate_social-media.png)
 
 Establish a social media presence for the network that speak on behalf of the network, using shared hashtags so that network members can contribute to the conversation and rally around special opportunities, by participating in scheduled social media events, and joining the social media backchannel happening at local and national events.
 
@@ -57,8 +53,6 @@ Establish a social media presence for the network that speak on behalf of the ne
 
 ## Conference Participation
 
-![Conference Participation](../docs/images/play_icons/communicate_conference-presentations.png)
-
 Provide stipends to send individuals or delegations of network members to relevant conferences to establish a physical presence for the network among leaders in the field and to support network members invited to present or speak at events.
 
 ### Getting Started
@@ -76,8 +70,6 @@ Provide stipends to send individuals or delegations of network members to releva
 - **Partner with Locally Hosted National Events**: When the Association of Children’s Museums hosted their annual national convening in Pittsburgh, a small amount of support for the event created an opportunity for Remake Learning Network members to be featured in a special round of ’Small Talks’ before this national audience.
 
 ## Directory
-
-![Directory](../docs/images/play_icons/communicate_directory.png)
 
 Create a digital directory that collects the basic information and contact details for the people, programs, and organizations that make up the network so that network members can see themselves as part of a larger whole, access a catalog of available resources and support services, and browse a calendar of upcoming events and opportunities to engage.
 
@@ -99,8 +91,6 @@ Create a digital directory that collects the basic information and contact detai
 
 ## Amplify Youth Voice
 
-![Amplify Youth Voice](../docs/images/play_icons/communicate_youth-voice.png)
-
 Invite young people to contribute authentic stories and personal reflections on their learning experiences and other forms of participation in the network in order to create a public channel for sharing the voices of youth impacted by the network with the members themselves, as well as other audiences.
 
 ### Getting Started
@@ -120,8 +110,6 @@ Invite young people to contribute authentic stories and personal reflections on 
 
 ## Newsletter
 
-![Newsletter](../docs/images/play_icons/communicate_newsletter.png)
-
 Deliver relevant and actionable content on a regular schedule, including links to relevant news stories and reports, as well as alerts about upcoming events and opportunities, so that network members can stay informed and engaged and begin to identify the network as a reliable source for information.
 
 ### Getting Started
@@ -140,8 +128,6 @@ Deliver relevant and actionable content on a regular schedule, including links t
 - **Event & Opportunity Alerts**: Remake Learning sends a weekly message focused on a single upcoming opportunity that the network needs to know about, including major events, funding opportunities, contests for youth, and announcements of new initiatives.
 
 ## Documentation & Storytelling
-
-![Documentation & Storytelling](../docs/images/play_icons/communicate_documentation-storytelling.png)
 
 Commission writers, photographers, videographers, and designers to produce original stories and images that capture the network in action, shine a spotlight on network success stories, and amplify the voice of individual network members.
 
@@ -164,8 +150,6 @@ Commission writers, photographers, videographers, and designers to produce origi
 
 ## Press Outreach
 
-![Press Outreach](../docs/images/play_icons/communicate_press-outreach.png)
-
 Pitch stories to local and national press contacts that highlight the exceptional work of specific network members, elevate the profile of experts and leaders within the network for quotation and comment in larger stories, and help to establish the community as a place where educators and innovators are taking concrete steps to improve learning opportunities for young people.
 
 ### Getting Started
@@ -187,8 +171,6 @@ Pitch stories to local and national press contacts that highlight the exceptiona
 
 ## Publications
 
-![Publications](../docs/images/play_icons/communicate_publications.png)
-
 Publish documents that report on network activities and accomplishments and capture and share the best of the network’s learnings that can act as resource guides for others seeking to implement similar programs and strategies.
 
 ### Getting Started
@@ -207,8 +189,6 @@ Publish documents that report on network activities and accomplishments and capt
 - **Applied Research Reports**: University of Pittsburgh researcher Tom Akiva studied how out-of-school learning programs built youth leadership opportunities into their programs and shared recommendations for designing and managing youth advisory councils in a Remake Learning report.
 
 ## From Local to National
-
-![From Local to National](../docs/images/play_icons/communicate_local-to-national.png)
 
 Share examples of network success with influential audiences by inviting peers, policymakers, researchers, and funders to visit and tour the network and by seeking opportunities to showcase network success at national events focusing on learning innovation.
 

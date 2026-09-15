@@ -12,8 +12,6 @@
 
 ## Catalytic Grants
 
-![Catalytic Grants](../docs/images/play_icons/catalyze_catalytic-grants.png)
-
 Offer small-scale funding awards to catalyze new and innovative learning programs and projects both in-school and out-of-school so that network members have the support necessary to put their ideas into action through pilot programs, design partnerships, and product prototypes that educators and students can use to explore new ways of teaching and learning.
 
 ### Getting Started
@@ -32,8 +30,6 @@ Offer small-scale funding awards to catalyze new and innovative learning program
 - **Funding Coalitions**: Local philanthropies can also make targeted, small-scale investments in pilot projects, like the Entertainment Technology Academy at Elizabeth Forward High School which was catalyzed by a small grant from The Grable Foundation.
 
 ## Project Assistance
-
-![Project Assistance](../docs/images/play_icons/catalyze_project-assistance.png)
 
 Provide value-added services to support the professional and leadership development of network members by connecting them with experienced mentors, equipping them with toolkits and guides, and partnering unincorporated groups with fiscal sponsors.
 
@@ -54,8 +50,6 @@ Provide value-added services to support the professional and leadership developm
 
 ## Research Fellows
 
-![Research Fellows](../docs/images/play_icons/catalyze_fellowships.png)
-
 Provide research fellowships to invest in local thought leaders including researchers, scholars and practitioners who can partner with other network members to study learning innovation in practice, evaluate the effectiveness of programs, and provide informed guidance in the design or re-design of programs.
 
 ### Getting Started
@@ -74,8 +68,6 @@ Provide research fellowships to invest in local thought leaders including resear
 - **Community Fellows**: Professor Tom Akiva led a team of researchers from University of Pittsburgh School of Education to study how youth-serving organizations organized and supported youth advisory committees and shared recommendations with the rest of the network.
 
 ## Request for Proposal
-
-![Request for Proposal](../docs/images/play_icons/catalyze_rfps.png)
 
 Make strategic funding available through contests, competitions, or Requests for Proposal (RFP) to focus the network’s attention on issues and opportunities of critical importance, such as summer learning loss prevention, school classroom transformation, or in coordination with national campaigns like City of Learning.
 
@@ -96,8 +88,6 @@ Make strategic funding available through contests, competitions, or Requests for
 
 ## Incubate Ventures
 
-![Incubate Ventures](../docs/images/play_icons/catalyze_incubate-ventures.png)
-
 Establish or support existing start-up incubators where local entrepreneurs can develop emerging education technology concerns and connect with educators and researchers in the network to co-design, playtest, and evaluate new education technology products.
 
 ### Getting Started
@@ -117,8 +107,6 @@ Establish or support existing start-up incubators where local entrepreneurs can 
 - **Higher Ed Spin-Outs**: CREATE Lab, a socially-oriented research and development lab within Carnegie Mellon’s Robotics Institute, has seen graduate student projects like the Finch turn into viable ed-tech businesses like BirdBrain Technologies.
 
 ## National Funding Support
-
-![National Funding Support](../docs/images/play_icons/catalyze_national-funding-support.png)
 
 Seek opportunities to secure funding commitments from national philanthropies, government agencies, and other stakeholders by matching network members leading in specific areas to anticipated priorities, and providing technical assistance to apply for national funding opportunities.
 

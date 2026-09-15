@@ -12,8 +12,6 @@
 
 ## Showcase
 
-![Showcase](../docs/images/play_icons/champion_showcase.png)
-
 Organize interactive exhibits that showcase exemplary network projects and programs at public events like arts fairs, summer fests, holiday events, and other gatherings that attract large numbers of children, youth, and families so that more people can have personal, hands-on experiences with learning innovation.
 
 ### Getting Started
@@ -33,8 +31,6 @@ Organize interactive exhibits that showcase exemplary network projects and progr
 
 ## Event Sponsorship
 
-![Event Sponsorship](../docs/images/play_icons/champion_event-sponsorship.png)
-
 Provide financial support and lend the network’s name to events, workshops, camps, conferences, and professional development sessions that introduce educators and others to new and innovative teaching and learning practices.
 
 ### Getting Started
@@ -53,8 +49,6 @@ Provide financial support and lend the network’s name to events, workshops, ca
 - **Creating Space for the Network**: By sponsoring the Flipped Learning Conference in 2014, Remake Learning was able to secure dedicated space and time to host a network showcase for more than 200 educators visiting Pittsburgh from around the country.
 
 ## Awards
-
-![Awards](../docs/images/play_icons/champion_awards.png)
 
 Recognize excellence among network members and celebrate the work of young people involved in network programs by hosting new or partnering with established events where awards and prizes can be given to elevate the best of the network and inspire others to achieve similar results.
 
@@ -77,8 +71,6 @@ Recognize excellence among network members and celebrate the work of young peopl
 
 ## Advertising & Marketing
 
-![Advertising & Marketing](../docs/images/play_icons/champion_advertising-marketing.png)
-
 Establish a presence for the network in the local media market by purchasing advertising placements and underwriting messages such as PSAs on local television and radio, print and digital advertising in local publications, and distributing marketing materials through street teams.
 
 ### Getting Started
@@ -97,8 +89,6 @@ Establish a presence for the network in the local media market by purchasing adv
 - **Sponsored Content**: The Sprout Fund produced a special advertising section featuring a vibrant eight-page spread on Remake Learning in two issues of Pittsburgh Magazine, a major monthly publication reaching influential audiences in the Pittsburgh metro area.
 
 ## Network Gatherings
-
-![Network Gatherings](../docs/images/play_icons/champion_network-gatherings.png)
 
 Gather network members at an annual event to celebrate their individual and collective achievements, reflect on all that has been accomplished, celebrate student achievement, and energize network members for the work that is still ahead.
 

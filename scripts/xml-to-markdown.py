@@ -536,9 +536,6 @@ def export_play_group(group):
         pname = text_of(play.find("name"))
         plays.append((pslug, pname))
         parts.append(ctx.heading(2, esc(pname), f"{area}-{pslug}"))
-        icon = f"play_icons/{area}_{pslug}.png"
-        if (IMAGES / icon).exists():
-            parts.append(f"![{esc(pname)}]({ctx.image(icon)})")
         excerpt = play.find("excerpt")
         if excerpt is not None and text_of(excerpt):
             parts.append(inline(excerpt, ctx).strip())
