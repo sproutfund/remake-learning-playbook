@@ -29,31 +29,31 @@ To help you get started, we’ve developed a simple advocacy kit you can use to 
 
 ## Gameplan Web App
 
-*Use the [Gameplan Web App](http://gameplan.remakelearning.org/) to create and share your own customized version of the remake learning playbook remixed for your community.*
+*Use the Gameplan Web App to create and share your own customized version of the remake learning playbook remixed for your community.*
 
 If you think of the Playbook as the *textbook* from school you weren’t supposed to write in, then the Gameplan is your personal *workbook* full of notes, revisions, and edits. The Gameplan output can be a ready reference when you’re in the midst of implementing and as a foundational document to return to and check you’re progress.
 
 ### 1. Initial Survey
 
-![](http://gameplan.remakelearning.org/images/screenshots/01_landing_400x320.png)
+![](docs/images/gameplan/01_landing_400x320.png)
 
 Answer a few questions about yourself and your community to help prepare the system to suggest partners and recommend plays that are most suitable for you and your community.
 
 ### 2. Meet Coach
 
-![](http://gameplan.remakelearning.org/images/screenshots/03_coach_400x320.png)
+![](docs/images/gameplan/03_coach_400x320.png)
 
 Hear from a member of the Remake Learning Network with a similar background to yours and learn how they participate in the network and benefit from its services.
 
 ### 3. Identify Partners
 
-![](http://gameplan.remakelearning.org/images/screenshots/04_partners_400x320.png)
+![](docs/images/gameplan/04_partners_400x320.png)
 
 List organizations in your community who represent the sectors necessary to build a network: Learning Environments, Innovation Research & Development, Learning Scholarship & Advocacy, Commercial & Entrepreneurial Engagement, Strategic Stewardship.
 
 ### 4. Select Plays
 
-![](http://gameplan.remakelearning.org/images/screenshots/05_plays_400x320.png)
+![](docs/images/gameplan/05_plays_400x320.png)
 
 Learn how you can put network building strategies into action by implementing plays to Convene, Catalyze, Communicate, Coordinate, and Champion your network.
 
@@ -61,25 +61,25 @@ Each play includes include step-by-step instructions and advice, as well as link
 
 ### 5. Set Goals
 
-![](http://gameplan.remakelearning.org/images/screenshots/06_goals_400x320.png)
+![](docs/images/gameplan/06_goals_400x320.png)
 
 Establish measurable objectives that your network will work to achieve. Reflect on the partners you’ve identified and the strategies and plays you’ve selected, then commit to a reasonable set of short, medium, and long-term goals that your network will achieve together.
 
 ### 6. Choose Team
 
-![](http://gameplan.remakelearning.org/images/screenshots/07_team_400x320.png)
+![](docs/images/gameplan/07_team_400x320.png)
 
 Assemble a team of collaborators who can help you move this work forward. These are the key players who will help us take this work forward. Even small networks need contributions from talented people who understand the value of working together across sectors toward a common goal.
 
 ### 7. Pep Talk
 
-![](http://gameplan.remakelearning.org/images/screenshots/08_pep-talk_400x320.png)
+![](docs/images/gameplan/08_pep-talk_400x320.png)
 
 Now that you have a Gameplan, use the Remake Learning Advocacy Kit to create presentations for the variety of audiences your team will need to recruit into the effort.
 
 ### 8. View & Share
 
-![](http://gameplan.remakelearning.org/images/screenshots/09_view-share_400x320.png)
+![](docs/images/gameplan/09_view-share_400x320.png)
 
 Publish your Gameplan and share it with your team to get started remaking learning. Use the Gameplan you just created as a guiding document for the development of your local learning innovation network.
 

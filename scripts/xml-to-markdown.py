@@ -170,6 +170,8 @@ def inline_node(el, ctx, italic=False, bold=False):
         return "  \n"
     if tag == "img":
         src = el.get("src") or el.get("data-src") or ""
+        if src.startswith("images/"):
+            src = ctx.image(src[len("images/"):])
         alt = esc(el.get("alt") or el.get("title") or "")
         return f"![{alt}]({src})"
     if tag == "iframe":
