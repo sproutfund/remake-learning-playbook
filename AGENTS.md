@@ -14,7 +14,13 @@ The source text and published site for the **Remake Learning Playbook**, a 2015 
 - `case-studies/` — eleven case studies of network projects.
 - `plays/` — the five plays (Convene, Catalyze, Communicate, Coordinate, Champion).
 - `chapters.md`, `case-studies.md`, `plays-in-detail.md` — section landing pages.
-- `docs/` — the published static site (GitHub Pages, custom domain in `docs/CNAME`). HTML, CSS, JS, fonts, images, and downloadable PDFs. Edited by hand; there is no build step.
+- `docs/` — the published static site. HTML, CSS, JS, fonts, images, and downloadable PDFs. Edited by hand; there is no build step. The folder is named `docs/` because GitHub Pages branch deployment only accepts `/` or `/docs` as the publishing folder; it is not documentation.
+
+## Hosting
+
+- **GitHub Pages**, deployed from the `master` branch, `/docs` folder. Live at https://playbook.remakelearning.org/.
+- **Custom domain** set in `docs/CNAME`. The DNS record is a CNAME from `playbook.remakelearning.org` to `sproutfund.github.io`, held in the `remakelearning.org` zone at pair Networks. The Sprout Fund does not control that zone; Remake Learning does. If the record is ever removed or repointed, the site goes dark and `docs/CNAME` must be changed or deleted. The apex zone listing does not show subdomain records, so check the name directly (`dig playbook.remakelearning.org CNAME`).
+- **HTTPS** is provisioned by GitHub through Let's Encrypt and renewed automatically every 90 days once the CNAME resolves. No one has to act on renewal. There is no Cloudflare or other proxy in front of the site.
 
 ## Working rules
 
