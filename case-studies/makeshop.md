@@ -79,7 +79,7 @@ If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](ht
 - [**The Learning Practices of Making: An Evolving Framework for Design**](https://web.archive.org/web/20160713131304/http://makeshoppgh.com/wp-content/uploads/2015/02/MAKESHOP-Learning-Practices-formatted_FINAL_Feb-2015.pdf): In-depth description of MAKESHOP’s Learning Practices.
 - [**Make a Makerspace**](https://web.archive.org/web/20160601131312/http://makeshoppgh.com/resources/make-a-makerspace/): MAKESHOP’s recommendations for the design and development of making experiences for learning.
 - [**Makerspace Playbook**](https://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf)**:** A resource for teachers, parents, and makers to make it easier to launch a space and get a program up and running.
-- [**Handmade in MAKESHOP**](https://s3.amazonaws.com/cmop_production/downloads/256/CMP_MakeShop_Catalog_2015_web_3_.pdf): A catalog of MAKESHOP’s offerings, activities, exhibits, and furnishings.
+- **Handmade in MAKESHOP**: A catalog of MAKESHOP’s offerings, activities, exhibits, and furnishings.
 
 ### Online Resources
 

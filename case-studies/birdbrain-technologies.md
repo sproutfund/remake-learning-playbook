@@ -69,7 +69,7 @@ If you’re interested in learning more about BirdBrain Technologies, contact [T
 ### Downloadable Materials
 
 - [**Hummingbird Curricula & Resources**](https://web.archive.org/web/20151122034618/http://www.hummingbirdkit.com/teaching/resources): Teacher guides, lesson planning forms, student worksheets, and comics to support educators implement Hummingbird kits effectively.
-- [**Hummingbird Duo User Guide**](https://dl.dropboxusercontent.com/u/9303915/hummingbird-duo-guide.pdf): Complete guide for using the Hummingbird Duo kit, including identifying the physical components and programming your bot.
+- **Hummingbird Duo User Guide**: Complete guide for using the Hummingbird Duo kit, including identifying the physical components and programming your bot.
 - [**Arts & Bots Hummingbird Workshop Materials**](https://artsandbots.posthaven.com/arts-and-bots-workshop-materials-updated): Workshop presentation and reference sheet for using the hummingbird kit.
 - [**Arts & Bots Full Hummingbird Curriculum**](https://artsandbots.posthaven.com/full-curriculum): Curricula used by Arts & Bots for teaching language art, science, art, technology, math, social studies, biology, and anatomy.
 - [**Hummingbird Comic—Connecting Electronics**](https://web.archive.org/web/20161013215309/https://dl.dropboxusercontent.com/u/9303915/Connecting%20Electronics2.3.15.pdf): Comic-style presentation of the connections and electronic components of the Hummingbird kit.

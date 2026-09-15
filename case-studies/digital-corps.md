@@ -75,11 +75,11 @@ If you’re interested in learning more about the Digital Corps, contact [Ani Ma
 ### Downloadable Materials
 
 - [Mentoring Manual for Digital Literacy coaches](https://www.scribd.com/fullscreen/241612718?access_key=key-Bg478gqESrAGRd9vGINd&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll): Guide for being an effective youth mentor, adapted to the needs of digital learning coaches.
-- [Guide for facilitating Digital Literacy workshops](https://theanimal.makes.org/thimble/MTYzMzIyMjkxMg==/facilitating-digital-corps-workshops): Teaching kit designed to help Digital Corps members structure their facilitation process.
+- Guide for facilitating Digital Literacy workshops: Teaching kit designed to help Digital Corps members structure their facilitation process.
 - Digital Literacy Passport: A printed booklet learners can use to keep track of what they learn and reflect on their new skills. (*forthcoming*)
-- [Creative Computing Teaching Kit](https://theanimal.makes.org/thimble/LTE4NDI4MDY1Mjg=/computation-creation-with-scratch-teaching-kit): Curriculum for teaching computational creation using Scratch, MaKeyMaKey, and Hummingbird.
-- [Webmaking Teaching Kit](https://theanimal.makes.org/thimble/LTExMzU4MDQxNjA=/digicorps-webmaker-teaching-kit): Curriculum for teaching webmaking using Mozilla Webmaker suite.
-- [Mobile Media Teaching Kit](https://theanimal.makes.org/thimble/MTMyMTY2NDc2OA==/digicorps-mobile-media-teaching-kit): Curriculum for teaching mobile design using coding languages and Mozilla Appmaker.
+- Creative Computing Teaching Kit: Curriculum for teaching computational creation using Scratch, MaKeyMaKey, and Hummingbird.
+- Webmaking Teaching Kit: Curriculum for teaching webmaking using Mozilla Webmaker suite.
+- Mobile Media Teaching Kit: Curriculum for teaching mobile design using coding languages and Mozilla Appmaker.
 
 ### Online Resources
 

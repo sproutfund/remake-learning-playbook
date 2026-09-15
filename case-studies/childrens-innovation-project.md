@@ -77,7 +77,7 @@ If you’re interested in learning more about Children’s Innovation Project, c
 ### Downloadable Materials
 
 - [**Children’s Innovation Project Learning Store**](https://web.archive.org/web/20160210063857/http://www.ciplearningstore.com/): Online store for the circuit blocks used by the Children’s Innovation Project.
-- [**Introduction to Circuit Blocks**](http://www.ciplearningstore.com/introduction): Explanations and descriptions of terminology, functions, and activities using Circuit Blocks.
+- **Introduction to Circuit Blocks**: Explanations and descriptions of terminology, functions, and activities using Circuit Blocks.
 - [**Buy Circuit Blocks**](https://web.archive.org/web/20160209181402/http://www.ciplearningstore.com/circuit-block-sets/): Pricing and selection of circuit blocks available for purchase.
 - Children’s Innovation Project Documentary ( *forthcoming*)
 
