@@ -10,11 +10,21 @@ The source text and published site for the **Remake Learning Playbook**, a 2015 
 
 - `README.md` — about the Playbook, with links to every section.
 - `SUMMARY.md` — GitBook-style table of contents. Keep it in sync with `README.md` when links change.
-- `chapters/` — the six chapters plus a guest note and a guest essay.
+- `chapters/` — the welcome letter, six chapters, a guest note, and a guest essay.
 - `case-studies/` — eleven case studies of network projects.
-- `plays/` — the five plays (Convene, Catalyze, Communicate, Coordinate, Champion).
+- `plays/` — the five plays (Convene, Catalyze, Communicate, Coordinate, Champion), one file per action area.
 - `chapters.md`, `case-studies.md`, `plays-in-detail.md` — section landing pages.
+- `additional-resources.md`, `acknowledgements.md` — back matter.
+- `sources/` — the XML and XSLT that built the site in 2015, plus the ebook's XHTML source. **This is the source of truth for the text.** See `sources/README.md`.
+- `scripts/xml-to-markdown.py` — regenerates every Markdown file above from `sources/*.xml`. Stdlib only; run `python3 scripts/xml-to-markdown.py` from anywhere.
 - `docs/` — the published static site. HTML, CSS, JS, fonts, images, and downloadable PDFs. Edited by hand; there is no build step. The folder is named `docs/` because GitHub Pages branch deployment only accepts `/` or `/docs` as the publishing folder; it is not documentation.
+
+## Two copies of the text
+
+The Markdown and the `docs/` HTML are separate renderings of the same book:
+
+- **Markdown** is generated. Never edit `chapters/`, `case-studies/`, `plays/`, the landing pages, `additional-resources.md`, or `acknowledgements.md` by hand. Edit the XML in `sources/` and re-run the script; commit the XML, the script if it changed, and the regenerated files together.
+- **HTML** under `docs/` is hand-maintained. The XSLT in `sources/` can no longer reproduce it (the site's navigation and order forms were stripped in 2026), so a correction has to be made in the HTML directly as well as in the XML.
 
 ## Hosting
 
@@ -24,10 +34,9 @@ The source text and published site for the **Remake Learning Playbook**, a 2015 
 
 ## Working rules
 
-- **Preserve the published text.** The Markdown is the book as printed. Do not rewrite, modernize, or "improve" prose. Fix a broken link or a typo only when asked.
-- **Link maintenance is the main job.** Most recent commits update or remove URLs that have rotted (organization sites, project pages, purchase links). When updating a link, prefer an archival URL over deleting the reference.
-- **Markdown and `docs/` are separate copies.** A change to a link or a name usually needs to land in both the Markdown source and the corresponding HTML under `docs/`. Check both.
-- **Keep commits small and specific.** One concern per commit, with a subject line that says what changed (the existing history is the model: "Update Digital Corps links", "Remove Kindle purchase links").
+- **Preserve the published text.** The book is finished. Do not rewrite, modernize, or "improve" prose. Fix a broken link or a typo only when asked.
+- **Link maintenance is the main job.** Most commits update or remove URLs that have rotted. Prefer an archival URL over deleting the reference. Make the change in both the XML and the HTML.
+- **Keep commits small and specific.** One concern per commit, with a subject line that says what changed (the history is the model: "Update Digital Corps links", "Remove Kindle purchase links").
 - **Stage by path.** Use `git add <files>` and `git commit -- <files>`; never `git add -A`. Leave `.DS_Store` out.
 - **Do not push without being asked.** Pushing publishes to the live site.
 
