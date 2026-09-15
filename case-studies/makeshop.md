@@ -86,15 +86,15 @@ If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](ht
 - [**Making & Learning: Building a Framework for Making in Museums & Libraries**](https://makingandlearning.squarespace.com/): A site for makerspaces in museums and libraries to join the conversation, share work, and connect.
 - [**MAKESHOP Educator & Professional Opportunities**](https://web.archive.org/web/20151104171705/http://makeshoppgh.com/resources/educator-professional-opportunities/): Descriptions of MAKESHOP’s programs for maker educators and schools.
 - [**MAKESHOP Kickstarting Making in Schools**](https://web.archive.org/web/20150608040805/http://makeshoppgh.com/resources/kickstarting-making-in-schools/): Collaboration between MAKESHOP and area schools to create avenues for schools to learn more about making.
-- [**Questions to Think About in Maker Spaces**](http://mindfulmakerkids.info/)**:** A set of questions (with downloadable poster) that “Mindful Makers Ask Themselves” to encourage effective making.
+- [**Questions to Think About in Maker Spaces**](https://web.archive.org/web/20150402033606/http://mindfulmakerkids.info/)**:** A set of questions (with downloadable poster) that “Mindful Makers Ask Themselves” to encourage effective making.
 - [**Make Your Own Maker Space**](https://web.archive.org/web/20150911234113/http://www.hfrp.org/complementary-learning/snapshots/make-your-own-maker-space): Tips from Lisa Brahms for creating engaging maker spaces for children and families.
 
 ### Related Projects & Partners
 
 - [**The Maker’s Place**](https://themakersplace.org/): An entrepreneurship, science, technology, engineering, art and math focused out-of-school time program in Pittsburgh.
-- [**TechShop Pittsburgh**](https://www.techshop.ws/pittsburgh.html): A community-based workshop and prototyping studio on a mission to democratize access to the tools of innovation.
-- [**Hilltop YMCA Creator Space**](https://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space/): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
-- [**Manchester Craftsmen’s Guild Youth & Arts**](http://mcgyouthandarts.org/): Arts and career training center whose mission is to educate and inspire urban youth through the arts.
+- [**TechShop Pittsburgh**](https://web.archive.org/web/20151102061943/http://www.techshop.ws/pittsburgh.html): A community-based workshop and prototyping studio on a mission to democratize access to the tools of innovation.
+- [**Hilltop YMCA Creator Space**](https://web.archive.org/web/20150909230949/http://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
+- [**Manchester Craftsmen’s Guild Youth & Arts**](https://www.mcgyouth.org/): Arts and career training center whose mission is to educate and inspire urban youth through the arts.
 
 ---
 

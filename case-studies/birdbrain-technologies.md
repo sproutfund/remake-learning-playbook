@@ -68,30 +68,30 @@ If you’re interested in learning more about BirdBrain Technologies, contact [T
 
 ### Downloadable Materials
 
-- [**Hummingbird Curricula & Resources**](http://www.hummingbirdkit.com/teaching/resources): Teacher guides, lesson planning forms, student worksheets, and comics to support educators implement Hummingbird kits effectively.
+- [**Hummingbird Curricula & Resources**](https://web.archive.org/web/20151122034618/http://www.hummingbirdkit.com/teaching/resources): Teacher guides, lesson planning forms, student worksheets, and comics to support educators implement Hummingbird kits effectively.
 - [**Hummingbird Duo User Guide**](https://dl.dropboxusercontent.com/u/9303915/hummingbird-duo-guide.pdf): Complete guide for using the Hummingbird Duo kit, including identifying the physical components and programming your bot.
 - [**Arts & Bots Hummingbird Workshop Materials**](https://artsandbots.posthaven.com/arts-and-bots-workshop-materials-updated): Workshop presentation and reference sheet for using the hummingbird kit.
 - [**Arts & Bots Full Hummingbird Curriculum**](https://artsandbots.posthaven.com/full-curriculum): Curricula used by Arts & Bots for teaching language art, science, art, technology, math, social studies, biology, and anatomy.
-- [**Hummingbird Comic—Connecting Electronics**](https://dl.dropboxusercontent.com/u/9303915/Connecting%20Electronics2.3.15.pdf): Comic-style presentation of the connections and electronic components of the Hummingbird kit.
-- [**Hummingbird Comic—Building Your First Bot**](https://dl.dropboxusercontent.com/u/9303915/Build%20Your%20First%20Bot.pdf): Comic-style presentation of steps for building a simple robot using the Hummingbird kit.
-- [**Hummingbird Comic—CREATELab Visual Programmer**](https://dl.dropboxusercontent.com/u/9303915/Create%20Lab%20Visual%20Programmer.pdf): Comic-style presentation for using the CREATELab Visual Programmer.
-- [**Hummingbird Grant Writing Assistance**](http://www.hummingbirdkit.com/buy/grant-assistance): A collection of tools and resources, including application templates, for requesting funding to support the use of Hummingbird Kits.
-- [**Finch Grant Writing Assistance**](http://www.finchrobot.com/grant-writing-materials): A collection of tools and resources, including application templates, for requesting funding to support the use of the Finch.
+- [**Hummingbird Comic—Connecting Electronics**](https://web.archive.org/web/20161013215309/https://dl.dropboxusercontent.com/u/9303915/Connecting%20Electronics2.3.15.pdf): Comic-style presentation of the connections and electronic components of the Hummingbird kit.
+- [**Hummingbird Comic—Building Your First Bot**](https://web.archive.org/web/20161013221802/https://dl.dropboxusercontent.com/u/9303915/Build%20Your%20First%20Bot.pdf): Comic-style presentation of steps for building a simple robot using the Hummingbird kit.
+- [**Hummingbird Comic—CREATELab Visual Programmer**](https://web.archive.org/web/20161013215254/https://dl.dropboxusercontent.com/u/9303915/Create%20Lab%20Visual%20Programmer.pdf): Comic-style presentation for using the CREATELab Visual Programmer.
+- [**Hummingbird Grant Writing Assistance**](https://web.archive.org/web/20151218081102/http://hummingbirdkit.com/buy/grant-assistance): A collection of tools and resources, including application templates, for requesting funding to support the use of Hummingbird Kits.
+- [**Finch Grant Writing Assistance**](https://web.archive.org/web/20151107024848/http://finchrobot.com/grant-writing-materials): A collection of tools and resources, including application templates, for requesting funding to support the use of the Finch.
 
 ### Online Resources
 
-- [**Finch Robot Loan Program**](http://www.finchrobot.com/loan-program/main): A program that loans out six sets of 40 Finch robots monthly during the school year, so that young coders across the country can have access to the Finch.
-- [**Finch Assignments**](http://www.finchrobot.com/assignments): Collected assignments and activities that allow educators to get up and running with the Finch quickly—organized by the concept being illustrated.
-- [**Hummingbird Community**](http://www.hummingbirdkit.com/community): Forums, classroom-tested projects, and other resources for teaching with the Hummingbird kit; for educators, by educators.
-- [**Hummingbird Virtual Training Workshop**](http://www.hummingbirdkit.com/learning/training/virtual-workshop): A collection of 8 videos that serve as a virtual workshop to get educators up and running with the Hummingbird kit.
-- [**Hummingbird Tutorials**](http://www.hummingbirdkit.com/learning/tutorials/): Tutorials for building and programming robots of various complexity.
+- [**Finch Robot Loan Program**](https://web.archive.org/web/20151107160339/http://finchrobot.com/loan-program/main): A program that loans out six sets of 40 Finch robots monthly during the school year, so that young coders across the country can have access to the Finch.
+- [**Finch Assignments**](https://web.archive.org/web/20151110060639/http://finchrobot.com/assignments): Collected assignments and activities that allow educators to get up and running with the Finch quickly—organized by the concept being illustrated.
+- [**Hummingbird Community**](https://web.archive.org/web/20151018100311/http://www.hummingbirdkit.com/community): Forums, classroom-tested projects, and other resources for teaching with the Hummingbird kit; for educators, by educators.
+- [**Hummingbird Virtual Training Workshop**](https://web.archive.org/web/20150704103855/http://www.hummingbirdkit.com/learning/training/virtual-workshop): A collection of 8 videos that serve as a virtual workshop to get educators up and running with the Hummingbird kit.
+- [**Hummingbird Tutorials**](https://web.archive.org/web/20151017090402/http://www.hummingbirdkit.com/learning/tutorials/): Tutorials for building and programming robots of various complexity.
 - [**Educational Robotics for the Classroom**](https://artsandbots.posthaven.com/pages/educational-products-for-the-classroom): Educational partners and course materials for Hummingbird educator workshops.
 
 ### Related Projects & Partners
 
 - [**Zulama**](https://web.archive.org/web/20160111115010/http://zulama.com/): An educational technology company that develops systems and tools that blend technology and creativity for educators and students.
 - [**Romibo**](https://web.archive.org/web/20151030043756/http://origamirobotics.com/): An interactive robot developed to assist with autism therapy and language learning by telling stories and delivering prompts and praise.
-- [**Carnegie Mellon’s Robotics Academy**](http://education.rec.ri.cmu.edu/): A research organization with CMU’s School of Computer Science that studies how teachers use robots in classrooms to teach CS-STEM.
+- [**Carnegie Mellon’s Robotics Academy**](https://www.cmu.edu/roboticsacademy/): A research organization with CMU’s School of Computer Science that studies how teachers use robots in classrooms to teach CS-STEM.
 - [**Schell Games**](https://www.schellgames.com/): A game design and development company that specializes in creating interactive educational games.
 - [**Little Bird Games**](https://web.archive.org/web/20140517215041/http://littlebirdgames.com/): An educational and therapeutic video, board, and card game design company.
 

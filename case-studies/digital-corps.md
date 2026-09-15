@@ -18,7 +18,7 @@ The Sprout Fund recruits a wide range of professionals from a variety of fields 
 
 In partnership with APOST, Sprout seeks host sites that are trusted members of their community and attract a steady afterschool population of tweens and teens. Ranging from established organizations like YMCAs, libraries, and churches to smaller neighborhood organizations, the Digital Corps provides everything needed for a successful session: the tech tools, the mobile Wi-Fi, even the snacks.
 
-During each 90-minute Digital Corps session, participating youth can pursue learning tracks in Creative Computing, Webmaking, and Mobile Media. Through Creative Computing projects, students use [Scratch](https://web.archive.org/web/20150911222542/http://remakelearning.org/resource/scratch/), [MaKey MaKey](https://web.archive.org/web/20150912164050/http://remakelearning.org/resource/makey-makey/), and [Hummingbird Robotics Kits](https://web.archive.org/web/20150912101609/http://remakelearning.org/resource/hummingbird/) to explore conductivity, engineering, and design. When focusing on Webmaking, students use [Mozilla Webmaker](https://webmaker.org/en-US) to learn HTML structure, web design, and storytelling. And when making Mobile Media, students use [Mozilla App Maker](https://apps.webmaker.org/designer) and MIT’s [App Inventor](https://web.archive.org/web/20150912145029/http://remakelearning.org/resource/app-inventor/) to learn mobile design techniques, grid-math, and programming languages.
+During each 90-minute Digital Corps session, participating youth can pursue learning tracks in Creative Computing, Webmaking, and Mobile Media. Through Creative Computing projects, students use [Scratch](https://web.archive.org/web/20150911222542/http://remakelearning.org/resource/scratch/), [MaKey MaKey](https://web.archive.org/web/20150912164050/http://remakelearning.org/resource/makey-makey/), and [Hummingbird Robotics Kits](https://web.archive.org/web/20150912101609/http://remakelearning.org/resource/hummingbird/) to explore conductivity, engineering, and design. When focusing on Webmaking, students use [Mozilla Webmaker](https://web.archive.org/web/20151105075516/https://beta.webmaker.org/) to learn HTML structure, web design, and storytelling. And when making Mobile Media, students use [Mozilla App Maker](https://web.archive.org/web/20151013160048/https://apps.webmaker.org/designer) and MIT’s [App Inventor](https://web.archive.org/web/20150912145029/http://remakelearning.org/resource/app-inventor/) to learn mobile design techniques, grid-math, and programming languages.
 
 Digital Corps curricula not only teach technical skills, but also foster 21st century skills-development, teaching kids how critical thinking, communication, collaboration, and creativity are interconnected. Youth learn to ask questions (of each other and of instructors) and delve into support resources online to find and fix bugs in their own projects.
 
@@ -84,15 +84,15 @@ If you’re interested in learning more about the Digital Corps, contact [Ani Ma
 ### Online Resources
 
 - [The Digital Corps online](https://www.sproutfund.org/program/digital-corps/): Digital Corps home website.
-- [Mozilla Webmaker](https://webmaker.org/en-US): Mozilla’s open-source educational initiative to “help millions of people move from using the web to making the web.”
+- [Mozilla Webmaker](https://web.archive.org/web/20151105075516/https://beta.webmaker.org/): Mozilla’s open-source educational initiative to “help millions of people move from using the web to making the web.”
 - [ScratchEd](https://scratched.gse.harvard.edu/): An online community for Scratch educators.
-- [Hummingbird Teaching Community](http://www.hummingbirdkit.com/community): An online community for Hummingbird educators.
+- [Hummingbird Teaching Community](https://web.archive.org/web/20151018100311/http://www.hummingbirdkit.com/community): An online community for Hummingbird educators.
 - [Digital Learning Tool Catalog](https://remakelearning.org/tools/): Remake Learning’s compilation of free, low-cost and open-source digital literacy learning tools.
 
 ### Related Projects & Partners
 
-- [Tinker Squads](http://www.tinkersquads.org/): A similarly-modeled Pittsburgh afterschool program for girls centered on making and creativity.
-- [Mobile App Lab](https://sites.google.com/a/mobileapplab.org/mobile-app-lab/): An afterschool computer lab implemented to improve youth programming skills and build capacity within schools to teach programming.
+- [Tinker Squads](https://web.archive.org/web/20150907051114/http://www.tinkersquads.org/): A similarly-modeled Pittsburgh afterschool program for girls centered on making and creativity.
+- [Mobile App Lab](https://web.archive.org/web/20141220103343/https://sites.google.com/a/mobileapplab.org/mobile-app-lab/): An afterschool computer lab implemented to improve youth programming skills and build capacity within schools to teach programming.
 - [Computer Science Student Network](https://cs2n.org/): A collaborative research project between Carnegie Mellon University and the Defense Advanced Research Projects Agency designed to encourage student engagement in computer science, science, technology, engineering, and mathematics.
 - [Arts & Bots](https://artsandbots.posthaven.com/): A program in middle and elementary schools, kindergartens, and afterschool programs that uses Hummingbird Robotics Kits to engage young people in creative technology projects.
 

@@ -90,11 +90,11 @@ If you’re interested in learning more about transformED, contact [Megan Ciccon
 
 ### Related Projects & Partners
 
-- [**Project Zero at Quaker Valley**](https://www.qvsd.org/page.cfm?p=6189): A research project designed to study and improve education in the arts.
-- [**Teacher Quest**](http://www.instituteofplay.org/work/projects/teacherquest-2/): A teacher training program designed to empower teachers as designers, increase student engagement, and re-imagine teaching through games and game-like learning.
+- [**Project Zero at Quaker Valley**](https://web.archive.org/web/20151025003048/http://www.qvsd.org/page.cfm?p=6189): A research project designed to study and improve education in the arts.
+- [**Teacher Quest**](https://web.archive.org/web/20150906173245/http://www.instituteofplay.org/work/projects/teacherquest-2/): A teacher training program designed to empower teachers as designers, increase student engagement, and re-imagine teaching through games and game-like learning.
 - [**Maker Bootcamp**](https://pittsburghkids.org/education/classes-for-educators): Program offered by the Pittsburgh Children’s Museum to train educators in the skills and knowledge necessary to be a maker.
-- [**ASSET**](http://assetinc.org/): An education improvement nonprofit established to advance teaching and learning in science, technology, engineering, and math.
-- [**ABC Create**](http://abccreate.weebly.com/): A collaborative dedicated to empowering students and educators in Pennsylvania’s Allegheny-Kiski Valley by encouraging a culture of sharing best practices.
+- [**ASSET**](https://web.archive.org/web/20160118153713/https://assetinc.org/): An education improvement nonprofit established to advance teaching and learning in science, technology, engineering, and math.
+- [**ABC Create**](https://web.archive.org/web/20150821160240/http://www.abccreate.org/index.html): A collaborative dedicated to empowering students and educators in Pennsylvania’s Allegheny-Kiski Valley by encouraging a culture of sharing best practices.
 
 ---
 

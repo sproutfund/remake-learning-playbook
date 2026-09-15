@@ -6,7 +6,7 @@
 
 *Maker Parties create free, open, and accessible events for anyone to engage with hands-on learning activities that are fun and creative.*
 
-How do you make learning an exciting and fun part of life for kids who’d rather be doing anything but? Part science fair and part arts festival, [Maker Parties](https://teach.mozilla.org/events/) offer a wide sampling of arts- and technology-based activities that turn learning into a party for children, youth, and families.
+How do you make learning an exciting and fun part of life for kids who’d rather be doing anything but? Part science fair and part arts festival, [Maker Parties](https://web.archive.org/web/20151105072357/https://teach.mozilla.org/events) offer a wide sampling of arts- and technology-based activities that turn learning into a party for children, youth, and families.
 
 Globally, [Mozilla](https://www.mozilla.org/en-US/), the nonprofit working to keep the Web open and accessible to all, organizes and promotes Maker Parties as a way to introduce hundreds of thousands of people to new digital learning opportunities. Maker Parties bring together local organizations, educators, community members, and skilled mentors to host a free hands-on, pop-up learning event for teens and tweens.
 
@@ -26,7 +26,7 @@ And of course, free music and food truck delicacies helped make the event a comp
 
 “I worked on the Thimble coding,” said one teenager at the 2013 Pittsburgh Maker Party. “What we did was we placed pictures in boxes and we put captions there. So, I wrote an online story about pancakes and dancing. It was really cool.”
 
-The Maker Party campaign builds on a long history of learning pop-ups that happen in neighborhoods, at summer festivals, and holiday events all over. To update these age-old events for the digital age, Mozilla has collected resources at [teach.mozilla.org](http://teach.mozilla.org), including step-by-step guidance on event execution, promotional materials, and low-fi teaching kits for use when there’s not Wi-Fi on-site.
+The Maker Party campaign builds on a long history of learning pop-ups that happen in neighborhoods, at summer festivals, and holiday events all over. To update these age-old events for the digital age, Mozilla has collected resources at [teach.mozilla.org](https://web.archive.org/web/20151024085913/https://teach.mozilla.org/), including step-by-step guidance on event execution, promotional materials, and low-fi teaching kits for use when there’s not Wi-Fi on-site.
 
 *by Weenta Girmay*
 
