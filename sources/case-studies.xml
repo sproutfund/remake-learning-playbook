@@ -73,7 +73,7 @@
 			<photo src="20140729104646.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/infusing-a-neighborhood-with-science-and-creativity-2ec1913063d" />
-		<vimeo  url="https://vimeo.com/129009793" embed="https://player.vimeo.com/video/129009793"/>
+		<youtube url="https://www.youtube.com/watch?v=RLeMxCvLrQk" embed="https://www.youtube.com/embed/RLeMxCvLrQk" vimeo="129009793"/>
 	</case>
 	<case  id="6" slug="birdbrain-technologies">
 		<name  >BirdBrain Technologies</name>
@@ -149,7 +149,7 @@
 			<photo src="20140612192110.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/developing-ed-tech-that-learns-alongside-students-teachers-732d78ba6f2c" />
-		<vimeo  url="https://vimeo.com/129009849" embed="https://player.vimeo.com/video/129009849"/>
+		<youtube url="https://www.youtube.com/watch?v=y9or1lkwQyE" embed="https://www.youtube.com/embed/y9or1lkwQyE" vimeo="129009849"/>
 	</case>
 	<case  id="8" slug="carnegie-mellon-university">
 		<name  >Carnegie Mellon University</name>
@@ -213,7 +213,7 @@
 			<photo src="NODATE0001.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/bridging-the-community-higher-education-15dd9a85b113" />
-		<vimeo  url="https://vimeo.com/129010092" embed="https://player.vimeo.com/video/129010092"/>
+		<youtube url="https://www.youtube.com/watch?v=LNjFVkj6_dg" embed="https://www.youtube.com/embed/LNjFVkj6_dg" vimeo="129010092"/>
 	</case>
 	<case  id="7" slug="childrens-innovation-project">
 		<name  >The Children’s Innovation Project</name>
@@ -286,7 +286,7 @@
 			<photo src="20120203154451.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/supporting-young-learners-to-notice-wonder-and-persist-ebfc65b4732" />
-		<vimeo  url="https://vimeo.com/129009937" embed="https://player.vimeo.com/video/129009937"/>
+		<youtube url="https://www.youtube.com/watch?v=hqgIr5_6r4w" embed="https://www.youtube.com/embed/hqgIr5_6r4w" vimeo="129009937"/>
 	</case>
 	<case id="15" slug="city-of-learning">
 		<name  >City of Learning</name>
@@ -341,7 +341,7 @@
 			<photo src=""/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-playbook/making-learning-visible-with-digital-badges-57268c78a588" />
-		<vimeo  url="https://vimeo.com/141051521" embed="https://player.vimeo.com/video/141051521"/>
+		<youtube url="https://www.youtube.com/watch?v=kJlFkrPBRAI" embed="https://www.youtube.com/embed/kJlFkrPBRAI" vimeo="141051521"/>
 	</case>
 	<case  id="9" slug="digital-corps">
 		<name  >The Digital Corps</name>
@@ -415,7 +415,7 @@
 			<photo src="20140521164458.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/building-digital-skills-with-mobile-mentors-d79be22a49c7" />
-		<vimeo  url="https://vimeo.com/129009233" embed="https://player.vimeo.com/video/129009233"/>
+		<youtube url="https://www.youtube.com/watch?v=1v2vcOE5VgM" embed="https://www.youtube.com/embed/1v2vcOE5VgM" vimeo="129009233"/>
 	</case>
 	<case id="10" slug="elizabeth-forward-school-district">
 		<name  >Elizabeth Forward School District</name>
@@ -476,7 +476,7 @@
 			<photo src="20140123144700.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/transforming-a-school-district-one-classroom-at-a-time-5ef56b836067" />
-		<vimeo  url="https://vimeo.com/129009614" embed="https://player.vimeo.com/video/129009614"/>
+		<youtube url="https://www.youtube.com/watch?v=qJvH84XMa_w" embed="https://www.youtube.com/embed/qJvH84XMa_w" vimeo="129009614"/>
 	</case>
 	<case id="11" slug="labs-at-clp">
 		<name  >The Labs @ CLP</name>
@@ -543,7 +543,7 @@
 			<photo src="NODATE0004.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/making-noise-at-the-library-fb0e740cc9a7" />
-		<vimeo  url="https://vimeo.com/129009992" embed="https://player.vimeo.com/video/129009992"/>
+		<youtube url="https://www.youtube.com/watch?v=t8AvT4uKYAU" embed="https://www.youtube.com/embed/t8AvT4uKYAU" vimeo="129009992"/>
 	</case>
 	<case id="12" slug="maker-party">
 		<name  >Maker Parties</name>
@@ -595,7 +595,7 @@
 			<photo src="NODATE0010.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/throwing-a-party-where-guests-come-to-learn-48b38f4c9814" />
-		<vimeo  url="https://vimeo.com/129009430" embed="https://player.vimeo.com/video/129009430"/>
+		<youtube url="https://www.youtube.com/watch?v=k3GPTi0_Kto" embed="https://www.youtube.com/embed/k3GPTi0_Kto" vimeo="129009430"/>
 	</case>
 	<case id="13" slug="makeshop">
 		<name  >MAKESHOP at the Children’s Museum of Pittsburgh</name>
@@ -669,7 +669,7 @@
 			<photo src="20141109122332.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/exploring-digital-diy-learning-at-the-museum-c0392af922f7" />
-		<vimeo  url="https://vimeo.com/129010195" embed="https://player.vimeo.com/video/129010195"/>
+		<youtube url="https://www.youtube.com/watch?v=Xj2x_vgrbWc" embed="https://www.youtube.com/embed/Xj2x_vgrbWc" vimeo="129010195"/>
 	</case>
 	<case id="14" slug="transformed">
 		<name  >transformED at the Allegheny Intermediate Unit</name>
@@ -742,7 +742,7 @@
 			<photo src="NODATE0012.jpg"/>
 		</photos>
 		<medium url="https://medium.com/remake-learning-case-studies/a-playground-for-teachers-964e3b2180b" />
-		<vimeo  url="https://vimeo.com/129009541" embed="https://player.vimeo.com/video/129009541"/>
+		<youtube url="https://www.youtube.com/watch?v=Jvc6oDdoDI8" embed="https://www.youtube.com/embed/Jvc6oDdoDI8" vimeo="129009541"/>
 	</case>
 	<!--TEMPLATE
 	<case id="" slug="">

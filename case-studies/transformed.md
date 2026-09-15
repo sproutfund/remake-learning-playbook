@@ -1,8 +1,8 @@
 # transformED at the Allegheny Intermediate Unit: A Playground for Teachers
 
-[![transformED at the Allegheny Intermediate Unit](../docs/images/cases/transformed/NODATE0013_sized1024x683.jpg)](https://vimeo.com/129009541)
+[![transformED at the Allegheny Intermediate Unit](../docs/images/cases/transformed/NODATE0013_sized1024x683.jpg)](https://www.youtube.com/watch?v=Jvc6oDdoDI8)
 
-*Watch the video: [transformED at the Allegheny Intermediate Unit on Vimeo](https://vimeo.com/129009541)*
+*Watch the video: [transformED at the Allegheny Intermediate Unit on YouTube](https://www.youtube.com/watch?v=Jvc6oDdoDI8)*
 
 *transformED reimagines the look, feel, and purpose of professional development for teachers.*
 

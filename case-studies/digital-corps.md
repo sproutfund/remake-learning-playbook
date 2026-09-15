@@ -1,8 +1,8 @@
 # The Digital Corps: Building Digital Skills with Mobile Mentors
 
-[![The Digital Corps](../docs/images/cases/digital-corps/20140505170101_sized1024x683.jpg)](https://vimeo.com/129009233)
+[![The Digital Corps](../docs/images/cases/digital-corps/20140505170101_sized1024x683.jpg)](https://www.youtube.com/watch?v=1v2vcOE5VgM)
 
-*Watch the video: [The Digital Corps on Vimeo](https://vimeo.com/129009233)*
+*Watch the video: [The Digital Corps on YouTube](https://www.youtube.com/watch?v=1v2vcOE5VgM)*
 
 *The Digital Corps is a network of technology guides who engage Pittsburgh youth in digital literacy.*
 

@@ -428,14 +428,17 @@ def export_case(case):
     title = inline(case.find("title"), ctx).strip()
     parts = [ctx.heading(1, f"{esc(name)}: {title}", slug)]
 
-    vimeo = case.find("vimeo")
-    vimeo_url = vimeo.get("url") if vimeo is not None else None
+    video = case.find("youtube")
+    video_site = "YouTube"
+    if video is None:
+        video, video_site = case.find("vimeo"), "Vimeo"
+    video_url = video.get("url") if video is not None else None
     hero = pick_hero(case, slug)
     if hero:
         img = f"![{esc(name)}]({ctx.image(hero)})"
-        parts.append(f"[{img}]({vimeo_url})" if vimeo_url else img)
-    if vimeo_url:
-        parts.append(f"*Watch the video: [{esc(name)} on Vimeo]({vimeo_url})*")
+        parts.append(f"[{img}]({video_url})" if video_url else img)
+    if video_url:
+        parts.append(f"*Watch the video: [{esc(name)} on {video_site}]({video_url})*")
 
     teaser = case.find("teaser")
     if teaser is not None:

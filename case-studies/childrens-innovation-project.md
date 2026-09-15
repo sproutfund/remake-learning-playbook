@@ -1,8 +1,8 @@
 # The Children’s Innovation Project: Supporting Young Learners to Notice, Wonder, and Persist
 
-[![The Children’s Innovation Project](../docs/images/cases/childrens-innovation-project/20120203155557_sized1024x683.jpg)](https://vimeo.com/129009937)
+[![The Children’s Innovation Project](../docs/images/cases/childrens-innovation-project/20120203155557_sized1024x683.jpg)](https://www.youtube.com/watch?v=hqgIr5_6r4w)
 
-*Watch the video: [The Children’s Innovation Project on Vimeo](https://vimeo.com/129009937)*
+*Watch the video: [The Children’s Innovation Project on YouTube](https://www.youtube.com/watch?v=hqgIr5_6r4w)*
 
 *The Children’s Innovation Project approaches technology as raw material to support broad interdisciplinary learning for children to develop habits of mind as innovators.*
 

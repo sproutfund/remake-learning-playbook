@@ -1,8 +1,8 @@
 # Carnegie Mellon University: Bridging the Community & Higher Education
 
-[![Carnegie Mellon University](../docs/images/cases/carnegie-mellon-university/NODATE0002_sized1024x683.jpg)](https://vimeo.com/129010092)
+[![Carnegie Mellon University](../docs/images/cases/carnegie-mellon-university/NODATE0002_sized1024x683.jpg)](https://www.youtube.com/watch?v=LNjFVkj6_dg)
 
-*Watch the video: [Carnegie Mellon University on Vimeo](https://vimeo.com/129010092)*
+*Watch the video: [Carnegie Mellon University on YouTube](https://www.youtube.com/watch?v=LNjFVkj6_dg)*
 
 *Carnegie Mellon’s CREATE Lab and the Entertainment Technology Center are connecting university students and researchers to the communities they serve.*
 

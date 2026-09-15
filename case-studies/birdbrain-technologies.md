@@ -1,8 +1,8 @@
 # BirdBrain Technologies: Developing Ed-Tech that Learns Alongside Students & Teachers
 
-[![BirdBrain Technologies](../docs/images/cases/birdbrain-technologies/20140610163028_sized1024x683.jpg)](https://vimeo.com/129009849)
+[![BirdBrain Technologies](../docs/images/cases/birdbrain-technologies/20140610163028_sized1024x683.jpg)](https://www.youtube.com/watch?v=y9or1lkwQyE)
 
-*Watch the video: [BirdBrain Technologies on Vimeo](https://vimeo.com/129009849)*
+*Watch the video: [BirdBrain Technologies on YouTube](https://www.youtube.com/watch?v=y9or1lkwQyE)*
 
 *BirdBrain Technologies creates affordable robotics tools that help teachers make coding and computer science accessible.*
 

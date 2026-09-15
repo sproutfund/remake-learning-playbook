@@ -1,8 +1,8 @@
 # Maker Parties: Throwing a Party Where Guests Come to Learn
 
-[![Maker Parties](../docs/images/cases/maker-party/NODATE0009_sized1024x683.jpg)](https://vimeo.com/129009430)
+[![Maker Parties](../docs/images/cases/maker-party/NODATE0009_sized1024x683.jpg)](https://www.youtube.com/watch?v=k3GPTi0_Kto)
 
-*Watch the video: [Maker Parties on Vimeo](https://vimeo.com/129009430)*
+*Watch the video: [Maker Parties on YouTube](https://www.youtube.com/watch?v=k3GPTi0_Kto)*
 
 *Maker Parties create free, open, and accessible events for anyone to engage with hands-on learning activities that are fun and creative.*
 

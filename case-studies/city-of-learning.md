@@ -1,8 +1,8 @@
 # City of Learning: Making Learning Visible with Digital Badges
 
-[![City of Learning](../docs/images/cases/city-of-learning/20140717083315_0001_300x200.jpg)](https://vimeo.com/141051521)
+[![City of Learning](../docs/images/cases/city-of-learning/20140717083315_0001_300x200.jpg)](https://www.youtube.com/watch?v=kJlFkrPBRAI)
 
-*Watch the video: [City of Learning on Vimeo](https://vimeo.com/141051521)*
+*Watch the video: [City of Learning on YouTube](https://www.youtube.com/watch?v=kJlFkrPBRAI)*
 
 *The Sprout Fund and dozens of community partners helped Pittsburgh become a summertime City of Learning.*
 

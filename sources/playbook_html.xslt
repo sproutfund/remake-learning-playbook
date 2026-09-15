@@ -1582,7 +1582,7 @@
 							</h1>
 							<div class="embed-responsive embed-responsive-16by9">
 								<iframe class="embed-responsive-item" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true">
-									<xsl:attribute name="data-src"><xsl:value-of select="vimeo/@embed"/>?title=0&amp;byline=0&amp;portrait=0</xsl:attribute>
+									<xsl:attribute name="data-src"><xsl:value-of select="youtube/@embed"/>?rel=0</xsl:attribute>
 								</iframe>
 							</div>
 							<p class="lead"><xsl:copy-of select="teaser/node()"/></p>

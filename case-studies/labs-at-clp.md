@@ -1,8 +1,8 @@
 # The Labs @ CLP: Making Noise at the Library
 
-[![The Labs @ CLP](../docs/images/cases/labs-at-clp/20140710180449_sized1024x683.jpg)](https://vimeo.com/129009992)
+[![The Labs @ CLP](../docs/images/cases/labs-at-clp/20140710180449_sized1024x683.jpg)](https://www.youtube.com/watch?v=t8AvT4uKYAU)
 
-*Watch the video: [The Labs @ CLP on Vimeo](https://vimeo.com/129009992)*
+*Watch the video: [The Labs @ CLP on YouTube](https://www.youtube.com/watch?v=t8AvT4uKYAU)*
 
 *The Labs is transforming the Carnegie Library of Pittsburgh from a repository of information into a laboratory of exploration, learning, and discovery.*
 

@@ -1,8 +1,8 @@
 # MAKESHOP at the Children’s Museum of Pittsburgh: Exploring Digital & DIY Learning at the Museum
 
-[![MAKESHOP at the Children’s Museum of Pittsburgh](../docs/images/cases/makeshop/20111208160516_sized1024x683.jpg)](https://vimeo.com/129010195)
+[![MAKESHOP at the Children’s Museum of Pittsburgh](../docs/images/cases/makeshop/20111208160516_sized1024x683.jpg)](https://www.youtube.com/watch?v=Xj2x_vgrbWc)
 
-*Watch the video: [MAKESHOP at the Children’s Museum of Pittsburgh on Vimeo](https://vimeo.com/129010195)*
+*Watch the video: [MAKESHOP at the Children’s Museum of Pittsburgh on YouTube](https://www.youtube.com/watch?v=Xj2x_vgrbWc)*
 
 *MAKESHOP at the Children’s Museum of Pittsburgh creates space for kids to use their hands and minds to bring ideas to life.*
 

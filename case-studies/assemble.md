@@ -1,8 +1,8 @@
 # Assemble: Infusing a Neighborhood with Science and Creativity
 
-[![Assemble](../docs/images/cases/assemble/20120509170806_sized1024x683.jpg)](https://vimeo.com/129009793)
+[![Assemble](../docs/images/cases/assemble/20120509170806_sized1024x683.jpg)](https://www.youtube.com/watch?v=RLeMxCvLrQk)
 
-*Watch the video: [Assemble on Vimeo](https://vimeo.com/129009793)*
+*Watch the video: [Assemble on YouTube](https://www.youtube.com/watch?v=RLeMxCvLrQk)*
 
 *Assemble creates opportunities for young people to make things that inspire and empower.*
 

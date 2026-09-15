@@ -1,8 +1,8 @@
 # Elizabeth Forward School District: Transforming a School District, One Classroom at a Time
 
-[![Elizabeth Forward School District](../docs/images/cases/elizabeth-forward-school-district/NODATE0006_sized1024x683.jpg)](https://vimeo.com/129009614)
+[![Elizabeth Forward School District](../docs/images/cases/elizabeth-forward-school-district/NODATE0006_sized1024x683.jpg)](https://www.youtube.com/watch?v=qJvH84XMa_w)
 
-*Watch the video: [Elizabeth Forward School District on Vimeo](https://vimeo.com/129009614)*
+*Watch the video: [Elizabeth Forward School District on YouTube](https://www.youtube.com/watch?v=qJvH84XMa_w)*
 
 *Elizabeth Forward School District empowers educators and students to re-imagine the future of K-12 education and then make it a reality.*
 
