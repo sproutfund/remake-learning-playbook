@@ -139,7 +139,7 @@ def inline(el, ctx, italic=False, bold=False):
     for child in el:
         out.append(inline_node(child, ctx, italic, bold))
         out.append(esc(child.tail or ""))
-    return "".join(out)
+    return re.sub(r"  \n +", "  \n", "".join(out))
 
 
 def pad(s):
@@ -218,8 +218,9 @@ def blocks(el, ctx):
             pending_names.clear()
 
     lead_text = (el.text or "").strip()
-    if lead_text and not any(is_block(c) for c in el):
-        # container holding inline content only (panel bodies, grid cells)
+    if not any(is_block(c) for c in el) and text_of(el):
+        # container holding inline content only (panel bodies, grid cells,
+        # signature blocks built from <strong> and <br/>)
         txt = inline(el, ctx).strip()
         return [txt] if txt else []
     if lead_text:

@@ -34,29 +34,29 @@ We have benefited deeply from the generosity and wisdom of all who contributed t
 ### Writers
 
 Liberty Ferda  
- Weenta Girmay  
- Ashlee Green  
- Katy Rank-Lev  
- Adam Reger
+Weenta Girmay  
+Ashlee Green  
+Katy Rank-Lev  
+Adam Reger
 
 Additional writing and editing by HiredPen, Inc.
 
 ### Photographers
 
 Ben Filio  
- Brian Cohen  
- Joey Kennedy
+Brian Cohen  
+Joey Kennedy
 
 ### Videomakers
 
 Matthew R. Day  
- Michael Pisano  
- Peter Leeman
+Michael Pisano  
+Peter Leeman
 
 ### Audio Interviews
 
 Margaret Krauss  
- Rebekah Zook
+Rebekah Zook
 
 ### Print Design
 
@@ -65,26 +65,26 @@ Little Kelpie
 ### Advocacy Kit
 
 Deb Cavrak, *Design*  
- Katherine Harrell, *Text*
+Katherine Harrell, *Text*
 
 ## Sprout Staff
 
 This project was made possible through the support of the entire board and staff of [The Sprout Fund](http://www.sproutfund.org). Special thanks to:
 
 Randy Paris  
- *Project Director*
+*Project Director*
 
 Ryan Coon  
- *Program Officer for Communications & Documentation*
+*Program Officer for Communications & Documentation*
 
 Kimberly DeLisio  
- *Program Assistant*
+*Program Assistant*
 
 Matt Hannigan  
- *Deputy Director*
+*Deputy Director*
 
 Cathy Lewis Long  
- *Executive Director*
+*Executive Director*
 
 ## Financial Support
 

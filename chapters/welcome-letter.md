@@ -14,10 +14,10 @@ And, MCG is not alone. It’s part of the Remake Learning Network, a collaborati
 
 Just as Manchester Craftsman’s Guild remade opportunity for youth on Pittsburgh’s North Side, the Remake Learning Network is expanding the sense of what’s possible for all children throughout our region and inspiring educators in cities across the country.
 
-William Peduto
-Mayor
+**William Peduto**  
+Mayor  
 City of Pittsburgh
 
-Bill Strickland
-President & CEO
+**Bill Strickland**  
+President & CEO  
 Manchester Bidwell Corporation
