@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3c02515e-f401-42cc-af48-618b07ad350b</dc:identifier>
+    <meta content="{&quot;The Sprout Fund&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="Remake Learning Playbook" name="calibre:title_sort"/>
+    <meta content="0.8.901" name="Sigil version"/>
+    <dc:title>Remake Learning Playbook</dc:title>
+    <dc:creator opf:file-as="Fund, The Sprout" opf:role="aut">The Sprout Fund</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:rights>Creative Commons Attribution-ShareAlike 4.0 International License</dc:rights>
+    <dc:date opf:event="modification">2015-10-26</dc:date>
+    <dc:contributor opf:role="edt">Ryan Coon</dc:contributor>
+    <dc:contributor opf:role="edt">Matt Hannigan</dc:contributor>
+    <dc:contributor opf:role="aui">Gregg Behr</dc:contributor>
+    <dc:contributor opf:role="aui">Lynne Schrum</dc:contributor>
+    <dc:contributor opf:role="ctb">Mimi Ito</dc:contributor>
+    <dc:contributor opf:role="ctb">Mark Surman</dc:contributor>
+    <dc:contributor opf:role="ctb">Liberty Ferda</dc:contributor>
+    <dc:contributor opf:role="ctb">Weenta Girmay</dc:contributor>
+    <dc:contributor opf:role="ctb">Ashlee Green</dc:contributor>
+    <dc:contributor opf:role="ctb">Katy Rank-Lev</dc:contributor>
+    <dc:contributor opf:role="ctb">Adam Reger</dc:contributor>
+    <dc:description>A field guide of ideas and resources for building innovation networks for teaching and learning</dc:description>
+  </metadata>
+  <manifest>
+    <item href="Text/start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_epigraph.xhtml" id="playbook_epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_welcome-letter.xhtml" id="playbook_welcome-letter.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-1-introduction.html" id="playbook_chapter-1-introduction.html" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-2-remaking-learing-for-a-changing-world.html" id="playbook_chapter-2-remaking-learing-for-a-changing-world.html" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_note-taking-advantage-of-connected-learning-opportunities.xhtml" id="playbook_note-taking-advantage-of-connected-learning-opportunities.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-3-the-learning-network.xhtml" id="playbook_chapter-3-the-learning-network.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_essay-how-networks-can-transform-learning.xhtml" id="playbook_essay-how-networks-can-transform-learning.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-4-network-support-strategies.xhtml" id="playbook_chapter-4-network-support-strategies.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-5-lessons-learned.xhtml" id="playbook_chapter-5-lessons-learned.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_chapter-6-the-road-ahead.xhtml" id="playbook_chapter-6-the-road-ahead.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_assemble.xhtml" id="case-study_assemble.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_birdbrain-technologies.xhtml" id="case-study_birdbrain-technologies.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_carnegie-mellon-university.xhtml" id="case-study_carnegie-mellon-university.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_childrens-innovation-project.xhtml" id="case-study_childrens-innovation-project.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_city-of-learning.xhtml" id="case-study_city-of-learning.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_digital-corps.xhtml" id="case-study_digital-corps.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_elizabeth-forward-school-district.xhtml" id="case-study_elizabeth-forward-school-district.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_labs-at-clp.xhtml" id="case-study_labs-at-clp.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_maker-party.xhtml" id="case-study_maker-party.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_makeshop.xhtml" id="case-study_makeshop.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/case-study_transformed.xhtml" id="case-study_transformed.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/plays-in-detail_convene.xhtml" id="plays-in-detail_convene.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/plays-in-detail_catalyze.xhtml" id="plays-in-detail_catalyze.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/plays-in-detail_communicate.xhtml" id="plays-in-detail_communicate.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/plays-in-detail_coordinate.xhtml" id="plays-in-detail_coordinate.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/plays-in-detail_champion.xhtml" id="plays-in-detail_champion.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_advocacy-kit.xhtml" id="playbook_advocacy-kit.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_gameplan-web-app.xhtml" id="playbook_gameplan-web-app.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/playbook_acknowledgements.xhtml" id="playbook_acknowledgements.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/license.xhtml" id="license.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/contact.xhtml" id="contact.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/playbook.css" id="playbook.css" media-type="text/css"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Images/by-sa_4.0_88x31.png" id="by-sa_4.0_88x31.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="playbook_epigraph.xhtml"/>
+    <itemref idref="playbook_welcome-letter.xhtml"/>
+    <itemref idref="playbook_chapter-1-introduction.html"/>
+    <itemref idref="playbook_chapter-2-remaking-learing-for-a-changing-world.html"/>
+    <itemref idref="playbook_note-taking-advantage-of-connected-learning-opportunities.xhtml"/>
+    <itemref idref="playbook_chapter-3-the-learning-network.xhtml"/>
+    <itemref idref="playbook_essay-how-networks-can-transform-learning.xhtml"/>
+    <itemref idref="playbook_chapter-4-network-support-strategies.xhtml"/>
+    <itemref idref="playbook_chapter-5-lessons-learned.xhtml"/>
+    <itemref idref="playbook_chapter-6-the-road-ahead.xhtml"/>
+    <itemref idref="case-study_assemble.xhtml"/>
+    <itemref idref="case-study_birdbrain-technologies.xhtml"/>
+    <itemref idref="case-study_carnegie-mellon-university.xhtml"/>
+    <itemref idref="case-study_childrens-innovation-project.xhtml"/>
+    <itemref idref="case-study_city-of-learning.xhtml"/>
+    <itemref idref="case-study_digital-corps.xhtml"/>
+    <itemref idref="case-study_elizabeth-forward-school-district.xhtml"/>
+    <itemref idref="case-study_labs-at-clp.xhtml"/>
+    <itemref idref="case-study_maker-party.xhtml"/>
+    <itemref idref="case-study_makeshop.xhtml"/>
+    <itemref idref="case-study_transformed.xhtml"/>
+    <itemref idref="plays-in-detail_convene.xhtml"/>
+    <itemref idref="plays-in-detail_catalyze.xhtml"/>
+    <itemref idref="plays-in-detail_communicate.xhtml"/>
+    <itemref idref="plays-in-detail_coordinate.xhtml"/>
+    <itemref idref="plays-in-detail_champion.xhtml"/>
+    <itemref idref="playbook_advocacy-kit.xhtml"/>
+    <itemref idref="playbook_gameplan-web-app.xhtml"/>
+    <itemref idref="playbook_acknowledgements.xhtml"/>
+    <itemref idref="license.xhtml"/>
+    <itemref idref="contact.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc"/>
+  </guide>
+</package>

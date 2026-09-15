@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="3c02515e-f401-42cc-af48-618b07ad350b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Remake Learning Playbook</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>About the Remake Learning Playbook</text>
+      </navLabel>
+      <content src="Text/start.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Epigraph</text>
+      </navLabel>
+      <content src="Text/playbook_epigraph.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Welcome Letter</text>
+      </navLabel>
+      <content src="Text/playbook_welcome-letter.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Chapter 1: Introduction</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-1-introduction.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Chapter 2: Remaking Learning for a Changing World</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-2-remaking-learing-for-a-changing-world.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Note: Taking Advantage of Connected Learning Opportunities</text>
+      </navLabel>
+      <content src="Text/playbook_note-taking-advantage-of-connected-learning-opportunities.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 3: The Learning Network</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-3-the-learning-network.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Learning Environments</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#learning-environments"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Innovation Research &amp; Development</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#innovation-research-development"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Learning Scholarship &amp; Advocacy</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#learning-scholarship-advocacy"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Commercial &amp; Entrepreneurial Engagement</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#commercial-entrepreneurial-engagement"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Strategic Stewardship</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#strategic-stewardship"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Regional Strengths and Priorities</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-3-the-learning-network.xhtml#regional-strengths-priorities"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Essay: How Networks Can Transform Learning</text>
+      </navLabel>
+      <content src="Text/playbook_essay-how-networks-can-transform-learning.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Chapter 4: Network Support Strategies</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-4-network-support-strategies.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Convene</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-4-network-support-strategies.xhtml#convene"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Catalyze</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-4-network-support-strategies.xhtml#catalyze"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Communicate</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-4-network-support-strategies.xhtml#communicate"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Coordinate</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-4-network-support-strategies.xhtml#coordinate"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Champion</text>
+        </navLabel>
+        <content src="Text/playbook_chapter-4-network-support-strategies.xhtml#champion"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Chapter 5: Lessons Learned</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-5-lessons-learned.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Chapter 6: The Road Ahead</text>
+      </navLabel>
+      <content src="Text/playbook_chapter-6-the-road-ahead.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Case Study: Assemble</text>
+      </navLabel>
+      <content src="Text/case-study_assemble.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Case Study: BirdBrain Technologies</text>
+      </navLabel>
+      <content src="Text/case-study_birdbrain-technologies.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Case Study: Carnegie Mellon University</text>
+      </navLabel>
+      <content src="Text/case-study_carnegie-mellon-university.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Case Study: The Children’s Innovation Project</text>
+      </navLabel>
+      <content src="Text/case-study_childrens-innovation-project.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Case Study: City of Learning</text>
+      </navLabel>
+      <content src="Text/case-study_city-of-learning.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Case Study: The Digital Corps</text>
+      </navLabel>
+      <content src="Text/case-study_digital-corps.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Case Study: Elizabeth Forward School District</text>
+      </navLabel>
+      <content src="Text/case-study_elizabeth-forward-school-district.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Case Study: The Labs @ CLP</text>
+      </navLabel>
+      <content src="Text/case-study_labs-at-clp.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Case Study: Maker Parties</text>
+      </navLabel>
+      <content src="Text/case-study_maker-party.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Case Study: MAKESHOP at The Children’s Museum</text>
+      </navLabel>
+      <content src="Text/case-study_makeshop.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Case Study: transformED at AIU</text>
+      </navLabel>
+      <content src="Text/case-study_transformed.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Plays in Detail: Convene</text>
+      </navLabel>
+      <content src="Text/plays-in-detail_convene.xhtml"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Small Groups</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-small-groups"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Lunch &amp; Learns</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-lunch-and-learns"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Professional Development</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-professional-development"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Network Engagement Events</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-occasional-large-events"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Annual Conferences</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-annual-conferences"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>External Speakers</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_convene.xhtml#convene-external-speakers"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Plays in Detail: Catalyze</text>
+      </navLabel>
+      <content src="Text/plays-in-detail_catalyze.xhtml"/>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Catalytic Grants</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-catalytic-grants"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Project Assistance</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-project-assistance"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Research Fellows</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-fellowships"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Request for Proposals</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-rfps"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Incubate Ventures</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-incubate-ventures"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>National Funding Support</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_catalyze.xhtml#catalyze-national-funding-support"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Plays in Detail: Communicate</text>
+      </navLabel>
+      <content src="Text/plays-in-detail_communicate.xhtml"/>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Blog</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-blog"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Social Media</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-social-media"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Conference Participation</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-conference-presentations"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Directory</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-directory"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Amplify Youth Voice</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-youth-voice"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Newsletter</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-newsletter"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Documentation &amp;amp; Storytelling</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-documentation-storytelling"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Press Outreach</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-press-outreach"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Publications</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-publications"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>From Local to National</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_communicate.xhtml#communicate-local-to-national"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Plays in Detail: Coordinate</text>
+      </navLabel>
+      <content src="Text/plays-in-detail_coordinate.xhtml"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Program Cooperation</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_coordinate.xhtml#coordinate-program-cooperation"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>From National to Local</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_coordinate.xhtml#coordinate-national-to-local"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Network Strategy</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_coordinate.xhtml#coordinate-strategy"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Network Research</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_coordinate.xhtml#coordinate-research"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Plays in Detail: Champion</text>
+      </navLabel>
+      <content src="Text/plays-in-detail_champion.xhtml"/>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Showcase</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_champion.xhtml#champion-showcase"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Event Sponsorship</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_champion.xhtml#champion-event-sponsorship"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Awards</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_champion.xhtml#champion-awards"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Advertising &amp;amp; Marketing</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_champion.xhtml#champion-advertising-marketing"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Network Gatherings</text>
+        </navLabel>
+        <content src="Text/plays-in-detail_champion.xhtml#champion-network-gatherings"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Advocacy Kit</text>
+      </navLabel>
+      <content src="Text/playbook_advocacy-kit.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Gameplan Web App</text>
+      </navLabel>
+      <content src="Text/playbook_gameplan-web-app.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="Text/playbook_acknowledgements.xhtml"/>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Voices of the Network &amp; Case Study Subjects</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-case-study-subjects"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Contributors</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-contributors"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Sprout Staff</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-sprout-staff"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Financial Support</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-financial-support"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>About The Sprout Fund</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-about-the-sprout-fund"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>About Remake Learning</text>
+        </navLabel>
+        <content src="Text/playbook_acknowledgements.xhtml#acknowledgements-about-remake-learning"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>License</text>
+      </navLabel>
+      <content src="Text/license.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Contact</text>
+      </navLabel>
+      <content src="Text/contact.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
