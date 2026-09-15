@@ -2,7 +2,7 @@
 
 The world today is more complex and interconnected than ever before. Reading, writing, and arithmetic, while still essential, simply aren’t enough to prepare young people to thrive in the digital age. Communities need to come together to build on the basics and connect students with hands-on learning experiences that cultivate creativity, imagination, and grit. Our global, networked world today calls for new kinds of teaching and learning—and new kinds of problem-solvers.
 
-Learners today need to be technologically fluent _and_ imaginatively creative, yet most lack meaningful opportunities to engage with the nuts-and-bolts of technology or flex their creative muscles. According to The Nation’s Report Card, only about 10% of U.S. public high schools offer classes in computer science. Meanwhile, the time and space available for integrating creative inquiry into classroom instruction keeps slipping away.
+Learners today need to be technologically fluent *and* imaginatively creative, yet most lack meaningful opportunities to engage with the nuts-and-bolts of technology or flex their creative muscles. According to The Nation’s Report Card, only about 10% of U.S. public high schools offer classes in computer science. Meanwhile, the time and space available for integrating creative inquiry into classroom instruction keeps slipping away.
 
 Many out-of-school programs offer exceptional learning opportunities, but equitable access remains a staggering barrier. Economists Greg Duncan and Richard Murnane have found that enrichment spending by affluent families was nearly 700% greater than the poorest families. When it comes to the promise of technology to open up new pathways of educational opportunity, the digital divide still persists. As Secretary of Education Arne Duncan wrote in April 2015, “If the technology revolution only happens for families that already have money and education, then it’s not really a revolution.”
 
@@ -10,9 +10,9 @@ Absent a radical shift in top-down educational policy, the best chance to equita
 
 **That’s where the Remake Learning Network comes in.**
 
-Formerly known as Kids+Creativity, since 2007 the network has connected Pittsburgh to the growing global movement to reimagine learning, while developing our own unique local solutions to pressing regional challenges. We’ve built a model for education innovation that uses technology in creative ways to enhance learning and provides opportunities for the traditionally underserved. By building a supportive network of cross-sector collaborators, the Remake Learning Network is helping educators and innovators provide _all_ children and youth with opportunities to develop their own interests, to work collaboratively to find creative solutions to problems, and to experiment, fail, and start over with new ideas.
+Formerly known as Kids+Creativity, since 2007 the network has connected Pittsburgh to the growing global movement to reimagine learning, while developing our own unique local solutions to pressing regional challenges. We’ve built a model for education innovation that uses technology in creative ways to enhance learning and provides opportunities for the traditionally underserved. By building a supportive network of cross-sector collaborators, the Remake Learning Network is helping educators and innovators provide *all* children and youth with opportunities to develop their own interests, to work collaboratively to find creative solutions to problems, and to experiment, fail, and start over with new ideas.
 
-***
+---
 
 In the years since we began this work, we’ve seen our region transformed. Teachers and administrators work with designers and technologists to collaboratively develop new course curricula. Learning scientists are embedded in out-of-school learning programs to not just observe, but to co-design more effective connected learning experiences. Education technology startups are partnering with educators and students to create technologies that enable deeper learning rather than simply adding expensive gadgets and gizmos to already stretched budgets. And more of our region’s young people are enrolled in out-of-school learning programs than ever before, with participation rates more than 10% above the national average.
 
@@ -29,3 +29,7 @@ Our network’s educators are receiving national recognition for their work. The
 And these are only a small sampling of what Pittsburgh’s educators and innovators are doing to change and transform teaching and learning in our region. This exciting momentum didn’t materialize overnight, and it didn’t come out of thin air.
 
 We’ve been working together for years to build open and collaborative communities of practice where everyone contributes to a shared vision of learning remade in Pittsburgh. In the following chapters, we’ll take a look under the hood to show you how the Remake Learning Network is structured, how it operates, and how it connects schools, museums, libraries, afterschool programs, and ed-tech companies to enhance learning opportunities for children and youth—and how you can build a network to create similar change in your own community.
+
+---
+
+*Add your comments and feedback about this chapter on [Medium](https://medium.com/remake-learning-playbook/remaking-learning-for-a-changing-world-cc3790ff010b).*

@@ -1,10 +1,10 @@
 # Chapter 1: Introduction
 
-> by [Gregg Behr](http://remakelearning.org/person/behr-gregg/), Executive Director of [The Grable Foundation](http://remakelearning.org/organization/grable-foundation/) and [Dr. Lynne Schrum](http://remakelearning.org/person/schrum-lynne/), Dean, Abraham S. Fischler College of Education, NSU and Co-Author of “Leading 21st Century Schools”—Founding Chairs of the Remake Learning Council
+*by [Gregg Behr](http://remakelearning.org/person/behr-gregg/), Executive Director of [The Grable Foundation](http://remakelearning.org/organization/grable-foundation/) and [Dr. Lynne Schrum](http://remakelearning.org/person/schrum-lynne/), Dean, Abraham S. Fischler College of Education, NSU and Co-Author of “Leading 21st Century Schools”—Founding Chairs of the Remake Learning Council*
 
-Almost a decade ago \(before the inception of the Remake Learning Network\) we heard again and again from teachers, librarians, museum educators, youth workers, and others a common refrain that was simultaneously expected and yet astonishing: “I’m not connecting with kids the way that I used to.”
+Almost a decade ago (before the inception of the Remake Learning Network) we heard again and again from teachers, librarians, museum educators, youth workers, and others a common refrain that was simultaneously expected and yet astonishing: “I’m not connecting with kids the way that I used to.”
 
-This expressed frustration would, of course, have been natural if these educators had been talking about the usual challenges of the generation gap, or the gradual shift in youth culture. After all, generations of adults have voiced worries about “_kids today_.” What was astonishing, however, was that these educators were referring to dramatic changes brought about largely by digital media and technology.
+This expressed frustration would, of course, have been natural if these educators had been talking about the usual challenges of the generation gap, or the gradual shift in youth culture. After all, generations of adults have voiced worries about “*kids today*.” What was astonishing, however, was that these educators were referring to dramatic changes brought about largely by digital media and technology.
 
 So we asked ourselves: “What on Earth had happened in such a short period of time to create this disconnect between educators and students?” Digging in to the learning sciences, we found that youth in the digital age are pursuing knowledge differently, developing their identities and interests differently, and seeking support differently. Faced with this new reality, how could we help educators in- and out-of-school connect with today’s youth and develop learning experiences that engage them deeply and equip them with the knowledge and skills relevant to the world in which they now live?
 
@@ -18,7 +18,7 @@ In 2007, The Grable Foundation convened an interdisciplinary group of thought le
 
 First adopting the name Kids+Creativity, this informal working group—fueled by coffee and pancake breakfasts—began meeting regularly, exchanging ideas, and collaborating on new initiatives. Ten doubled to twenty, and twenty doubled and then doubled again. Together, the group engaged academics, artists, librarians, educators, technologists, and parents in thinking anew about 21st century teaching and learning.
 
-Early investments awarded by The Grable Foundation and such other funding partners as the Claude Worthington Benedum Foundation, the Buhl Foundation, McCune Foundation, and the Pittsburgh Foundation included support for such leadership organizations as The Sprout Fund \(a community-based grantmaking nonprofit\) and the Allegheny Intermediate Unit \(an educational service agency\). Respected for connecting the grassroots community to major regional priorities, in 2009 The Sprout Fund began providing catalytic support for new projects and programmatic partnerships—adding fuel to the fires of innovation. That same year, in order to catalyze innovative teaching in the region’s school districts, the Allegheny Intermediate Unit began awarding STEAM Grants to enable administrators and educators to reimagine learning in public school classrooms, labs, and library spaces.
+Early investments awarded by The Grable Foundation and such other funding partners as the Claude Worthington Benedum Foundation, the Buhl Foundation, McCune Foundation, and the Pittsburgh Foundation included support for such leadership organizations as The Sprout Fund (a community-based grantmaking nonprofit) and the Allegheny Intermediate Unit (an educational service agency). Respected for connecting the grassroots community to major regional priorities, in 2009 The Sprout Fund began providing catalytic support for new projects and programmatic partnerships—adding fuel to the fires of innovation. That same year, in order to catalyze innovative teaching in the region’s school districts, the Allegheny Intermediate Unit began awarding STEAM Grants to enable administrators and educators to reimagine learning in public school classrooms, labs, and library spaces.
 
 The emerging network focused on providing high-quality maker, STEAM, and digital learning opportunities that would equip children and youth with competencies they need to thrive now and in futures yet to unfold. These approaches are not just passing fads in education; they are the key to building engaging and relevant learning experiences that prepare today’s youth for school, college, workforce, and life.
 
@@ -49,3 +49,7 @@ Third, we want to enable you. By sharing insights, key resources, and critical l
 We’ve learned a lot since our first breakfast brainstorms. We’ve tried many things, and we’ve made plenty of mistakes. But ultimately, we’ve seen significant progress in our effort to provide all children and youth with the best available opportunities to learn and be creative.
 
 We’re confident that all of us, together, can remake learning all across America.
+
+---
+
+*Add your comments and feedback about this chapter on [Medium](https://medium.com/remake-learning-playbook/introduction-e344ed8b2b8d).*

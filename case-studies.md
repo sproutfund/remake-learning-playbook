@@ -1,1 +1,13 @@
 # Case Studies
+
+* [Assemble](case-studies/assemble.md): Infusing a Neighborhood with Science and Creativity — Assemble creates opportunities for young people to make things that inspire and empower.
+* [BirdBrain Technologies](case-studies/birdbrain-technologies.md): Developing Ed-Tech that Learns Alongside Students & Teachers — BirdBrain Technologies creates affordable robotics tools that help teachers make coding and computer science accessible.
+* [Carnegie Mellon University](case-studies/carnegie-mellon-university.md): Bridging the Community & Higher Education — Carnegie Mellon’s CREATE Lab and the Entertainment Technology Center are connecting university students and researchers to the communities they serve.
+* [The Children’s Innovation Project](case-studies/childrens-innovation-project.md): Supporting Young Learners to Notice, Wonder, and Persist — The Children’s Innovation Project approaches technology as raw material to support broad interdisciplinary learning for children to develop habits of mind as innovators.
+* [City of Learning](case-studies/city-of-learning.md): Making Learning Visible with Digital Badges — The Sprout Fund and dozens of community partners helped Pittsburgh become a summertime City of Learning.
+* [The Digital Corps](case-studies/digital-corps.md): Building Digital Skills with Mobile Mentors — The Digital Corps is a network of technology guides who engage Pittsburgh youth in digital literacy.
+* [Elizabeth Forward School District](case-studies/elizabeth-forward-school-district.md): Transforming a School District, One Classroom at a Time — Elizabeth Forward School District empowers educators and students to re-imagine the future of K-12 education and then make it a reality.
+* [The Labs @ CLP](case-studies/labs-at-clp.md): Making Noise at the Library — The Labs is transforming the Carnegie Library of Pittsburgh from a repository of information into a laboratory of exploration, learning, and discovery.
+* [Maker Parties](case-studies/maker-parties.md): Throwing a Party Where Guests Come to Learn — Maker Parties create free, open, and accessible events for anyone to engage with hands-on learning activities that are fun and creative.
+* [MAKESHOP at the Children’s Museum of Pittsburgh](case-studies/makeshop.md): Exploring Digital & DIY Learning at the Museum — MAKESHOP at the Children’s Museum of Pittsburgh creates space for kids to use their hands and minds to bring ideas to life.
+* [transformED at the Allegheny Intermediate Unit](case-studies/transformed.md): A Playground for Teachers — transformED reimagines the look, feel, and purpose of professional development for teachers.
