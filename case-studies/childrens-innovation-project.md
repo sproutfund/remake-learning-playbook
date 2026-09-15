@@ -6,11 +6,11 @@
 
 *The Children’s Innovation Project approaches technology as raw material to support broad interdisciplinary learning for children to develop habits of mind as innovators.*
 
-The [Children’s Innovation Project](https://remakelearning.org/project/childrens-innovation-project/) began in 2010 when [CREATE Lab](https://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/) resident artist, [Jeremy Boyle](https://remakelearning.org/person/boyle-jeremy/) and Kindergarten teacher, [Melissa Butler](https://remakelearning.org/person/butler-melissa/) partnered to explore the question: “What might meaningful technology learning look like for young children?” Working together at [Pittsburgh Allegheny K-5](https://remakelearning.org/organization/pittsburgh-allegheny-k-5/), the pair began co-creating a learning progression of language-logic opportunities for children to deeply explore the material of technology.
+The [Children’s Innovation Project](https://remakelearning.org/project/childrens-innovation-project/) began in 2010 when [CREATE Lab](https://web.archive.org/web/20150916042817/http://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/) resident artist, [Jeremy Boyle](https://web.archive.org/web/20150908014918/http://remakelearning.org/person/boyle-jeremy/) and Kindergarten teacher, [Melissa Butler](https://web.archive.org/web/20151003034401/http://remakelearning.org/person/butler-melissa/) partnered to explore the question: “What might meaningful technology learning look like for young children?” Working together at [Pittsburgh Allegheny K-5](https://web.archive.org/web/20150916015006/http://remakelearning.org/organization/pittsburgh-allegheny-k-5/), the pair began co-creating a learning progression of language-logic opportunities for children to deeply explore the material of technology.
 
 With the Children’s Innovation Project, children explore and learn about electricity and simple circuits through hands-on engagement with [Circuit Blocks](http://www.ciplearningstore.com/circuit-block-sets/) and other raw materials, developing habits of mind to notice—wonder—persist. Children make connections to objects in their world—specifically through imagining about the insides of electronic toys, opening them to notice carefully, identifying components, and then repurposing and reconfiguring their internal components into new circuits and new ideas. Approaching technology as raw material allows technology to be a means to learning, not an end.
 
-The pair began collaborating on various arts-integration projects back in 2003, when Boyle was Resident Artist at the [Mattress Factory](https://remakelearning.org/organization/mattress-factory/). Since 2010, they have focused on what they see as ’depth of possibility in broader interdisciplinary learning’ for children to develop precision of language, collaboration, and flexibility and fearlessness in problem solving.
+The pair began collaborating on various arts-integration projects back in 2003, when Boyle was Resident Artist at the [Mattress Factory](https://web.archive.org/web/20150919163242/http://remakelearning.org/organization/mattress-factory/). Since 2010, they have focused on what they see as ’depth of possibility in broader interdisciplinary learning’ for children to develop precision of language, collaboration, and flexibility and fearlessness in problem solving.
 
 Learning with the Children’s Innovation Project is for all children, not for enrichment groups or special pull-out programs.
 
@@ -34,7 +34,7 @@ Pittsburgh Allegheny K-5 is a Pittsburgh Public School where 97% of the students
 
 In 2010, the Children’s Innovation Project began with 20 students in one Kindergarten classroom at Pittsburgh Allegheny K-5.
 
-In 2015, more than 300 students, 11 teachers, and 8 Teaching Fellows participate in the project at Allegheny and 28 students, 2 teachers, and 1 Teaching Fellow participate at [Pittsburgh Arsenal K-5](https://remakelearning.org/organization/arsenal-elementary-school/).
+In 2015, more than 300 students, 11 teachers, and 8 Teaching Fellows participate in the project at Allegheny and 28 students, 2 teachers, and 1 Teaching Fellow participate at [Pittsburgh Arsenal K-5](https://web.archive.org/web/20150919102817/http://remakelearning.org/organization/arsenal-elementary-school/).
 
 ## Network in Action
 
@@ -72,7 +72,7 @@ Since first beginning in Melissa’s classroom, the project has grown to serve m
 
 ## More Information
 
-If you’re interested in learning more about Children’s Innovation Project, contact [Melissa Butler](https://remakelearning.org/person/butler-melissa/) and [Jeremy Boyle](https://remakelearning.org/person/boyle-jeremy/).
+If you’re interested in learning more about Children’s Innovation Project, contact [Melissa Butler](https://web.archive.org/web/20151003034401/http://remakelearning.org/person/butler-melissa/) and [Jeremy Boyle](https://web.archive.org/web/20150908014918/http://remakelearning.org/person/boyle-jeremy/).
 
 ### Downloadable Materials
 

@@ -1,6 +1,6 @@
 # Chapter 1: Introduction
 
-*by [Gregg Behr](https://remakelearning.org/person/behr-gregg/), Executive Director of [The Grable Foundation](https://remakelearning.org/organization/grable-foundation/) and [Dr. Lynne Schrum](https://remakelearning.org/person/schrum-lynne/), Dean, Abraham S. Fischler College of Education, NSU and Co-Author of “Leading 21st Century Schools”—Founding Chairs of the Remake Learning Council*
+*by [Gregg Behr](https://remakelearning.org/person/behr-gregg/), Executive Director of [The Grable Foundation](https://remakelearning.org/organization/grable-foundation/) and [Dr. Lynne Schrum](https://web.archive.org/web/20150925025532/http://remakelearning.org/person/schrum-lynne/), Dean, Abraham S. Fischler College of Education, NSU and Co-Author of “Leading 21st Century Schools”—Founding Chairs of the Remake Learning Council*
 
 Almost a decade ago (before the inception of the Remake Learning Network) we heard again and again from teachers, librarians, museum educators, youth workers, and others a common refrain that was simultaneously expected and yet astonishing: “I’m not connecting with kids the way that I used to.”
 

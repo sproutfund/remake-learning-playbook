@@ -6,11 +6,11 @@
 
 *MAKESHOP at the Children’s Museum of Pittsburgh creates space for kids to use their hands and minds to bring ideas to life.*
 
-In 2010, Children’s Museum director [Jane Werner](https://remakelearning.org/person/werner-jane/) and [Drew Davidson](https://remakelearning.org/person/davidson-drew/) from Carnegie Mellon’s Entertainment Technology Center ( [ETC](https://remakelearning.org/organization/carnegie-mellon/etc/)), got to chatting at a network event. They started discussing the Maker Movement and the ways in which increasing access to physical and digital tools and techniques may enable children and youth to express their interests and make almost anything. They wondered what would happen if they developed a space in the [Children’s Museum of Pittsburgh](https://remakelearning.org/organization/childrens-museum/) where visitors could explore, imagine, and create through making as a learning process. Not only would it enhance the educational value of the Museum’s offerings, it would bring more children and families through the doors and encourage them to stay for longer.
+In 2010, Children’s Museum director [Jane Werner](https://remakelearning.org/person/werner-jane/) and [Drew Davidson](https://remakelearning.org/person/davidson-drew/) from Carnegie Mellon’s Entertainment Technology Center ( [ETC](https://web.archive.org/web/20150916063114/http://remakelearning.org/organization/carnegie-mellon/etc/)), got to chatting at a network event. They started discussing the Maker Movement and the ways in which increasing access to physical and digital tools and techniques may enable children and youth to express their interests and make almost anything. They wondered what would happen if they developed a space in the [Children’s Museum of Pittsburgh](https://web.archive.org/web/20150919102841/http://remakelearning.org/organization/childrens-museum/) where visitors could explore, imagine, and create through making as a learning process. Not only would it enhance the educational value of the Museum’s offerings, it would bring more children and families through the doors and encourage them to stay for longer.
 
-In partnership with the ETC and the University of Pittsburgh Center for Learning in Out-of-School Environments ( [UPCLOSE](https://remakelearning.org/organization/pitt/upclose/)), the Children’s Museum began prototyping programs in electronics, sewing, woodworking, and digital media and studying how children and families engaged in hands-on maker learning.
+In partnership with the ETC and the University of Pittsburgh Center for Learning in Out-of-School Environments ( [UPCLOSE](https://web.archive.org/web/20150916051606/http://remakelearning.org/organization/pitt/upclose/)), the Children’s Museum began prototyping programs in electronics, sewing, woodworking, and digital media and studying how children and families engaged in hands-on maker learning.
 
-[Dr. Lisa Brahms](https://remakelearning.org/person/brahms-lisa/) is the Director of Learning and Research at the Museum. Dr. Brahms began her work in the Museum as an UPCLOSE research fellow studying the development of [MAKESHOP](https://remakelearning.org/project/makeshop/) from its earliest stage to its current status as a permanent exhibit for hands-on learning. She now leads the effort to understand and develop the Museum as a place of informal learning.
+[Dr. Lisa Brahms](https://web.archive.org/web/20150925235127/http://remakelearning.org/person/brahms-lisa/) is the Director of Learning and Research at the Museum. Dr. Brahms began her work in the Museum as an UPCLOSE research fellow studying the development of [MAKESHOP](https://remakelearning.org/project/makeshop/) from its earliest stage to its current status as a permanent exhibit for hands-on learning. She now leads the effort to understand and develop the Museum as a place of informal learning.
 
 Four years later, MAKESHOP is a fully-staffed, permanent exhibit offering ongoing programs for children, youth, adults, and educators. Tailoring the visitors’ experiences to their interests, MAKESHOP encourages exploration, creativity, and play by offering access to the materials, tools, and processes of making.
 
@@ -70,7 +70,7 @@ Lisa has overseen the development of MAKESHOP as not only an effective learning 
 
 ## More Information
 
-If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](https://remakelearning.org/person/brahms-lisa/).
+If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](https://web.archive.org/web/20150925235127/http://remakelearning.org/person/brahms-lisa/).
 
 ### Downloadable Materials
 

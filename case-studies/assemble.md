@@ -66,7 +66,7 @@ Caroline has reached over 1,000 students in the Pittsburgh area with her Scratch
 
 ## More Information
 
-If you’re interested in learning more about Assemble, contact [Nina Barbuto](https://remakelearning.org/person/barbuto-nina/).
+If you’re interested in learning more about Assemble, contact [Nina Barbuto](https://web.archive.org/web/20150917004807/http://remakelearning.org/person/barbuto-nina/).
 
 ### Downloadable Materials
 

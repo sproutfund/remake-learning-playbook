@@ -8,11 +8,11 @@
 
 Robotics, coding, and computer science are increasingly important to the future career prospects of today’s students. Yet classroom teachers and informal educators often face barriers in the cost of equipment and the perceived difficulty of the subject matter.
 
-By providing flexible and affordable robotics products that are easy to use, Pittsburgh’s [BirdBrain Technologies](https://remakelearning.org/organization/birdbrain-technologies/) introduces students to programming and robotics and cultivates their ability to think and work creatively with these 21st century tools.
+By providing flexible and affordable robotics products that are easy to use, Pittsburgh’s [BirdBrain Technologies](https://web.archive.org/web/20150916003220/http://remakelearning.org/organization/birdbrain-technologies/) introduces students to programming and robotics and cultivates their ability to think and work creatively with these 21st century tools.
 
-Founded in 2010 by [Tom Lauwers](https://remakelearning.org/person/lauwers-tom/), who had just completed a Ph.D. in Robotics at Carnegie Mellon University ([CMU](https://remakelearning.org/organization/carnegie-mellon/)), BirdBrain Technologies originated from Lauwers’ work with CMU’s Community Robotics, Education and Technology Empowerment ([CREATE](https://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/)) Lab, which promotes technological fluency through education.
+Founded in 2010 by [Tom Lauwers](https://web.archive.org/web/20150925025421/http://remakelearning.org/person/lauwers-tom/), who had just completed a Ph.D. in Robotics at Carnegie Mellon University ([CMU](https://remakelearning.org/organization/carnegie-mellon/)), BirdBrain Technologies originated from Lauwers’ work with CMU’s Community Robotics, Education and Technology Empowerment ([CREATE](https://web.archive.org/web/20150916042817/http://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/)) Lab, which promotes technological fluency through education.
 
-BirdBrain’s first product was a tool to motivate computer science students by giving them a tangible representation of their coding. The [Finch](https://remakelearning.org/project/finch/) is a durable, two-wheeled plastic robot that accepts computer science commands in a number of programming languages and gives students instant visual feedback. Shortly thereafter, Lauwers designed the [Hummingbird Robotics Kit](https://remakelearning.org/resource/hummingbird/), which contains the basic components needed for a wide array of robotics, kinetics, and animatronics projects across disciplines.
+BirdBrain’s first product was a tool to motivate computer science students by giving them a tangible representation of their coding. The [Finch](https://web.archive.org/web/20150916120557/http://remakelearning.org/project/finch/) is a durable, two-wheeled plastic robot that accepts computer science commands in a number of programming languages and gives students instant visual feedback. Shortly thereafter, Lauwers designed the [Hummingbird Robotics Kit](https://web.archive.org/web/20150912101609/http://remakelearning.org/resource/hummingbird/), which contains the basic components needed for a wide array of robotics, kinetics, and animatronics projects across disciplines.
 
 The strength of educational products like Finch and Hummingbird lies in their ability to make learning something you can see and touch. For many students, these tools represent their first exposure to project-based learning. In particular, Lauwers says, “It’s about doing something as a project that requires creativity and thinking — and it probably doesn’t work the first time. Students have to do some engineering and some programming and some testing before they get it right.”
 
@@ -44,9 +44,9 @@ In 2014, the PreK-12 education technology market had an estimated value of $7.9 
 
 Partnerships with professional development agencies in the [Remake Learning Network](https://remakelearning.org) has been instrumental in helping BirdBrain improve its products and expand its reach.
 
-[ASSET STEM Education](https://remakelearning.org/organization/asset/) hosts Hummingbird professional development on an almost monthly basis. The [Allegheny Intermediate Unit](https://remakelearning.org/organization/aiu/) hosts two-day training workshops in their trasnformED professional development space, a digital playground for teachers, exploring new education technology tools.
+[ASSET STEM Education](https://web.archive.org/web/20150916003233/http://remakelearning.org/organization/asset/) hosts Hummingbird professional development on an almost monthly basis. The [Allegheny Intermediate Unit](https://remakelearning.org/organization/aiu/) hosts two-day training workshops in their trasnformED professional development space, a digital playground for teachers, exploring new education technology tools.
 
-Working with the Carnegie Library of Pittsburgh ([CLP](https://remakelearning.org/organization/carnegie-library/)) has helped Lauwers adapt his products for self-directed learning in out-of-school environments. Materials like comic book-style instructional guides were originally made by CLP librarians, and now they are used by BirdBrain in all their product kits.
+Working with the Carnegie Library of Pittsburgh ([CLP](https://web.archive.org/web/20150916003644/http://remakelearning.org/organization/carnegie-library/)) has helped Lauwers adapt his products for self-directed learning in out-of-school environments. Materials like comic book-style instructional guides were originally made by CLP librarians, and now they are used by BirdBrain in all their product kits.
 
 ## Person of Interest
 
@@ -64,7 +64,7 @@ To help build his customer base, and also constantly improve the products and th
 
 ## More Information
 
-If you’re interested in learning more about BirdBrain Technologies, contact [Tom Lauwers](https://remakelearning.org/person/lauwers-tom/).
+If you’re interested in learning more about BirdBrain Technologies, contact [Tom Lauwers](https://web.archive.org/web/20150925025421/http://remakelearning.org/person/lauwers-tom/).
 
 ### Downloadable Materials
 

@@ -10,7 +10,7 @@ Traditionally, professional development for educators has been in the form of le
 
 Responding to a call from teachers for more meaningful professional development, the Allegheny Intermediate Unit ([AIU](https://remakelearning.org/organization/aiu/)), a local education service agency, created [transformED](https://remakelearning.org/project/transformed/), and in the process flipped professional development on its head. Through engaging, interactive, and creative sessions, teachers learn innovative instructional practices, explore these new teaching methods, play with new products, software, and tools they might use in their classrooms, and understand curricula. It’s a space where teachers can engage with one another to learn how they might integrate novel teaching approaches into their classroom practice.
 
-“We’re not sitting people in rows. We really want to engage them in a fun, hands-on way,” says [Rosanne Javorsky](https://remakelearning.org/person/javorsky-rosanne/), Assistant Executive Director of Teaching & Learning at the AIU. “It’s OK to make mistakes in here. It’s OK to say, ’Hey, I don’t know how to do this.’ We want teachers to step outside their comfort zone. And we want to help them work through it.”
+“We’re not sitting people in rows. We really want to engage them in a fun, hands-on way,” says [Rosanne Javorsky](https://web.archive.org/web/20150924170326/http://remakelearning.org/person/javorsky-rosanne/), Assistant Executive Director of Teaching & Learning at the AIU. “It’s OK to make mistakes in here. It’s OK to say, ’Hey, I don’t know how to do this.’ We want teachers to step outside their comfort zone. And we want to help them work through it.”
 
 Without motivated teachers, no technology breakthrough can deeply affect the academic journey of students in school. transformED is the space for teachers to have the kind of professional development experience that ignites passion and curiosity, instead of stifling it.
 
@@ -18,11 +18,11 @@ Without motivated teachers, no technology breakthrough can deeply affect the aca
 >
 > — Alison Francis, Creativity & Literacy Program Facilitator, Kerr Elementary School
 
-transformED offers teachers opportunities to work with ed-tech tools like [MaKey MaKey](https://remakelearning.org/resource/makey-makey/), [Gigapan](http://www.gigapan.com/), 3-D Printers, and [Hummingbird Robotics Kits](https://remakelearning.org/resource/hummingbird/). Session facilitators are not only professional development consultants; rather they are technologists, scientists, artists, designers, makers, teachers, and even students.
+transformED offers teachers opportunities to work with ed-tech tools like [MaKey MaKey](https://web.archive.org/web/20150912164050/http://remakelearning.org/resource/makey-makey/), [Gigapan](http://www.gigapan.com/), 3-D Printers, and [Hummingbird Robotics Kits](https://web.archive.org/web/20150912101609/http://remakelearning.org/resource/hummingbird/). Session facilitators are not only professional development consultants; rather they are technologists, scientists, artists, designers, makers, teachers, and even students.
 
 The boundaries between presenters and teachers quickly dissolve during interactive sessions.
 
-“It just happens,” says [Megan Cicconi](https://remakelearning.org/person/cicconi-megan/), AIU’s Director of Instructional Innovation, who works closely with teachers and trainers in transformED. “It’s just a very collaborative space that lends itself to exploratory learning.”
+“It just happens,” says [Megan Cicconi](https://web.archive.org/web/20150926114629/http://remakelearning.org/person/cicconi-megan/), AIU’s Director of Instructional Innovation, who works closely with teachers and trainers in transformED. “It’s just a very collaborative space that lends itself to exploratory learning.”
 
 During one workshop on “squishy circuits,” participants took turns playing an interactive video game to cement circuitry principles. Then, they donned aprons and followed a recipe to make two types of Play-Doh: conductive and resistant, and eventually hooked their Play-Doh sculptures up to a battery pack and LED lights. The teachers discussed how students could use the salty, conductive Play-Doh to turn on the LEDs to learn how electricity flows.
 
@@ -44,7 +44,7 @@ Innovative professional development was a topic of discussion in the [Remake Lea
 
 **National partnerships connect network members to unique opportunities. (Coordinate)**
 
-AIU uses transformED to host new professional development initiatives in coordination with national organizations like [Common Sense Media](https://remakelearning.org/organization/common-sense-media/), which hosts regular “Appy Hours” in the space for teachers to try the latest in educational software, and the [Institute of Play](https://remakelearning.org/organization/institute-of-play/), which hosts its annual [TeacherQuest](https://remakelearning.org/project/teacherquest/), helps dozens of Pittsburgh teachers design new games and game-like learning experiences.
+AIU uses transformED to host new professional development initiatives in coordination with national organizations like [Common Sense Media](https://remakelearning.org/organization/common-sense-media/), which hosts regular “Appy Hours” in the space for teachers to try the latest in educational software, and the [Institute of Play](https://web.archive.org/web/20150918223317/http://remakelearning.org/organization/institute-of-play/), which hosts its annual [TeacherQuest](https://web.archive.org/web/20150916102916/http://remakelearning.org/project/teacherquest/), helps dozens of Pittsburgh teachers design new games and game-like learning experiences.
 
 ## Persons of Interest
 
@@ -74,7 +74,7 @@ Rosanne oversaw the design and development transformED, a digital playground for
 
 ## More Information
 
-If you’re interested in learning more about transformED, contact [Megan Cicconi](https://remakelearning.org/person/cicconi-megan/).
+If you’re interested in learning more about transformED, contact [Megan Cicconi](https://web.archive.org/web/20150926114629/http://remakelearning.org/person/cicconi-megan/).
 
 ### Downloadable Materials
 
