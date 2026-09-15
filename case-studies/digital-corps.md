@@ -83,7 +83,7 @@ If you’re interested in learning more about the Digital Corps, contact [Ani Ma
 
 ### Online Resources
 
-- [The Digital Corps online](http://thedigitalcorps.org/): Digital Corps home website.
+- [The Digital Corps online](https://www.sproutfund.org/program/digital-corps/): Digital Corps home website.
 - [Mozilla Webmaker](https://webmaker.org/en-US): Mozilla’s open-source educational initiative to “help millions of people move from using the web to making the web.”
 - [ScratchEd](http://scratched.gse.harvard.edu/): An online community for Scratch educators.
 - [Hummingbird Teaching Community](http://www.hummingbirdkit.com/community): An online community for Hummingbird educators.

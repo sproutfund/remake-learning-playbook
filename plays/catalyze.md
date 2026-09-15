@@ -124,7 +124,7 @@ Seek opportunities to secure funding commitments from national philanthropies, g
 
 ### Getting Started
 
-- **Review the funding landscape**: Do some research on [current funding opportunities](http://www.edutopia.org/grants-and-resources) available from private foundations, corporate giving programs, and government agencies. If contacts are available, reach out to establish communication with program officers.
+- **Review the funding landscape**: Do some research on current funding opportunities available from private foundations, corporate giving programs, and government agencies. If contacts are available, reach out to establish communication with program officers.
 - **Evaluate opportunities**: Based on your review of current funding opportunities, determine which opportunities are the best fit for your network based on your local interests, your level of network maturity, and other important factors.
 - **Recruit partners**: After choosing an opportunity to pursue, determine who from your network will need to participate. Reach out to these partners to confirm their interest and availability to participate, and find out how they can contribute to the application.
 - **Prepare an application**: Major funding requests can require a lot of work and back up to demonstrate your readiness for funding. Budget the appropriate amount of time to draft the application and gather any required supporting materials from partners.

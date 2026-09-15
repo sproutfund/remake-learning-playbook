@@ -42,7 +42,7 @@ In 2015, more than 300 students, 11 teachers, and 8 Teaching Fellows participate
 
 Providing funding for new and innovative learning programs is an essential service of the [Remake Learning Network](http://remakelearning.org).
 
-In 2011, Children’s Innovation Project received a [Spark award](http://remakelearning.org/organization/sprout-fund/spark/) from [The Sprout Fund](http://remakelearning.org/organization/sprout-fund/), a Pittsburgh nonprofit that provides catalytic funding for early learning programs that help children develop hands-on skills and digital literacies. With support from Sprout, project co-directors Melissa Butler and Jeremy Boyle were able to focus on developing the project with the students in Butler’s kindergarten classroom. This early work set them up for iteration, learning, and growth.
+In 2011, Children’s Innovation Project received a [Spark award from The Sprout Fund](https://www.sproutfund.org/program/spark/), a Pittsburgh nonprofit that provides catalytic funding for early learning programs that help children develop hands-on skills and digital literacies. With support from Sprout, project co-directors Melissa Butler and Jeremy Boyle were able to focus on developing the project with the students in Butler’s kindergarten classroom. This early work set them up for iteration, learning, and growth.
 
 ## Persons of Interest
 

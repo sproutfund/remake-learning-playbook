@@ -42,9 +42,9 @@
 				<p>If you’re interested in learning more about Assemble, contact <a href="http://remakelearning.org/person/barbuto-nina/" target="_blank">Nina Barbuto</a>.</p>
 			</for_more_info>
 			<downloadable_materials>
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/assemble/assemble-sample-budget_people.pdf" target="_blank"><strong>Assemble Afterschool Program Personnel Budget—Sample</strong></a>: Sample budget for personnel costs, including recruitment, training prep, instruction, and cleaning time.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/assemble/assemble-sample-budget_materials.pdf" target="_blank"><strong>Assemble Afterschool Program Materials Budget—Sample</strong></a>: Sample budget for materials costs.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/assemble/assemble-sample-contract_teaching-artists.pdf" target="_blank"><strong>Assemble Contract for Artists—Sample</strong></a>: Sample contract for artists renting Assemble’s space for shows and installations, including commission terms for artwork sold.</item> 
+				<item><a href="downloads/case-studies/assemble/assemble-sample-budget_people.pdf" target="_blank"><strong>Assemble Afterschool Program Personnel Budget—Sample</strong></a>: Sample budget for personnel costs, including recruitment, training prep, instruction, and cleaning time.</item> 
+				<item><a href="downloads/case-studies/assemble/assemble-sample-budget_materials.pdf" target="_blank"><strong>Assemble Afterschool Program Materials Budget—Sample</strong></a>: Sample budget for materials costs.</item> 
+				<item><a href="downloads/case-studies/assemble/assemble-sample-contract_teaching-artists.pdf" target="_blank"><strong>Assemble Contract for Artists—Sample</strong></a>: Sample contract for artists renting Assemble’s space for shows and installations, including commission terms for artwork sold.</item> 
 			</downloadable_materials>
 			<online_resources>
 				<item><a href="https://diy.org/" target="_blank"><strong>DIY.org</strong></a>: An online community for youth centered on learning, making, and sharing what they’ve made; members earn patches for completing challenges.</item> 
@@ -115,7 +115,7 @@
 				<p>If you’re interested in learning more about BirdBrain Technologies, contact <a href="http://remakelearning.org/person/lauwers-tom/" target="_blank">Tom Lauwers</a>.</p>
 			</for_more_info>
 			<downloadable_materials>
-				<item><a href="http://www.hummingbirdkit.com/learning/curricula" target="_blank"><strong>Hummingbird Curricula &amp; Resources</strong></a>: Teacher guides, lesson planning forms, student worksheets, and comics to support educators implement Hummingbird kits effectively.</item> 
+				<item><a href="http://www.hummingbirdkit.com/teaching/resources" target="_blank"><strong>Hummingbird Curricula &amp; Resources</strong></a>: Teacher guides, lesson planning forms, student worksheets, and comics to support educators implement Hummingbird kits effectively.</item> 
 				<item><a href="https://dl.dropboxusercontent.com/u/9303915/hummingbird-duo-guide.pdf" target="_blank"><strong>Hummingbird Duo User Guide</strong></a>: Complete guide for using the Hummingbird Duo kit, including identifying the physical components and programming your bot.</item> 
 				<item><a href="http://artsandbots.posthaven.com/arts-and-bots-workshop-materials-updated" target="_blank"><strong>Arts &amp; Bots Hummingbird Workshop Materials</strong></a>: Workshop presentation and reference sheet for using the hummingbird kit.</item> 
 				<item><a href="http://artsandbots.posthaven.com/full-curriculum" target="_blank"><strong>Arts &amp; Bots Full Hummingbird Curriculum</strong></a>: Curricula used by Arts &amp; Bots for teaching language art, science, art, technology, math, social studies, biology, and anatomy.</item> 
@@ -241,7 +241,7 @@
 			</by_the_numbers>
 			<network_in_action action_area="catalyze" summary="Mini-grants support early-stage projects.">
 				<p>Providing funding for new and innovative learning programs is an essential service of the <a href="http://remakelearning.org" target="_blank">Remake Learning Network</a>.</p> 
-				<p>In 2011, Children’s Innovation Project received a <a href="http://remakelearning.org/organization/sprout-fund/spark/" target="_blank">Spark award</a> from <a href="http://remakelearning.org/organization/sprout-fund/" target="_blank">The Sprout Fund</a>, a Pittsburgh nonprofit that provides catalytic funding for early learning programs that help children develop hands-on skills and digital literacies. With support from Sprout, project co-directors Melissa Butler and Jeremy Boyle were able to focus on developing the project with the students in Butler’s kindergarten classroom. This early work set them up for iteration, learning, and growth.</p> 
+				<p>In 2011, Children’s Innovation Project received a <a href="https://www.sproutfund.org/program/spark/" target="_blank">Spark award from The Sprout Fund</a>, a Pittsburgh nonprofit that provides catalytic funding for early learning programs that help children develop hands-on skills and digital literacies. With support from Sprout, project co-directors Melissa Butler and Jeremy Boyle were able to focus on developing the project with the students in Butler’s kindergarten classroom. This early work set them up for iteration, learning, and growth.</p> 
 			</network_in_action>
 			<person_of_interest name="Melissa Butler" slug="butler-melissa">
 				<p>Melissa Butler is a teacher in Pittsburgh Public Schools and co-director of the Children’s Innovation Project.</p> 
@@ -394,7 +394,7 @@
 				<item><a href="https://theanimal.makes.org/thimble/MTMyMTY2NDc2OA==/digicorps-mobile-media-teaching-kit" target="_blank">Mobile Media Teaching Kit</a>: Curriculum for teaching mobile design using coding languages and Mozilla Appmaker.</item> 
 			</downloadable_materials>
 			<online_resources>
-				<item><a href="http://thedigitalcorps.org/" target="_blank">The Digital Corps online</a>: Digital Corps home website.</item> 
+				<item><a href="https://www.sproutfund.org/program/digital-corps/" target="_blank">The Digital Corps online</a>: Digital Corps home website.</item> 
 				<item><a href="https://webmaker.org/en-US" target="_blank">Mozilla Webmaker</a>: Mozilla’s open-source educational initiative to “help millions of people move from using the web to making the web.”</item> 
 				<item><a href="http://scratched.gse.harvard.edu/" target="_blank">ScratchEd</a>: An online community for Scratch educators.</item> 
 				<item><a href="http://www.hummingbirdkit.com/community" target="_blank">Hummingbird Teaching Community</a>: An online community for Hummingbird educators.</item> 
@@ -432,13 +432,14 @@
 			<p>Early in their tenure at Elizabeth Forward, Rocco and Keruskin attended an event at the <a href="http://remakelearning.org/organization/aiu/" target="_blank">Allegheny Intermedia Unit</a> to hear a speech by <a href="http://remakelearning.org/person/marinelli-don/" target="_blank">Don Marinelli</a>, then-executive director of Carnegie Mellon’s Entertainment Technology Center ( <a href="http://remakelearning.org/organization/carnegie-mellon/etc/" target="_blank">ETC</a>). Intrigued, they followed up with Marinelli, who suggested they partner with ETC and local education technology company <a href="http://remakelearning.org/organization/zulama/" target="_blank">Zulama</a> to transform a space in their district. With guidance from these partners, district leaders, teachers, students, and facilities staff came together to create the <a href="http://remakelearning.org/project/entertainment-technology-academy/" target="_blank">Entertainment Technology Academy</a>, a classroom that does away with the rows of desk and chalk board in favor of a flexible and collaborative learning space. Teachers use game design theory to offer engaging, effective English, math, art, design, and computer science curriculum. Encouraged, Elizabeth Forward’s leadership didn’t stop there.</p>  
 			<p>Next came the <a href="http://remakelearning.org/project/elizabeth-forward-media-center/" target="_blank">EF Media Center</a>, which transformed the static school library into an attractive high school hangout space with comfortable seating, gaming consoles, a stage, and state-of-the-art audio and video production studios. Then came the <a href="http://remakelearning.org/project/smallab/" target="_blank">SMALLab</a>, an interactive digital media space that used gaming to provide fun, kinesthetic educational opportunities for middle school students. Next came the <a href="http://remakelearning.org/project/dream-factory-efms/" target="_blank">Dream Factory</a>, combining the middle school’s art studio, shop class, and computer science lab into one integrated innovation space. In 2013, Elizabeth Forward launched a district-wide 1:1 technology learning initiative for every student K-12. In 2015, they partnered with <a href="http://remakelearning.org/organization/carnegie-museums/carnegie-science-center/chevron-center-for-stem/" target="_blank">Chevron</a> and the ETC to build an interactive <a href="http://www.edlinesites.net/pages/EF_MiddleSchool/Important_Links/Energy_Lab" target="_blank">Energy Lab</a> for middle school students to learn about Earth, space, and energy concepts.</p> 
 			<p>Rocco and Keruskin formed strategic partnerships with regional and national education innovators to advance their work, but they consistently remained grounded in the district, working closely with their school board, teachers, and students to develop, adapt, and improve spaces and programs.</p> 
-			<p>Today, the district is one of 57 members of Digital Promise’s <a href="http://www.digitalpromise.org/league" target="_blank">League of Innovative Schools</a>. More importantly, though, student test scores are up, their dropout rates are down, and the transition from “frontierland” to “futureland,” as Superintendent Rocco likes to say, is well under way.</p>  
+			<p>Today, the district is one of more than 70 members of Digital Promise’s <a href="http://www.digitalpromise.org/league" target="_blank">League of Innovative Schools</a>. More importantly, though, student test scores are up, their dropout rates are down, and the transition from “frontierland” to “futureland,” as Superintendent Rocco likes to say, is well under way.</p>  
 		</text>
 		<additional_content>
 			<by_the_numbers>
-				<p>In the 2008-09 academic year, 15 of Elizabeth Forward’s 800 students dropped out, and more than 70 district students opted for charter or cyber schools. Today, Elizabeth Forward’s dropout rate is almost zero, and only 11 students are enrolled in charter or cyber schools.</p> 
-				<p>In state standardized testing, the district, which ranked #250 out of 500, has moved up 105 spots to #145.</p> 
-				<p>Enrollment in summer enrichment programs has shot up more than 500% since 2009.</p>  
+				<p>In the 2009-2010 academic year, 24 of Elizabeth Forward’s approximately 800 students dropped out. Four years later, only one student dropped out during the 2012-2013 school year.</p>
+				<p>Of 497 Pennsylvania school districts ranked by the Pittsburgh Business Times, Elizabeth Forward moved up 82 spots between 2009 and 2013.</p>
+				<p>Enrollment in voluntary summer enrichment programs has shot up more than 500% since 2009.</p>
+				<p><em>These statistics have been corrected to reflect available data.</em></p>  
 			</by_the_numbers>
 			<network_in_action action_area="communicate" summary="Site tours share the best of the network with visitors from other regions.">
 				<p>Elizabeth Forward has tapped in to the Remake Learning Network to share its success with other districts seeking to reimagine how teaching and learning works in today’s classrooms. Responding to growing demand to see Elizabeth Forward’s transformation in action, the district offers monthly tours for teachers and administrators. To date, the district has hosted more than 400 educators from more than 100 school districts from around the world.</p>
@@ -516,8 +517,8 @@
 				<p>If you’re interested in learning more about The Labs, contact <a href="http://remakelearning.org/person/wittig-corey/" target="_blank">Corey Wittig</a>.</p>
 			</for_more_info>
 			<downloadable_materials>
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/labs/badge-criteria.zip" target="_blank"><strong>CLP Teens Badge Criteria</strong></a>: Criteria for three badges (Library Navigator, Basic Circuits, and Stop-Motion) that the CLP offers, including resources, a checklist, and terms and skills required to earn each badge.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/labs/instructional-comic-guides.zip" target="_blank"><strong>CLP Labs Instructional Comics</strong></a>: Comics with illustrated instructions for using the Labs’ technologies, including the stroboscopic camera, drum machine, Hummingbird kit, and stop-motion kit.</item> 
+				<item><a href="downloads/case-studies/labs/badge-criteria.zip" target="_blank"><strong>CLP Teens Badge Criteria</strong></a>: Criteria for three badges (Library Navigator, Basic Circuits, and Stop-Motion) that the CLP offers, including resources, a checklist, and terms and skills required to earn each badge.</item> 
+				<item><a href="downloads/case-studies/labs/instructional-comic-guides.zip" target="_blank"><strong>CLP Labs Instructional Comics</strong></a>: Comics with illustrated instructions for using the Labs’ technologies, including the stroboscopic camera, drum machine, Hummingbird kit, and stop-motion kit.</item> 
 				<item><a href="http://ccsr.uchicago.edu/sites/default/files/publications/YOUmedia%20Report%20-%20Final.pdf" target="_blank"><strong>Teens, Digital Media, and the Chicago Public Library Research Report</strong></a>: Report from May 2013 generated by the University of Chicago Consortium on Chicago School Research describing the innovations in the Chicago Public Library system.</item> 
 			</downloadable_materials>
 			<online_resources>
@@ -552,7 +553,7 @@
 			<p class="dropcap">How do you make learning an exciting and fun part of life for kids who’d rather be doing anything but? Part science fair and part arts festival, <a href="https://teach.mozilla.org/events/" target="_blank">Maker Parties</a> offer a wide sampling of arts- and technology-based activities that turn learning into a party for children, youth, and families.</p> 
 			<p>Globally, <a href="https://www.mozilla.org/en-US/" target="_blank">Mozilla</a>, the nonprofit working to keep the Web open and accessible to all, organizes and promotes Maker Parties as a way to introduce hundreds of thousands of people to new digital learning opportunities. Maker Parties bring together local organizations, educators, community members, and skilled mentors to host a free hands-on, pop-up learning event for teens and tweens.</p> 
 			<p>The impact of a Maker Party is two-fold. First, it creates a unique exposure opportunity for learners to engage in web literacy learning—many, for the first time. Second, it expands the reach of local service organizations, which can engage new students and parents with compelling programming.</p> 
-			<p>In Pittsburgh, Maker Parties are one of several public showcase events hosted by members of the <a href="http://remakelearning.org" target="_blank">Remake Learning Network</a> to create anywhere, anytime learning opportunities. <a href="http://remakelearning.org/organization/sprout-fund/" target="_blank">The Sprout Fund</a> organized Pittsburgh’s first Maker Party in 2013 when it launched a local <a href="http://remakelearning.org/organization/sprout-fund/hive/" target="_blank">Hive Learning Network</a>. And, in 2014, four additional Maker Parties popped up in neighborhoods throughout the city.</p> 
+			<p>In Pittsburgh, Maker Parties are one of several public showcase events hosted by members of the <a href="http://remakelearning.org" target="_blank">Remake Learning Network</a> to create anywhere, anytime learning opportunities. <a href="http://remakelearning.org/organization/sprout-fund/" target="_blank">The Sprout Fund</a> organized Pittsburgh’s first Maker Party in 2013 when it launched a local <a href="https://www.sproutfund.org/program/hive/" target="_blank">Hive Learning Network</a>. And, in 2014, four additional Maker Parties popped up in neighborhoods throughout the city.</p> 
 			<blockquote>
 				<p>Maker Party joins thousands of people across the globe to make something amazing, teach each other new skills, and have a great time doing it.</p>
 				<footer>Chris Lawrence, V.P. of Learning, Mozilla Foundation</footer>
@@ -575,7 +576,7 @@
 			</person_of_interest>
 			-->
 			<for_more_info>
-				<p>If you’re interested in learning more about Maker Parties, check out <a href="https://teach.mozilla.org/events/resources/" target="_blank">Mozilla’s event resources</a>.</p>
+				
 			</for_more_info>
 			<!--
 			<downloadable_materials>
@@ -716,14 +717,14 @@
 				<p>If you’re interested in learning more about transformED, contact <a href="http://remakelearning.org/person/cicconi-megan/" target="_blank">Megan Cicconi</a>.</p>
 			</for_more_info>
 			<downloadable_materials>
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/transformed/transformEd-Presenter-PP-template.pptx" target="_blank"><strong>Workshop Instructor Presentation Template</strong></a>: PowerPoint presentation template highlighting the structure of transformED training sessions.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/transformed/3D-printing-for-the-curious.pptx" target="_blank"><strong>3D Printing for the Intellectually Curious</strong></a>: PowerPoint presentation for a transformED training session introducing the process of using a 3D printer.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/transformed/Bring-it-and-Bling-it.pptx" target="_blank"><strong>Bring It and Bling It</strong></a>: PowerPoint presentation for a transformED training session introducing the process of conductive sewing.</item> 
+				<item><a href="downloads/case-studies/transformed/transformEd-Presenter-PP-template.pptx" target="_blank"><strong>Workshop Instructor Presentation Template</strong></a>: PowerPoint presentation template highlighting the structure of transformED training sessions.</item> 
+				<item><a href="downloads/case-studies/transformed/3D-printing-for-the-curious.pptx" target="_blank"><strong>3D Printing for the Intellectually Curious</strong></a>: PowerPoint presentation for a transformED training session introducing the process of using a 3D printer.</item> 
+				<item><a href="downloads/case-studies/transformed/Bring-it-and-Bling-it.pptx" target="_blank"><strong>Bring It and Bling It</strong></a>: PowerPoint presentation for a transformED training session introducing the process of conductive sewing.</item> 
 			</downloadable_materials>
 			<online_resources>
 				<item><a href="http://centerforcreativity.net/" target="_blank"><strong>Center for Creativity</strong></a>: transformED’s parent organization; an initiative of The Allegheny Intermediate Unit working to connect creative resources with educators.</item> 
 				<item><a href="https://hbr.org/2014/01/a-taxonomy-of-innovation/ar/1" target="_blank"><strong>Taxonomy for Innovation</strong></a>: Luma Institute’s framework for choosing the best tools in each step of innovative development.</item> 
-				<item><a href="http://downloads.sproutfund.org/remakelearning/playbook/transformed/Design-thinking-for-educators.pdf" target="_blank"><strong>Design Thinking for Educators</strong></a>: A toolkit for designing new solutions for classrooms, schools, and communities.</item> 
+				<item><a href="downloads/case-studies/transformed/Design-thinking-for-educators.pdf" target="_blank"><strong>Design Thinking for Educators</strong></a>: A toolkit for designing new solutions for classrooms, schools, and communities.</item> 
 			</online_resources>
 			<related_projects_partners>
 				<item><a href="http://www.qvsd.org/page.cfm?p=6189" target="_blank"><strong>Project Zero at Quaker Valley</strong></a>: A research project designed to study and improve education in the arts.</item> 

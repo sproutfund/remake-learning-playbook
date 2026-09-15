@@ -19,10 +19,10 @@ Join the global conversation about the future of learning through a weblog where
 
 ### Getting Started
 
-- **Find a home for your blog**: If you don’t already have a blog, you’ll need to create one from scratch. [Choose a blogging platform](http://www.bloggingbasics101.com/how-do-i-start-a-blog/), purchase a memorable domain name that represents your network, and make it look nice.
+- **Find a home for your blog**: If you don’t already have a blog, you’ll need to create one from scratch. Choose a blogging platform, purchase a memorable domain name that represents your network, and make it look nice.
 - **Set your budget**: Purchase a domain and a hosting package. Find out the going rate for freelance writers in your community and determine how much work you can afford to hire.
 - **Establish your editorial goals**: Describe your target audience and the kinds of content your blog will serve them. Decide whether you will publish short, frequent posts about current news or longer, occasional posts that dig deeper into key topics, or a combination.
-- **Create a publishing schedule**: [Create a calendar](http://contentmarketinginstitute.com/2014/11/content-marketers-checklist-editorial-calendar-essentials/) that guides what you plan to publish when. Work backwards from your publishing dates to set draft and final deadlines for writing assignments.
+- **Create a publishing schedule**: Create a calendar that guides what you plan to publish when. Work backwards from your publishing dates to set draft and final deadlines for writing assignments.
 - **Build Your Team**: You’ll need help to review and revise blog posts, even if you plan to do most of the writing yourself. Reach out to freelance journalists, graduate students, or active bloggers in your network.
 - **Post, share & engage**: Share posts widely via your social media followers and email list subscribers. Be sure to create opportunities for people to comment and provide feedback to your blog.
 
@@ -46,7 +46,7 @@ Establish a social media presence for the network that speak on behalf of the ne
 - **Connect with your network**: Immediately follow, friend, subscribe, and like the people and organizations who form the core of your network on social media.
 - **Build your following**: Identify key people and organizations in your community who are influential in your community and be sure to follow, friend, and subscribe to their social media accounts. Tag them in your messages to draw their attention to your work.
 - **Organize Engagement**: Follow specific hashtags that relate to the interests of your network, join pre-scheduled twitter chats about education and innovation, and consider organizing your own conversation around a specific event or topic using a new hashtag.
-- **Follow a calendar**: Maintain [a social media calendar](http://blog.hootsuite.com/social-media-templates/) to keep the conversation going without having to spend every day on your social media account.
+- **Follow a calendar**: Maintain a social media calendar to keep the conversation going without having to spend every day on your social media account.
 
 ### Examples
 

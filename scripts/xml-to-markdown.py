@@ -109,6 +109,8 @@ class Ctx:
             if page == "playbook" and frag in CHAPTER_FILES:
                 return f"{self.rel}{CHAPTER_FILES[frag]}"
             return f"{self.rel}{page}.md"
+        if href.startswith("downloads/"):
+            return f"{self.rel}docs/{href}"
         local = find_download(href)
         if local:
             return self.rel + local.relative_to(ROOT).as_posix()
@@ -140,22 +142,30 @@ def inline(el, ctx, italic=False, bold=False):
     return "".join(out)
 
 
+def pad(s):
+    """Split leading/trailing whitespace off inline content so markers hug the text."""
+    core = s.strip()
+    if not core:
+        return "", "", ""
+    return (" " if s[:1].isspace() else ""), core, (" " if s[-1:].isspace() else "")
+
+
 def inline_node(el, ctx, italic=False, bold=False):
     tag = el.tag
     if tag == "a":
         href = el.get("href")
-        label = inline(el, ctx, italic, bold).strip()
+        lead, label, trail = pad(inline(el, ctx, italic, bold))
         if not href:
-            return label
-        return f"[{label}]({ctx.link(href)})" if label else ""
+            return lead + label + trail
+        return f"{lead}[{label}]({ctx.link(href)}){trail}" if label else ""
     if tag in ("strong", "b"):
-        inner = inline(el, ctx, italic, True).strip()
-        return inner if bold or not inner else f"**{inner}**"
+        lead, inner, trail = pad(inline(el, ctx, italic, True))
+        return lead + (inner if bold or not inner else f"**{inner}**") + trail
     if tag in ("em", "i"):
         if tag == "i" and any(c.startswith("fa") for c in classes(el)):
             return ""  # Font Awesome icon
-        inner = inline(el, ctx, True, bold).strip()
-        return inner if italic or not inner else f"*{inner}*"
+        lead, inner, trail = pad(inline(el, ctx, True, bold))
+        return lead + (inner if italic or not inner else f"*{inner}*") + trail
     if tag == "br":
         return "  \n"
     if tag == "img":

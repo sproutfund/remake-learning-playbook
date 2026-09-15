@@ -12,7 +12,7 @@ Globally, [Mozilla](https://www.mozilla.org/en-US/), the nonprofit working to ke
 
 The impact of a Maker Party is two-fold. First, it creates a unique exposure opportunity for learners to engage in web literacy learning—many, for the first time. Second, it expands the reach of local service organizations, which can engage new students and parents with compelling programming.
 
-In Pittsburgh, Maker Parties are one of several public showcase events hosted by members of the [Remake Learning Network](http://remakelearning.org) to create anywhere, anytime learning opportunities. [The Sprout Fund](http://remakelearning.org/organization/sprout-fund/) organized Pittsburgh’s first Maker Party in 2013 when it launched a local [Hive Learning Network](http://remakelearning.org/organization/sprout-fund/hive/). And, in 2014, four additional Maker Parties popped up in neighborhoods throughout the city.
+In Pittsburgh, Maker Parties are one of several public showcase events hosted by members of the [Remake Learning Network](http://remakelearning.org) to create anywhere, anytime learning opportunities. [The Sprout Fund](http://remakelearning.org/organization/sprout-fund/) organized Pittsburgh’s first Maker Party in 2013 when it launched a local [Hive Learning Network](https://www.sproutfund.org/program/hive/). And, in 2014, four additional Maker Parties popped up in neighborhoods throughout the city.
 
 > Maker Party joins thousands of people across the globe to make something amazing, teach each other new skills, and have a great time doing it.
 >
@@ -35,10 +35,6 @@ The Maker Party campaign builds on a long history of learning pop-ups that happe
 In 2014, there were 2,515 maker parties in 86 countries. Those parties engaged more than 300 organizational partners, who recruited 1,036 mentors to teach 127,200 learners around the world.
 
 Pittsburgh hosted five community Maker Parties in 2014, engaging more than 500 young people in a range of hands-on experiential learning.
-
-## More Information
-
-If you’re interested in learning more about Maker Parties, check out [Mozilla’s event resources](https://teach.mozilla.org/events/resources/).
 
 ---
 

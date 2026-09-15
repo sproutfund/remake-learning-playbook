@@ -22,17 +22,19 @@ Next came the [EF Media Center](http://remakelearning.org/project/elizabeth-forw
 
 Rocco and Keruskin formed strategic partnerships with regional and national education innovators to advance their work, but they consistently remained grounded in the district, working closely with their school board, teachers, and students to develop, adapt, and improve spaces and programs.
 
-Today, the district is one of 57 members of Digital Promise’s [League of Innovative Schools](http://www.digitalpromise.org/league). More importantly, though, student test scores are up, their dropout rates are down, and the transition from “frontierland” to “futureland,” as Superintendent Rocco likes to say, is well under way.
+Today, the district is one of more than 70 members of Digital Promise’s [League of Innovative Schools](http://www.digitalpromise.org/league). More importantly, though, student test scores are up, their dropout rates are down, and the transition from “frontierland” to “futureland,” as Superintendent Rocco likes to say, is well under way.
 
 *by Liberty Ferda*
 
 ## By the Numbers
 
-In the 2008-09 academic year, 15 of Elizabeth Forward’s 800 students dropped out, and more than 70 district students opted for charter or cyber schools. Today, Elizabeth Forward’s dropout rate is almost zero, and only 11 students are enrolled in charter or cyber schools.
+In the 2009-2010 academic year, 24 of Elizabeth Forward’s approximately 800 students dropped out. Four years later, only one student dropped out during the 2012-2013 school year.
 
-In state standardized testing, the district, which ranked #250 out of 500, has moved up 105 spots to #145.
+Of 497 Pennsylvania school districts ranked by the Pittsburgh Business Times, Elizabeth Forward moved up 82 spots between 2009 and 2013.
 
-Enrollment in summer enrichment programs has shot up more than 500% since 2009.
+Enrollment in voluntary summer enrichment programs has shot up more than 500% since 2009.
+
+*These statistics have been corrected to reflect available data.*
 
 ## Network in Action
 
