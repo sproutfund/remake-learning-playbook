@@ -74,7 +74,7 @@ If you’re interested in learning more about The Labs, contact [Corey Wittig](h
 
 - [**CLP Teens Website**](http://www.carnegielibrary.org/teens/): CLP’s web portal for their teen programming at all library branches.
 - [**CLP Teens YouTube Channel**](https://www.youtube.com/user/CLPTeens/videos): Uploads of projects made by teens using digital technologies in the lab and promotional videos for CLP’s teen programming.
-- [**The Library as Incubator Project**](http://www.libraryasincubatorproject.org/): A project to explore and highlight relationships between artists and libraries and advocate for libraries as incubators of the arts.
+- [**The Library as Incubator Project**](https://web.archive.org/web/20151031171912/http://www.libraryasincubatorproject.org/): A project to explore and highlight relationships between artists and libraries and advocate for libraries as incubators of the arts.
 - [**Urban Libraries Council**](https://www.urbanlibraries.org/): Membership association of public library systems that advances the value of libraries to provide 21st century educational opportunities.
 - [**YOUmedia Learning Lab Network**](http://www.youmedia.org/): A national network dedicated to expanding the reach and impact of the learning lab model.
 

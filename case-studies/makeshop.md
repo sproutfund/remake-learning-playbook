@@ -76,18 +76,18 @@ If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](ht
 
 - [**Building and Sustaining a Thriving Maker Hub**](https://makered.org/wp-content/uploads/2014/12/Building-and-Sustaining-a-Thriving-Maker-Hub.pdf): Case study describing various programs in Pittsburgh doing pioneering work in the maker education field.
 - [**MAKESHOP’s YouTube Playlists**](https://www.youtube.com/user/pghmakeshop/playlists): Interviews with educators and student makers and video documentation produced by MAKESHOP about the space and process.
-- [**The Learning Practices of Making: An Evolving Framework for Design**](http://makeshoppgh.com/wp-content/uploads/2015/02/MAKESHOP-Learning-Practices-formatted_FINAL_Feb-2015.pdf): In-depth description of MAKESHOP’s Learning Practices.
-- [**Make a Makerspace**](http://makeshoppgh.com/resources/make-a-makerspace/): MAKESHOP’s recommendations for the design and development of making experiences for learning.
+- [**The Learning Practices of Making: An Evolving Framework for Design**](https://web.archive.org/web/20160713131304/http://makeshoppgh.com/wp-content/uploads/2015/02/MAKESHOP-Learning-Practices-formatted_FINAL_Feb-2015.pdf): In-depth description of MAKESHOP’s Learning Practices.
+- [**Make a Makerspace**](https://web.archive.org/web/20160601131312/http://makeshoppgh.com/resources/make-a-makerspace/): MAKESHOP’s recommendations for the design and development of making experiences for learning.
 - [**Makerspace Playbook**](https://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf)**:** A resource for teachers, parents, and makers to make it easier to launch a space and get a program up and running.
 - [**Handmade in MAKESHOP**](https://s3.amazonaws.com/cmop_production/downloads/256/CMP_MakeShop_Catalog_2015_web_3_.pdf): A catalog of MAKESHOP’s offerings, activities, exhibits, and furnishings.
 
 ### Online Resources
 
 - [**Making & Learning: Building a Framework for Making in Museums & Libraries**](https://makingandlearning.squarespace.com/): A site for makerspaces in museums and libraries to join the conversation, share work, and connect.
-- [**MAKESHOP Educator & Professional Opportunities**](http://makeshoppgh.com/resources/educator-professional-opportunities/): Descriptions of MAKESHOP’s programs for maker educators and schools.
-- [**MAKESHOP Kickstarting Making in Schools**](http://makeshoppgh.com/resources/kickstarting-making-in-schools/): Collaboration between MAKESHOP and area schools to create avenues for schools to learn more about making.
+- [**MAKESHOP Educator & Professional Opportunities**](https://web.archive.org/web/20151104171705/http://makeshoppgh.com/resources/educator-professional-opportunities/): Descriptions of MAKESHOP’s programs for maker educators and schools.
+- [**MAKESHOP Kickstarting Making in Schools**](https://web.archive.org/web/20150608040805/http://makeshoppgh.com/resources/kickstarting-making-in-schools/): Collaboration between MAKESHOP and area schools to create avenues for schools to learn more about making.
 - [**Questions to Think About in Maker Spaces**](http://mindfulmakerkids.info/)**:** A set of questions (with downloadable poster) that “Mindful Makers Ask Themselves” to encourage effective making.
-- [**Make Your Own Maker Space**](http://www.hfrp.org/complementary-learning/snapshots/make-your-own-maker-space): Tips from Lisa Brahms for creating engaging maker spaces for children and families.
+- [**Make Your Own Maker Space**](https://web.archive.org/web/20150911234113/http://www.hfrp.org/complementary-learning/snapshots/make-your-own-maker-space): Tips from Lisa Brahms for creating engaging maker spaces for children and families.
 
 ### Related Projects & Partners
 

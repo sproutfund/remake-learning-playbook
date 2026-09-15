@@ -89,11 +89,11 @@ If you’re interested in learning more about BirdBrain Technologies, contact [T
 
 ### Related Projects & Partners
 
-- [**Zulama**](http://zulama.com/): An educational technology company that develops systems and tools that blend technology and creativity for educators and students.
-- [**Romibo**](http://origamirobotics.com/): An interactive robot developed to assist with autism therapy and language learning by telling stories and delivering prompts and praise.
+- [**Zulama**](https://web.archive.org/web/20160111115010/http://zulama.com/): An educational technology company that develops systems and tools that blend technology and creativity for educators and students.
+- [**Romibo**](https://web.archive.org/web/20151030043756/http://origamirobotics.com/): An interactive robot developed to assist with autism therapy and language learning by telling stories and delivering prompts and praise.
 - [**Carnegie Mellon’s Robotics Academy**](http://education.rec.ri.cmu.edu/): A research organization with CMU’s School of Computer Science that studies how teachers use robots in classrooms to teach CS-STEM.
 - [**Schell Games**](https://www.schellgames.com/): A game design and development company that specializes in creating interactive educational games.
-- [**Little Bird Games**](http://littlebirdgames.com/): An educational and therapeutic video, board, and card game design company.
+- [**Little Bird Games**](https://web.archive.org/web/20140517215041/http://littlebirdgames.com/): An educational and therapeutic video, board, and card game design company.
 
 ---
 
