@@ -69,7 +69,7 @@ Katherine Harrell, *Text*
 
 ## Sprout Staff
 
-This project was made possible through the support of the entire board and staff of [The Sprout Fund](http://www.sproutfund.org). Special thanks to:
+This project was made possible through the support of the entire board and staff of [The Sprout Fund](https://www.sproutfund.org). Special thanks to:
 
 Randy Paris  
 *Project Director*
@@ -88,9 +88,9 @@ Cathy Lewis Long
 
 ## Financial Support
 
-*Support for this project was generously provided by [The Grable Foundation](http://www.grable.org).*
+*Support for this project was generously provided by [The Grable Foundation](https://www.grable.org).*
 
-Support for the [Remake Learning Network](http://remakelearning.org) is provided by The Grable Foundation, John D. and Catherine T. MacArthur Foundation, Claude Worthington Benedum Foundation, Henry L. Hillman Foundation, McCune Foundation, and The Pittsburgh Foundation.
+Support for the [Remake Learning Network](https://remakelearning.org) is provided by The Grable Foundation, John D. and Catherine T. MacArthur Foundation, Claude Worthington Benedum Foundation, Henry L. Hillman Foundation, McCune Foundation, and The Pittsburgh Foundation.
 
 ## About The Sprout Fund
 
@@ -100,7 +100,7 @@ Sprout is the steward of the Remake Learning and Hive Learning Networks in Pitts
 
 Directed by a board of civically engaged leaders, led by its co-founders, supported by a dedicated staff, and with strong relationships to many community organizations and regional stakeholders, Sprout has worked successfully across political and geographic boundaries to make hundreds of community-decided investments in early-stage projects, organizations, innovators, and activities.
 
-Learn more about Sprout and its supported projects at [sproutfund.org](http://www.sproutfund.org).
+Learn more about Sprout and its supported projects at [sproutfund.org](https://www.sproutfund.org).
 
 ## About the Remake Learning Network
 
@@ -108,4 +108,4 @@ Representing more than 200 organizations, Remake Learning is a professional netw
 
 With millions of dollars invested, thousands of children engaged, and hundreds of practitioners leading dozens of projects, Remake Learning is yielding tangible results for children and youth in communities throughout the region.
 
-Learn more about the Network and the impact of our work at [remakelearning.org](http://remakelearning.org).
+Learn more about the Network and the impact of our work at [remakelearning.org](https://remakelearning.org).

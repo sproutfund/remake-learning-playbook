@@ -66,7 +66,7 @@ Caroline has reached over 1,000 students in the Pittsburgh area with her Scratch
 
 ## More Information
 
-If you’re interested in learning more about Assemble, contact [Nina Barbuto](http://remakelearning.org/person/barbuto-nina/).
+If you’re interested in learning more about Assemble, contact [Nina Barbuto](https://remakelearning.org/person/barbuto-nina/).
 
 ### Downloadable Materials
 
@@ -77,22 +77,22 @@ If you’re interested in learning more about Assemble, contact [Nina Barbuto](h
 ### Online Resources
 
 - [**DIY.org**](https://diy.org/): An online community for youth centered on learning, making, and sharing what they’ve made; members earn patches for completing challenges.
-- [**Assemble—Educational Philosophy**](http://assemblepgh.org/about/philosophy/): An overview of Assemble’s principles and reasoning.
-- [**Machine Project**](http://machineproject.com/): A storefront space in Los Angeles that hosts free events and serves as an informal educational institution.
+- [**Assemble—Educational Philosophy**](https://assemblepgh.org/about/philosophy/): An overview of Assemble’s principles and reasoning.
+- [**Machine Project**](https://machineproject.com/): A storefront space in Los Angeles that hosts free events and serves as an informal educational institution.
 - [**Learning Space Toolkit**](http://www.learningspacetoolkit.org/): A free resource for planning learning spaces; developed by the North Carolina State University Libraries.
 - [**Center for Youth Program Quality**](http://www.cypq.org/): A Michigan organization committed to helping programs enhance the experiences they provide for youth.
 
 ### Related Projects & Partners
 
-- [**Hilltop YMCA Creator Space**](http://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space/): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
-- [**The Maker’s Place**](http://themakersplace.org/): An entrepreneurship, science, technology, engineering, art and math focused out-of-school time program in Pittsburgh.
+- [**Hilltop YMCA Creator Space**](https://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space/): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
+- [**The Maker’s Place**](https://themakersplace.org/): An entrepreneurship, science, technology, engineering, art and math focused out-of-school time program in Pittsburgh.
 - [**Allentown Learning and Engagement Center**](http://www.brashearkids.com/2014/05/all-about-alec.html): a collaborative effort of the Brashear Association and the Carnegie Library of Pittsburgh that offers after-school and summer programs as well as health and wellness information, career and literacy programs, and other assistance.
 - [**Artists Image Resource**](http://www.artistsimageresource.org/): An artist-run, nonprofit printmaking studio whose purpose is to integrate the creation of fine art printwork with innovative educational programs.
 - [**Center of Life**](http://centeroflife.net/): A faith-based community empowerment organization whose mission is to provide families and youth with life-skills, education, training, and resources.
-- [**Irma Freeman Center for Imagination**](http://irmafreeman.org/): an arts and green energy community center that hosts art exhibitions, classes, and outreach programs for youth and adults.
+- [**Irma Freeman Center for Imagination**](https://irmafreeman.org/): an arts and green energy community center that hosts art exhibitions, classes, and outreach programs for youth and adults.
 - [**Manchester Craftsmen’s Guild Youth & Arts**](http://mcgyouthandarts.org/): Arts and career training center whose mission is to educate and inspire urban youth through the arts.
-- [**Millvale Community Library**](http://www.millvalelibrary.org/): A community-serving library that hosts weekly maker nights and other programs to engage and enrich the out-of-school time of Millvale children and youth.
-- [**The Pittsburgh Project**](http://pittsburghproject.org/): A Christian nonprofit community development organization that hosts service camps, youth development programs, and provides community outreach and services.
+- [**Millvale Community Library**](https://www.millvalelibrary.org/): A community-serving library that hosts weekly maker nights and other programs to engage and enrich the out-of-school time of Millvale children and youth.
+- [**The Pittsburgh Project**](https://pittsburghproject.org/): A Christian nonprofit community development organization that hosts service camps, youth development programs, and provides community outreach and services.
 
 ---
 

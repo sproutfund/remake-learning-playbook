@@ -2,7 +2,7 @@
 
 It’s one thing to plot people and organizations in an idealized network structure. The real challenge is developing a supportive infrastructure strong enough to guide that network forward, yet flexible enough to get out of the way and let the network members take the lead.
 
-The [Remake Learning Network](http://remakelearning.org/network) operates several programs and services to support innovative people and organizations in the greater Pittsburgh region.
+The [Remake Learning Network](https://remakelearning.org/network) operates several programs and services to support innovative people and organizations in the greater Pittsburgh region.
 
 We’ve organized these network support strategies into five action areas:
 
@@ -74,7 +74,7 @@ Networks rely on effective communications and the productive exchange of informa
 
 Create a recognizable identity for the network in the minds of its members and of outside observers. Naming the network, establishing a visual brand that can be shared by all members, and cultivating an authentic voice that can speak on behalf of the whole network are important early steps.
 
-Establish a “home base” for the network on the web and create a single destination for listing network members and organizations, collecting and sharing resources, and keeping members informed of upcoming events via a calendar. In Pittsburgh, [remakelearning.org](http://remakelearning.org) has become a one-stop shop for anyone interested in getting involved in the network. Our colleagues in New York and Chicago use [Minigroup](https://minigroup.com/) to enable direct peer-to-peer connections among [Hive Learning Network](https://hivelearningnetworks.org/) members.
+Establish a “home base” for the network on the web and create a single destination for listing network members and organizations, collecting and sharing resources, and keeping members informed of upcoming events via a calendar. In Pittsburgh, [remakelearning.org](https://remakelearning.org) has become a one-stop shop for anyone interested in getting involved in the network. Our colleagues in New York and Chicago use [Minigroup](https://minigroup.com/) to enable direct peer-to-peer connections among [Hive Learning Network](https://hivelearningnetworks.org/) members.
 
 The network itself can be a clearinghouse for news, editorials, information, and interpretation through blog posts, newsletters, and publications. You might not have many local stories to share at the start; consider syndicating posts from trusted news sources like [KQED Mind/Shift](http://ww2.kqed.org/mindshift/) or tweets from national thought leaders at the [DML Research Hub](http://dmlhub.net/). Establishing regular, robust communications methods for the network enhances the ability of members to engage and collaborate with one another and national peers.
 
@@ -120,7 +120,7 @@ Try to gather evidence of the network’s impact at each stage of its evolution 
 
 As your network grows, you’ll need to build widespread public awareness of how learning innovation can positively affect children and youth. By shining a spotlight on network members at public events and in the media, you can champion the impact of the network and highlight the accomplishments of young people who have participated in network programming.
 
-From art fairs and music festivals to holiday parades and heritage days, every community has its own slate of highly anticipated annual events that attract large numbers of children, youth, and families. These events are perfect opportunities to showcase the fun and engaging learning experiences offered by network members through interactive hands-on exhibits and learning pop-ups. You can also create a new must-attend activity by hosting signature events like [Maker Parties](https://teach.mozilla.org/events/) or [Mini Maker Faires](http://makerfaire.com/global/) that bring hundreds or thousands of families out to experience learning innovation in action.
+From art fairs and music festivals to holiday parades and heritage days, every community has its own slate of highly anticipated annual events that attract large numbers of children, youth, and families. These events are perfect opportunities to showcase the fun and engaging learning experiences offered by network members through interactive hands-on exhibits and learning pop-ups. You can also create a new must-attend activity by hosting signature events like [Maker Parties](https://teach.mozilla.org/events/) or [Mini Maker Faires](https://makerfaire.com/global/) that bring hundreds or thousands of families out to experience learning innovation in action.
 
 Awards and contests recognize excellence among the educators and innovators who make up the network. They also recognize the students who have been empowered and inspired by the innovative learning experiences offered by network members. Submit nominations and letters of recommendation for network members on applications that will garner national recognition for the member *and* the network.
 

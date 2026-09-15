@@ -216,34 +216,34 @@ The Remake Learning Network isn’t alone in its efforts to build new models for
 
 Check out some of these other national and global networks to find more resources and potential partners for building a learning innovation network in your community:
 
-- [**Alliance for Excellent Education**](http://all4ed.org): Promoting high school transformation to make it possible for every child to graduate prepared for success
+- [**Alliance for Excellent Education**](https://all4ed.org): Promoting high school transformation to make it possible for every child to graduate prepared for success
 - [**Aspen Education & Society Program**](http://www.aspeninstitute.org/policy-work/education-society): Advocacy research to inspire, inform, and influence education leaders across policy and practice, with an emphasis on equity
 - [**Badge Alliance**](http://www.badgealliance.org): A network of organizations and individuals working together to build and support an open digital badging ecosystem
-- [**Carnegie Foundation for the Advancement of Teaching**](http://www.carnegiefoundation.org): Studying how teachers learn to improve and address problems of practice through networked communities
+- [**Carnegie Foundation for the Advancement of Teaching**](https://www.carnegiefoundation.org): Studying how teachers learn to improve and address problems of practice through networked communities
 - [**Center for Youth Program Quality**](http://www.cypq.org): Empowers education and human service leaders to adapt, implement, and scale best-in-class quality improvement systems to advance youth development
 - [**Code.org**](https://code.org): A national campaign to ensure that every student in every school has the opportunity to learn computer science
-- [**Connected Learning Alliance**](http://clalliance.org): A network of organizations, projects &individuals helping spread &scale a learning vision designed for our times
+- [**Connected Learning Alliance**](https://clalliance.org): A network of organizations, projects &individuals helping spread &scale a learning vision designed for our times
 - [**Connected Mentor Framework**](http://connectedmentor.com): Hive Chicago initiative to create a common understanding and language around mentoring in out-of-school-time, and strengthen community networks of out-of-school mentors
 - [**Ed Tech Developer’s Guide**](http://tech.ed.gov/developers-guide/): A guide from the Office of Educational Technology for developers, startups, and entrepreneurs working on digital tools and apps for learning
 - [**Education Innovation Clusters**](http://tech.ed.gov/innovationclusters/): U.S. Department of Education effort to identify forward-thinking regions where commercial, academic, and education partners come together to accelerate innovation
 - [**Educator Innovator**](http://www.educatorinnovator.org): A growing community of educators and organizations who value open learning and whose interests and spirits exemplify connected learning, powered by the National Writing Project
-- [**Education Reimagined**](http://education-reimagined.org): An initiative dedicated to the realization of learner-centered education in America
+- [**Education Reimagined**](https://education-reimagined.org): An initiative dedicated to the realization of learner-centered education in America
 - [**Future Ready Schools**](http://www.futurereadyschools.org): Maximizing digital learning opportunities and helping school districts move quickly toward preparing students for success in college, a career, and citizenship
 - [**Hive Learning Networks**](https://www.hivelearningnetworks.org): A growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning, stewarded by the Mozilla Foundation
-- [**Kaboom Playful City USA**](http://kaboom.org/playability/playful_city_usa): A national recognition program that honors communities for taking bold steps that make it easy for all kids to get the balanced and active play they need to thrive
-- [**The League of Innovative Schools**](http://www.digitalpromise.org/initiatives/league-of-innovative-schools): A national coalition of school districts who are improving student outcomes through learning technology and education research, led by Digital Promise
-- [**LEAP Collaboratory**](http://www.leapinnovations.org/leap-collaboratory): A physical space designed to bring together innovators of all kinds to learn about and scale the use of personalized learning practices and tools
-- [**LRNG**](http://www.lrng.org): Bringing together schools, businesses, cities, community institutions, and foundations to create networks of learning that are open and inviting to all young people
+- [**Kaboom Playful City USA**](https://kaboom.org/playability/playful_city_usa): A national recognition program that honors communities for taking bold steps that make it easy for all kids to get the balanced and active play they need to thrive
+- [**The League of Innovative Schools**](https://www.digitalpromise.org/initiatives/league-of-innovative-schools): A national coalition of school districts who are improving student outcomes through learning technology and education research, led by Digital Promise
+- [**LEAP Collaboratory**](https://www.leapinnovations.org/leap-collaboratory): A physical space designed to bring together innovators of all kinds to learn about and scale the use of personalized learning practices and tools
+- [**LRNG**](https://www.lrng.org): Bringing together schools, businesses, cities, community institutions, and foundations to create networks of learning that are open and inviting to all young people
 - [**Make Schools**](http://make.xsead.cmu.edu): A community and resource hub for colleges and universities investigating the value and impact of maker culture on campus and in surrounding communities
 - [**Maker Cities**](http://www.makercities.net): A massively multiplayer game of civic hacking that empowers people to imagine and make the future of their city
-- [**Maker Ed**](http://makered.org): Empowering educators and communities— particularly, those in underserved areas—as they facilitate meaningful making and learning experiences with youth
-- [**Mozilla Webmaker**](http://www.webmaker.org): An open-source initiative to help people across the world become informed creators of a free and open web
-- [**Next Generation Learning Challenges**](http://nextgenlearning.org): Offering grants, resources, and models for accelerating educational innovation to improve college readiness and completion in the US
+- [**Maker Ed**](https://makered.org): Empowering educators and communities— particularly, those in underserved areas—as they facilitate meaningful making and learning experiences with youth
+- [**Mozilla Webmaker**](https://www.webmaker.org): An open-source initiative to help people across the world become informed creators of a free and open web
+- [**Next Generation Learning Challenges**](https://nextgenlearning.org): Offering grants, resources, and models for accelerating educational innovation to improve college readiness and completion in the US
 - [**Partnership for 21st-century Learning**](http://www.p21.org): Collaboration and framework set by education, business, community, and government leaders so all learners can gain thrive in a world where learning never stops
-- [**Project Zero**](http://pz.harvard.edu): An educational research group at Harvard Graduate School of Education exploring intelligence, understanding, thinking, and creativity
+- [**Project Zero**](https://pz.harvard.edu): An educational research group at Harvard Graduate School of Education exploring intelligence, understanding, thinking, and creativity
 - [**ReDesign Challenge**](http://redesignchallenge.org): An online workshop in innovation where teachers, coaches, and administrators tackle K-12’s toughest challenges
-- [**STEM Ecosystems**](http://www.stemecosystems.org): Providing the architecture for crosssector learning, offering all young people access to STEMrich learning environments throughout preK-16 education
-- [**Strive Together**](http://www.strivetogether.org): A national movement to improve education for every child, from cradle to career
-- [**Teacher Powered Schools**](http://www.teacherpowered.org): Empowering teacher teams to take charge in their schools or to design and run new schools
+- [**STEM Ecosystems**](https://www.stemecosystems.org): Providing the architecture for crosssector learning, offering all young people access to STEMrich learning environments throughout preK-16 education
+- [**Strive Together**](https://www.strivetogether.org): A national movement to improve education for every child, from cradle to career
+- [**Teacher Powered Schools**](https://www.teacherpowered.org): Empowering teacher teams to take charge in their schools or to design and run new schools
 - [**Third Teacher+**](http://thethirdteacherplus.com): A multidisciplinary team of global thought leaders and individuals exploring design as a powerful driver of organizational learning and change
 - [**YouMedia Network**](http://www.youmedia.org): A national network expanding the reach and impact of the Learning Lab model, transforming libraries and informal learning spaces for new kinds of thinking

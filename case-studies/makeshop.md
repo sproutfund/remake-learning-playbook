@@ -6,11 +6,11 @@
 
 *MAKESHOP at the Children’s Museum of Pittsburgh creates space for kids to use their hands and minds to bring ideas to life.*
 
-In 2010, Children’s Museum director [Jane Werner](http://remakelearning.org/person/werner-jane/) and [Drew Davidson](http://remakelearning.org/person/davidson-drew/) from Carnegie Mellon’s Entertainment Technology Center ( [ETC](http://remakelearning.org/organization/carnegie-mellon/etc/)), got to chatting at a network event. They started discussing the Maker Movement and the ways in which increasing access to physical and digital tools and techniques may enable children and youth to express their interests and make almost anything. They wondered what would happen if they developed a space in the [Children’s Museum of Pittsburgh](http://remakelearning.org/organization/childrens-museum/) where visitors could explore, imagine, and create through making as a learning process. Not only would it enhance the educational value of the Museum’s offerings, it would bring more children and families through the doors and encourage them to stay for longer.
+In 2010, Children’s Museum director [Jane Werner](https://remakelearning.org/person/werner-jane/) and [Drew Davidson](https://remakelearning.org/person/davidson-drew/) from Carnegie Mellon’s Entertainment Technology Center ( [ETC](https://remakelearning.org/organization/carnegie-mellon/etc/)), got to chatting at a network event. They started discussing the Maker Movement and the ways in which increasing access to physical and digital tools and techniques may enable children and youth to express their interests and make almost anything. They wondered what would happen if they developed a space in the [Children’s Museum of Pittsburgh](https://remakelearning.org/organization/childrens-museum/) where visitors could explore, imagine, and create through making as a learning process. Not only would it enhance the educational value of the Museum’s offerings, it would bring more children and families through the doors and encourage them to stay for longer.
 
-In partnership with the ETC and the University of Pittsburgh Center for Learning in Out-of-School Environments ( [UPCLOSE](http://remakelearning.org/organization/pitt/upclose/)), the Children’s Museum began prototyping programs in electronics, sewing, woodworking, and digital media and studying how children and families engaged in hands-on maker learning.
+In partnership with the ETC and the University of Pittsburgh Center for Learning in Out-of-School Environments ( [UPCLOSE](https://remakelearning.org/organization/pitt/upclose/)), the Children’s Museum began prototyping programs in electronics, sewing, woodworking, and digital media and studying how children and families engaged in hands-on maker learning.
 
-[Dr. Lisa Brahms](http://remakelearning.org/person/brahms-lisa/) is the Director of Learning and Research at the Museum. Dr. Brahms began her work in the Museum as an UPCLOSE research fellow studying the development of [MAKESHOP](http://remakelearning.org/project/makeshop/) from its earliest stage to its current status as a permanent exhibit for hands-on learning. She now leads the effort to understand and develop the Museum as a place of informal learning.
+[Dr. Lisa Brahms](https://remakelearning.org/person/brahms-lisa/) is the Director of Learning and Research at the Museum. Dr. Brahms began her work in the Museum as an UPCLOSE research fellow studying the development of [MAKESHOP](https://remakelearning.org/project/makeshop/) from its earliest stage to its current status as a permanent exhibit for hands-on learning. She now leads the effort to understand and develop the Museum as a place of informal learning.
 
 Four years later, MAKESHOP is a fully-staffed, permanent exhibit offering ongoing programs for children, youth, adults, and educators. Tailoring the visitors’ experiences to their interests, MAKESHOP encourages exploration, creativity, and play by offering access to the materials, tools, and processes of making.
 
@@ -20,7 +20,7 @@ Four years later, MAKESHOP is a fully-staffed, permanent exhibit offering ongoin
 
 The purpose of MAKESHOP is to challenge and nurture creativity by offering experiences with real materials and real tools that match visitors’ interests. The people, or educators, are key to the ongoing success of MAKESHOP, and identifying educators who are also skilled makers has proved essential. MAKESHOP educators continue to work hard to prototype how access to various tools, materials, process, and ideas affect the design of visitor learning experiences and facilitation.
 
-The results of MAKESHOP’s careful process have been significant. At the Children’s Museum, attendance is up since MAKESHOP’s inception, and the average age of child-visitors has increased. Families’ engagement is noticeably deeper and prolonged. Through partnerships and outreach with schools, libraries, and out-of-school learning sites, the Children’s Museum has helped these organizations grow educator capacity and integrate making in meaningful ways. Through its annual [Maker Educator Boot Camp](https://pittsburghkids.org/education/maker-educator-bootcamp), the Museum has provided educators with maker-based professional development opportunities that can be put to use in the classroom. MAKESHOP has also partnered with the [Maker Education Initiative](http://makered.org/) to host and train Maker Corps members who can facilitate making experiences across the region.
+The results of MAKESHOP’s careful process have been significant. At the Children’s Museum, attendance is up since MAKESHOP’s inception, and the average age of child-visitors has increased. Families’ engagement is noticeably deeper and prolonged. Through partnerships and outreach with schools, libraries, and out-of-school learning sites, the Children’s Museum has helped these organizations grow educator capacity and integrate making in meaningful ways. Through its annual [Maker Educator Boot Camp](https://pittsburghkids.org/education/maker-educator-bootcamp), the Museum has provided educators with maker-based professional development opportunities that can be put to use in the classroom. MAKESHOP has also partnered with the [Maker Education Initiative](https://makered.org/) to host and train Maker Corps members who can facilitate making experiences across the region.
 
 Now MAKESHOP is reaching beyond the walls of the Museum, working with schools and out-of-school educators to develop engaging, effective, and evidence-based maker learning opportunities for a diverse array of the region’s kids.
 
@@ -30,7 +30,7 @@ Now MAKESHOP is reaching beyond the walls of the Museum, working with schools an
 
 More than 100 teachers participated in the 2013-2014 Maker Education Boot Camp Program, with more than 70% reporting significant or transformative change in their professional practice as a result.
 
-In 2014, the Children’s Museum began a cooperative project with the [Institute of Museum & Library Sciences](http://www.imls.gov/) to create a national framework which identifies the key elements that support learning in museum and library makerspaces.
+In 2014, the Children’s Museum began a cooperative project with the [Institute of Museum & Library Sciences](https://www.imls.gov/) to create a national framework which identifies the key elements that support learning in museum and library makerspaces.
 
 In 2012, the Children’s Museum received a $440,000 grant from IMLS to conduct foundational research on family learning in museum makerspaces.
 
@@ -40,7 +40,7 @@ In 2012, the Children’s Museum received a $440,000 grant from IMLS to conduct 
 
 In the spirit of sharing resources, the Learning and Research team has worked with MAKESHOP staff to identify seven core learning practices that empirically describe children’s engagement in MAKESHOP—inquire, tinker, seek and share resources, hack and repurpose, express intention, develop fluency, and ’simplify to complexify’—creating a common language around making as a learning process.
 
-This important network research has created definitions to help maker educators both in the [Remake Learning Network](http://remakelearning.org) and elsewhere deepen their understanding of making and translate the practices of MAKESHOP to other contexts.
+This important network research has created definitions to help maker educators both in the [Remake Learning Network](https://remakelearning.org) and elsewhere deepen their understanding of making and translate the practices of MAKESHOP to other contexts.
 
 ## Persons of Interest
 
@@ -70,15 +70,15 @@ Lisa has overseen the development of MAKESHOP as not only an effective learning 
 
 ## More Information
 
-If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](http://remakelearning.org/person/brahms-lisa/).
+If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](https://remakelearning.org/person/brahms-lisa/).
 
 ### Downloadable Materials
 
-- [**Building and Sustaining a Thriving Maker Hub**](http://makered.org/wp-content/uploads/2014/12/Building-and-Sustaining-a-Thriving-Maker-Hub.pdf): Case study describing various programs in Pittsburgh doing pioneering work in the maker education field.
+- [**Building and Sustaining a Thriving Maker Hub**](https://makered.org/wp-content/uploads/2014/12/Building-and-Sustaining-a-Thriving-Maker-Hub.pdf): Case study describing various programs in Pittsburgh doing pioneering work in the maker education field.
 - [**MAKESHOP’s YouTube Playlists**](https://www.youtube.com/user/pghmakeshop/playlists): Interviews with educators and student makers and video documentation produced by MAKESHOP about the space and process.
 - [**The Learning Practices of Making: An Evolving Framework for Design**](http://makeshoppgh.com/wp-content/uploads/2015/02/MAKESHOP-Learning-Practices-formatted_FINAL_Feb-2015.pdf): In-depth description of MAKESHOP’s Learning Practices.
 - [**Make a Makerspace**](http://makeshoppgh.com/resources/make-a-makerspace/): MAKESHOP’s recommendations for the design and development of making experiences for learning.
-- [**Makerspace Playbook**](http://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf)**:** A resource for teachers, parents, and makers to make it easier to launch a space and get a program up and running.
+- [**Makerspace Playbook**](https://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf)**:** A resource for teachers, parents, and makers to make it easier to launch a space and get a program up and running.
 - [**Handmade in MAKESHOP**](https://s3.amazonaws.com/cmop_production/downloads/256/CMP_MakeShop_Catalog_2015_web_3_.pdf): A catalog of MAKESHOP’s offerings, activities, exhibits, and furnishings.
 
 ### Online Resources
@@ -91,9 +91,9 @@ If you’re interested in learning more about MAKESHOP, contact [Lisa Brahms](ht
 
 ### Related Projects & Partners
 
-- [**The Maker’s Place**](http://themakersplace.org/): An entrepreneurship, science, technology, engineering, art and math focused out-of-school time program in Pittsburgh.
-- [**TechShop Pittsburgh**](http://www.techshop.ws/pittsburgh.html): A community-based workshop and prototyping studio on a mission to democratize access to the tools of innovation.
-- [**Hilltop YMCA Creator Space**](http://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space/): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
+- [**The Maker’s Place**](https://themakersplace.org/): An entrepreneurship, science, technology, engineering, art and math focused out-of-school time program in Pittsburgh.
+- [**TechShop Pittsburgh**](https://www.techshop.ws/pittsburgh.html): A community-based workshop and prototyping studio on a mission to democratize access to the tools of innovation.
+- [**Hilltop YMCA Creator Space**](https://www.ymcaofpittsburgh.org/hilltop-ymca/ymca-creator-space/): An out-of-school space designated to teach STEM (Science, Engineering, Technology, and Math) concepts to local youth through making.
 - [**Manchester Craftsmen’s Guild Youth & Arts**](http://mcgyouthandarts.org/): Arts and career training center whose mission is to educate and inspire urban youth through the arts.
 
 ---

@@ -6,11 +6,11 @@
 
 *The Children’s Innovation Project approaches technology as raw material to support broad interdisciplinary learning for children to develop habits of mind as innovators.*
 
-The [Children’s Innovation Project](http://remakelearning.org/project/childrens-innovation-project/) began in 2010 when [CREATE Lab](http://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/) resident artist, [Jeremy Boyle](http://remakelearning.org/person/boyle-jeremy/) and Kindergarten teacher, [Melissa Butler](http://remakelearning.org/person/butler-melissa/) partnered to explore the question: “What might meaningful technology learning look like for young children?” Working together at [Pittsburgh Allegheny K-5](http://remakelearning.org/organization/pittsburgh-allegheny-k-5/), the pair began co-creating a learning progression of language-logic opportunities for children to deeply explore the material of technology.
+The [Children’s Innovation Project](https://remakelearning.org/project/childrens-innovation-project/) began in 2010 when [CREATE Lab](https://remakelearning.org/organization/carnegie-mellon/carnegie-mellon-school-computer-science/robotics-institute/create-lab/) resident artist, [Jeremy Boyle](https://remakelearning.org/person/boyle-jeremy/) and Kindergarten teacher, [Melissa Butler](https://remakelearning.org/person/butler-melissa/) partnered to explore the question: “What might meaningful technology learning look like for young children?” Working together at [Pittsburgh Allegheny K-5](https://remakelearning.org/organization/pittsburgh-allegheny-k-5/), the pair began co-creating a learning progression of language-logic opportunities for children to deeply explore the material of technology.
 
 With the Children’s Innovation Project, children explore and learn about electricity and simple circuits through hands-on engagement with [Circuit Blocks](http://www.ciplearningstore.com/circuit-block-sets/) and other raw materials, developing habits of mind to notice—wonder—persist. Children make connections to objects in their world—specifically through imagining about the insides of electronic toys, opening them to notice carefully, identifying components, and then repurposing and reconfiguring their internal components into new circuits and new ideas. Approaching technology as raw material allows technology to be a means to learning, not an end.
 
-The pair began collaborating on various arts-integration projects back in 2003, when Boyle was Resident Artist at the [Mattress Factory](http://remakelearning.org/organization/mattress-factory/). Since 2010, they have focused on what they see as ’depth of possibility in broader interdisciplinary learning’ for children to develop precision of language, collaboration, and flexibility and fearlessness in problem solving.
+The pair began collaborating on various arts-integration projects back in 2003, when Boyle was Resident Artist at the [Mattress Factory](https://remakelearning.org/organization/mattress-factory/). Since 2010, they have focused on what they see as ’depth of possibility in broader interdisciplinary learning’ for children to develop precision of language, collaboration, and flexibility and fearlessness in problem solving.
 
 Learning with the Children’s Innovation Project is for all children, not for enrichment groups or special pull-out programs.
 
@@ -34,13 +34,13 @@ Pittsburgh Allegheny K-5 is a Pittsburgh Public School where 97% of the students
 
 In 2010, the Children’s Innovation Project began with 20 students in one Kindergarten classroom at Pittsburgh Allegheny K-5.
 
-In 2015, more than 300 students, 11 teachers, and 8 Teaching Fellows participate in the project at Allegheny and 28 students, 2 teachers, and 1 Teaching Fellow participate at [Pittsburgh Arsenal K-5](http://remakelearning.org/organization/arsenal-elementary-school/).
+In 2015, more than 300 students, 11 teachers, and 8 Teaching Fellows participate in the project at Allegheny and 28 students, 2 teachers, and 1 Teaching Fellow participate at [Pittsburgh Arsenal K-5](https://remakelearning.org/organization/arsenal-elementary-school/).
 
 ## Network in Action
 
 **Mini-grants support early-stage projects. (Catalyze)**
 
-Providing funding for new and innovative learning programs is an essential service of the [Remake Learning Network](http://remakelearning.org).
+Providing funding for new and innovative learning programs is an essential service of the [Remake Learning Network](https://remakelearning.org).
 
 In 2011, Children’s Innovation Project received a [Spark award from The Sprout Fund](https://www.sproutfund.org/program/spark/), a Pittsburgh nonprofit that provides catalytic funding for early learning programs that help children develop hands-on skills and digital literacies. With support from Sprout, project co-directors Melissa Butler and Jeremy Boyle were able to focus on developing the project with the students in Butler’s kindergarten classroom. This early work set them up for iteration, learning, and growth.
 
@@ -72,7 +72,7 @@ Since first beginning in Melissa’s classroom, the project has grown to serve m
 
 ## More Information
 
-If you’re interested in learning more about Children’s Innovation Project, contact [Melissa Butler](http://remakelearning.org/person/butler-melissa/) and [Jeremy Boyle](http://remakelearning.org/person/boyle-jeremy/).
+If you’re interested in learning more about Children’s Innovation Project, contact [Melissa Butler](https://remakelearning.org/person/butler-melissa/) and [Jeremy Boyle](https://remakelearning.org/person/boyle-jeremy/).
 
 ### Downloadable Materials
 
@@ -85,16 +85,16 @@ If you’re interested in learning more about Children’s Innovation Project, c
 
 - [**Children’s Innovation Project Website**](http://www.cippgh.org/): Project website, which includes descriptions of the project, who is involved, contact information, etc.
 - [**Children’s Innovation Project—Theoretical Frame**](http://www.cippgh.org/theoretical-frame/): Description of the project’s seven-part theoretical framework.
-- [**Tech Integration Checklist**](http://www.fredrogerscenter.org/media/resources/Tech_Integration_Checklist_-_Final.pdf): Checklist for identifying exemplary uses of technology and interactive digital media for early learning; developed by the Pennsylvania Digital Media Literacy Project.
-- [**Framework for Quality in Digital Media for Young Children**](http://www.fredrogerscenter.org/media/resources/Framework_Statement_2-April_2012-Full_Doc+Exec_Summary.pdf): Considerations for parents, educators, and media creators; developed by the Fred Rogers Center for Early Learning and Children’s Media.
+- [**Tech Integration Checklist**](https://www.fredrogerscenter.org/media/resources/Tech_Integration_Checklist_-_Final.pdf): Checklist for identifying exemplary uses of technology and interactive digital media for early learning; developed by the Pennsylvania Digital Media Literacy Project.
+- [**Framework for Quality in Digital Media for Young Children**](https://www.fredrogerscenter.org/media/resources/Framework_Statement_2-April_2012-Full_Doc+Exec_Summary.pdf): Considerations for parents, educators, and media creators; developed by the Fred Rogers Center for Early Learning and Children’s Media.
 
 ### Related Projects & Partners
 
 - [**Fred Rogers Center Early Learning Environment**](http://ele.fredrogerscenter.org/): Online toolkit and community for early learning technology.
-- [**Arts & Bots**](http://artsandbots.posthaven.com/): A program in middle and elementary schools, kindergartens, and afterschool programs that engages students with robotics and authoring technology.
-- [**Baby Promise**](http://kingsleyassociation.org/family/baby-promise/): An interactive early learning program hosted by the Kingsley Association that connects underserved families in Pittsburgh’s East End communities with educational resources.
-- [**Message from Me**](http://www.messagefromme.org/): A tool (currently in the pilot stage) which enables young children to get experience communicating with others using digital technologies.
-- [**CMU CREATE Lab**](http://www.cmucreatelab.org/): The Community Robotics, Education and Technology Empowerment Lab; explores the deployment of robotic technologies in socially meaningful ways to empower a technologically fluent generation.
+- [**Arts & Bots**](https://artsandbots.posthaven.com/): A program in middle and elementary schools, kindergartens, and afterschool programs that engages students with robotics and authoring technology.
+- [**Baby Promise**](https://kingsleyassociation.org/family/baby-promise/): An interactive early learning program hosted by the Kingsley Association that connects underserved families in Pittsburgh’s East End communities with educational resources.
+- [**Message from Me**](https://www.messagefromme.org/): A tool (currently in the pilot stage) which enables young children to get experience communicating with others using digital technologies.
+- [**CMU CREATE Lab**](https://www.cmucreatelab.org/): The Community Robotics, Education and Technology Empowerment Lab; explores the deployment of robotic technologies in socially meaningful ways to empower a technologically fluent generation.
 
 ---
 

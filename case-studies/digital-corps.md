@@ -8,7 +8,7 @@
 
 The effects of the digital age are sweeping across the globe, transforming industries, and changing how people interact with the world around them. Kids engage with games, apps, and social networks all day long, and most of them are eager to learn more about what goes into that technology. Still, despite the ubiquity of computing and the need to prepare children for tomorrow’s workforce, most K-12 schools in the United States don’t teach computer science, and most out-of-school programs lack the capacity to teach digital literacy skills effectively.
 
-In response to this digital literacy gap, [The Sprout Fund](http://remakelearning.org/organization/sprout-fund/), the steward of the [Remake Learning Network](http://remakelearning.org) in Pittsburgh, partnered with Allegheny Partners for Out-of-School Time ( [APOST](http://remakelearning.org/organization/allegheny-partners-for-out-of-school-time-apost/)), a United Way agency supporting out-of-school educators, to launch the [Digital Corps](http://remakelearning.org/project/digital-corps/). The program recruits and trains mentors in digital literacy and matches them with out-of-school learning sites throughout the city and county.
+In response to this digital literacy gap, [The Sprout Fund](https://remakelearning.org/organization/sprout-fund/), the steward of the [Remake Learning Network](https://remakelearning.org) in Pittsburgh, partnered with Allegheny Partners for Out-of-School Time ( [APOST](https://remakelearning.org/organization/allegheny-partners-for-out-of-school-time-apost/)), a United Way agency supporting out-of-school educators, to launch the [Digital Corps](https://remakelearning.org/project/digital-corps/). The program recruits and trains mentors in digital literacy and matches them with out-of-school learning sites throughout the city and county.
 
 > We all have a role to play ensuring all our students are equipped with the digital literacy skills they’ll need for their future.
 >
@@ -18,13 +18,13 @@ The Sprout Fund recruits a wide range of professionals from a variety of fields 
 
 In partnership with APOST, Sprout seeks host sites that are trusted members of their community and attract a steady afterschool population of tweens and teens. Ranging from established organizations like YMCAs, libraries, and churches to smaller neighborhood organizations, the Digital Corps provides everything needed for a successful session: the tech tools, the mobile Wi-Fi, even the snacks.
 
-During each 90-minute Digital Corps session, participating youth can pursue learning tracks in Creative Computing, Webmaking, and Mobile Media. Through Creative Computing projects, students use [Scratch](http://remakelearning.org/resource/scratch/), [MaKey MaKey](http://remakelearning.org/resource/makey-makey/), and [Hummingbird Robotics Kits](http://remakelearning.org/resource/hummingbird/) to explore conductivity, engineering, and design. When focusing on Webmaking, students use [Mozilla Webmaker](https://webmaker.org/en-US) to learn HTML structure, web design, and storytelling. And when making Mobile Media, students use [Mozilla App Maker](https://apps.webmaker.org/designer) and MIT’s [App Inventor](http://remakelearning.org/resource/app-inventor/) to learn mobile design techniques, grid-math, and programming languages.
+During each 90-minute Digital Corps session, participating youth can pursue learning tracks in Creative Computing, Webmaking, and Mobile Media. Through Creative Computing projects, students use [Scratch](https://remakelearning.org/resource/scratch/), [MaKey MaKey](https://remakelearning.org/resource/makey-makey/), and [Hummingbird Robotics Kits](https://remakelearning.org/resource/hummingbird/) to explore conductivity, engineering, and design. When focusing on Webmaking, students use [Mozilla Webmaker](https://webmaker.org/en-US) to learn HTML structure, web design, and storytelling. And when making Mobile Media, students use [Mozilla App Maker](https://apps.webmaker.org/designer) and MIT’s [App Inventor](https://remakelearning.org/resource/app-inventor/) to learn mobile design techniques, grid-math, and programming languages.
 
 Digital Corps curricula not only teach technical skills, but also foster 21st century skills-development, teaching kids how critical thinking, communication, collaboration, and creativity are interconnected. Youth learn to ask questions (of each other and of instructors) and delve into support resources online to find and fix bugs in their own projects.
 
-Each Digital Corps session is taught “studio” style, so teens are creating something tangible every week. “Learning by doing is a great method to get students asking questions, troubleshooting, and figuring things out together,” says [Ani Martinez](http://remakelearning.org/person/martinez-ani/), Digital Corps program associate at The Sprout Fund.
+Each Digital Corps session is taught “studio” style, so teens are creating something tangible every week. “Learning by doing is a great method to get students asking questions, troubleshooting, and figuring things out together,” says [Ani Martinez](https://remakelearning.org/person/martinez-ani/), Digital Corps program associate at The Sprout Fund.
 
-To help track the progress made by participating youth, Martinez and Digital Corps members have developed 20 [digital badges](http://remakelearning.org/blog/2014/11/19/digital-badges-give-credit-where-credit-is-due/) that students can earn in recognition of the knowledge they gain and the new skills they develop through the Digital Corps.
+To help track the progress made by participating youth, Martinez and Digital Corps members have developed 20 [digital badges](https://remakelearning.org/blog/2014/11/19/digital-badges-give-credit-where-credit-is-due/) that students can earn in recognition of the knowledge they gain and the new skills they develop through the Digital Corps.
 
 *by Katy Rank-Lev*
 
@@ -70,11 +70,11 @@ Jomari partnered tapped into the Remake Learning Network to partner with the Dig
 
 ## More Information
 
-If you’re interested in learning more about the Digital Corps, contact [Ani Martinez](http://remakelearning.org/person/martinez-ani/).
+If you’re interested in learning more about the Digital Corps, contact [Ani Martinez](https://remakelearning.org/person/martinez-ani/).
 
 ### Downloadable Materials
 
-- [Mentoring Manual for Digital Literacy coaches](http://www.scribd.com/fullscreen/241612718?access_key=key-Bg478gqESrAGRd9vGINd&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll): Guide for being an effective youth mentor, adapted to the needs of digital learning coaches.
+- [Mentoring Manual for Digital Literacy coaches](https://www.scribd.com/fullscreen/241612718?access_key=key-Bg478gqESrAGRd9vGINd&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll): Guide for being an effective youth mentor, adapted to the needs of digital learning coaches.
 - [Guide for facilitating Digital Literacy workshops](https://theanimal.makes.org/thimble/MTYzMzIyMjkxMg==/facilitating-digital-corps-workshops): Teaching kit designed to help Digital Corps members structure their facilitation process.
 - Digital Literacy Passport: A printed booklet learners can use to keep track of what they learn and reflect on their new skills. (*forthcoming*)
 - [Creative Computing Teaching Kit](https://theanimal.makes.org/thimble/LTE4NDI4MDY1Mjg=/computation-creation-with-scratch-teaching-kit): Curriculum for teaching computational creation using Scratch, MaKeyMaKey, and Hummingbird.
@@ -85,16 +85,16 @@ If you’re interested in learning more about the Digital Corps, contact [Ani Ma
 
 - [The Digital Corps online](https://www.sproutfund.org/program/digital-corps/): Digital Corps home website.
 - [Mozilla Webmaker](https://webmaker.org/en-US): Mozilla’s open-source educational initiative to “help millions of people move from using the web to making the web.”
-- [ScratchEd](http://scratched.gse.harvard.edu/): An online community for Scratch educators.
+- [ScratchEd](https://scratched.gse.harvard.edu/): An online community for Scratch educators.
 - [Hummingbird Teaching Community](http://www.hummingbirdkit.com/community): An online community for Hummingbird educators.
-- [Digital Learning Tool Catalog](http://remakelearning.org/tools/): Remake Learning’s compilation of free, low-cost and open-source digital literacy learning tools.
+- [Digital Learning Tool Catalog](https://remakelearning.org/tools/): Remake Learning’s compilation of free, low-cost and open-source digital literacy learning tools.
 
 ### Related Projects & Partners
 
 - [Tinker Squads](http://www.tinkersquads.org/): A similarly-modeled Pittsburgh afterschool program for girls centered on making and creativity.
 - [Mobile App Lab](https://sites.google.com/a/mobileapplab.org/mobile-app-lab/): An afterschool computer lab implemented to improve youth programming skills and build capacity within schools to teach programming.
-- [Computer Science Student Network](http://cs2n.org/): A collaborative research project between Carnegie Mellon University and the Defense Advanced Research Projects Agency designed to encourage student engagement in computer science, science, technology, engineering, and mathematics.
-- [Arts & Bots](http://artsandbots.posthaven.com/): A program in middle and elementary schools, kindergartens, and afterschool programs that uses Hummingbird Robotics Kits to engage young people in creative technology projects.
+- [Computer Science Student Network](https://cs2n.org/): A collaborative research project between Carnegie Mellon University and the Defense Advanced Research Projects Agency designed to encourage student engagement in computer science, science, technology, engineering, and mathematics.
+- [Arts & Bots](https://artsandbots.posthaven.com/): A program in middle and elementary schools, kindergartens, and afterschool programs that uses Hummingbird Robotics Kits to engage young people in creative technology projects.
 
 ---
 

@@ -46,7 +46,7 @@ Participants learned about digital badges and explored ways to connect in-school
 
 ## More Information
 
-If you’re interested in learning more about City of Learning, contact [Tim Cook](http://remakelearning.org/person/cook-tim/).
+If you’re interested in learning more about City of Learning, contact [Tim Cook](https://remakelearning.org/person/cook-tim/).
 
 ---
 
